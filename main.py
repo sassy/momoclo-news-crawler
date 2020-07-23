@@ -41,11 +41,8 @@ def main():
         "updated": date.today().strftime("%Y/%m/%d"),
         "news": news
     }
-    data = json.dumps(output, ensure_ascii=False, indent=4)
     with open('data/news.json', mode="w") as f:
-        f.write(data)
-    print(data)
-
+        json.dump(output, f, ensure_ascii=False, indent=4)
 
 if __name__ == '__main__':
     main()
