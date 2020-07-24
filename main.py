@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 import json
 from datetime import date
 
-base_url = 'https://www.momoclo.net/'
+base_url = 'https://www.momoclo.net'
 news_url = base_url + '/news/'
 
 def get_date_for_momoclo_page(dt):
