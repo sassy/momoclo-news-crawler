@@ -3,6 +3,11 @@
     "news": [
         {
             "date": "2020/08/02",
+            "title": "【Movie】「ライブその後に」 2020.8.2「ももクロ夏のバカ騒ぎ2020 配信先からこんにちは」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=5811"
+        },
+        {
+            "date": "2020/08/02",
             "title": "【チケットはこちらから！】＜8/2(日)17:30～ABEMA独占生配信＞「ももクロ夏のバカ騒ぎ2020 配信先からこんにちは」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=5789"
         },
@@ -45,11 +50,6 @@
             "date": "2020/07/31",
             "title": "「JフェスアプリでROCK IN JAPAN」にももクロの参加が決定！配信楽曲は「The Diamond Four」！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=5803"
-        },
-        {
-            "date": "2020/07/30",
-            "title": "「ももクロ夏のバカ騒ぎ2020 配信先からこんにちは」グッズ販売決定！さらに「ももいろクローバーZ 2020 笑成神祭」グッズの第2次販売も同時スタート！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=5802"
         }
     ]
 }
