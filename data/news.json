@@ -1,6 +1,11 @@
 {
-    "updated": "2020/08/11",
+    "updated": "2020/08/12",
     "news": [
+        {
+            "date": "2020/08/12",
+            "title": "ももくろちゃんZ『ももくろちゃんZオンライン教室』の「こうさく」を公開！",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=5825"
+        },
         {
             "date": "2020/08/11",
             "title": "＜2020年7月号発行！＞AE会員様だけのお楽しみ！「MONTHLY PDF」",
@@ -45,11 +50,6 @@
             "date": "2020/08/06",
             "title": "＜8/7(金)より先行予約開始！＞『ももクロ笑成Ｚ（ももクロエナジー）』 数量限定発売決定！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=5815"
-        },
-        {
-            "date": "2020/08/06",
-            "title": "【夏季休業のご案内】ANGEL EYESインフォメーション・ももクロチケット",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=5816"
         }
     ]
 }
