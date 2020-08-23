@@ -1,6 +1,11 @@
 {
-    "updated": "2020/08/22",
+    "updated": "2020/08/23",
     "news": [
+        {
+            "date": "2020/08/23",
+            "title": "ももくろちゃんZ『ももくろちゃんZオンライン教室』の「ことばあそび②」を公開！",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=5841"
+        },
         {
             "date": "2020/08/21",
             "title": "あーりんプロデュースブランド『Chubby Bunny（チュビー・バニー）』第3弾緊急速報！",
@@ -45,11 +50,6 @@
             "date": "2020/08/19",
             "title": "ももくろちゃんZ『ももくろちゃんZオンライン教室』の「おはなし②」を公開！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=5831"
-        },
-        {
-            "date": "2020/08/18",
-            "title": "佐々木彩夏プロデュース＜浪江女子発組合＞8月20日(木)「第1回浪江女子発組合会議」開催！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=5832"
         }
     ]
 }
