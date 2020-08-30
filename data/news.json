@@ -1,6 +1,11 @@
 {
-    "updated": "2020/08/29",
+    "updated": "2020/08/30",
     "news": [
+        {
+            "date": "2020/08/30",
+            "title": "ももくろちゃんZ『ももくろちゃんZオンライン教室』の「うんどう②」を公開！",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=5850"
+        },
         {
             "date": "2020/08/29",
             "title": "＜本日8/29(土)10:00より完全版配信スタート！＞「ももクロ夏のバカ騒ぎ2020 配信先からこんにちは」",
@@ -45,11 +50,6 @@
             "date": "2020/08/27",
             "title": "【Movie】百田夏菜子が雑誌「CAPA」の表紙に登場!!",
             "url": "https://www.momoclo.net/pub/pc/information/?id=5844"
-        },
-        {
-            "date": "2020/08/26",
-            "title": "＜本日8/26(水)より発売！＞『ももいろクローバーZ　オリジナルおせち』第2弾発売決定！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=5829"
         }
     ]
 }
