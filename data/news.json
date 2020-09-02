@@ -1,6 +1,11 @@
 {
-    "updated": "2020/09/01",
+    "updated": "2020/09/02",
     "news": [
+        {
+            "date": "2020/09/02",
+            "title": "ももくろちゃんZ『ももくろちゃんZオンライン教室』の「のうトレ②」を公開！",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=5854"
+        },
         {
             "date": "2020/09/01",
             "title": "＜開催延期及びアナザーストーリー生配信のお知らせ＞「永野と高城。4」",
@@ -45,11 +50,6 @@
             "date": "2020/08/29",
             "title": "【Photo Report更新！】",
             "url": "https://www.momoclo.net/pub/pc/information/?id=5848"
-        },
-        {
-            "date": "2020/08/28",
-            "title": "＜8/30(日)19:00〜生配信!!＞「SOPHISTANCE」公式YouTubeチャンネルにて、リモートトークライブ第四弾！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=5847"
         }
     ]
 }
