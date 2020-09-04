@@ -1,6 +1,11 @@
 {
-    "updated": "2020/09/03",
+    "updated": "2020/09/04",
     "news": [
+        {
+            "date": "2020/09/04",
+            "title": "＜9/19(土)出演決定！＞「イナズマロック フェス 2020」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=5856"
+        },
         {
             "date": "2020/09/02",
             "title": "ももくろちゃんZ『ももくろちゃんZオンライン教室』の「のうトレ②」を公開！",
@@ -45,11 +50,6 @@
             "date": "2020/08/29",
             "title": "＜本日8/29(土)10:00より完全版配信スタート！＞「ももクロ夏のバカ騒ぎ2020 配信先からこんにちは」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=5789"
-        },
-        {
-            "date": "2020/08/29",
-            "title": "【Photo Report更新！】",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=5848"
         }
     ]
 }
