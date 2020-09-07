@@ -1,6 +1,11 @@
 {
-    "updated": "2020/09/06",
+    "updated": "2020/09/07",
     "news": [
+        {
+            "date": "2020/09/07",
+            "title": "＜スケジュール＞09/07(月) ～ 09/13(日)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=5857"
+        },
         {
             "date": "2020/09/06",
             "title": "【Movie】「ライブその後に」 2020.9.6「黒フェス2020〜白黒歌合戦〜」",
@@ -45,11 +50,6 @@
             "date": "2020/09/01",
             "title": "＜佐々木彩夏出演決定！＞「第31回 マイナビ 東京ガールズコレクション 2020 AUTUMN/WINTER ONLINE」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=5855"
-        },
-        {
-            "date": "2020/08/31",
-            "title": "玉井詩織インタビュー掲載！「MONTHLY AE」8月号",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=5852"
         }
     ]
 }
