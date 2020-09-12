@@ -1,6 +1,11 @@
 {
-    "updated": "2020/09/11",
+    "updated": "2020/09/12",
     "news": [
+        {
+            "date": "2020/09/12",
+            "title": "【Movie】太田胃にゃん応援隊に就任しました！",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=5872"
+        },
         {
             "date": "2020/09/11",
             "title": "＜2020年8月号発行！＞AE会員様だけのお楽しみ！「MONTHLY PDF」",
@@ -45,11 +50,6 @@
             "date": "2020/09/09",
             "title": "＜本日9/9(水)19:00より第三弾が放送！＞ももいろクローバーZ ニコ生ライブ映像まつり！3ヶ月連続放送決定!!!",
             "url": "https://www.momoclo.net/pub/pc/information/?id=5804"
-        },
-        {
-            "date": "2020/09/09",
-            "title": "ももくろちゃんZ『ももくろちゃんZオンライン教室』の「おんがく②」を公開！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=5866"
         }
     ]
 }
