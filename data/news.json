@@ -3,6 +3,11 @@
     "news": [
         {
             "date": "2020/10/01",
+            "title": "＜開催地とのコラボグッズがぞくぞく登場！＞「ももクロ春の一大事2021」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=5903"
+        },
+        {
+            "date": "2020/10/01",
             "title": "【ももクロ10大発表】＜10/2(金)21:00からYoutubeで生配信＞『メンバースペシャル報告会』",
             "url": "https://www.momoclo.net/pub/pc/information/?id=5890"
         },
@@ -45,11 +50,6 @@
             "date": "2020/09/28",
             "title": "＜スケジュール＞09/28(月) ～ 10/04(日)",
             "url": "https://www.momoclo.net/pub/pc/information/?id=5892"
-        },
-        {
-            "date": "2020/09/27",
-            "title": "【9/27(日)情報更新】＜配信延期のお知らせ＞「SOPHISTANCE」公式YouTubeチャンネルにて、リモートトークライブ第五弾！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=5891"
         }
     ]
 }
