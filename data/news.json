@@ -3,13 +3,18 @@
     "news": [
         {
             "date": "2020/10/09",
-            "title": "＜本日10/9(金)より放送スタート！＞新番組『ももクロちゃんと！』",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=5870"
+            "title": "【10/9(金)情報更新：生配信・感染対策ガイドラインについて】＜浪江女子発組合＞10/31(土)立川公演チケット受付中！",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=5909"
         },
         {
-            "date": "2020/10/07",
-            "title": "【浪江女子発組合】10/31(土)立川公演チケット詳細決定！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=5909"
+            "date": "2020/10/09",
+            "title": "【10/9(金)情報更新】＜開催地とのコラボグッズがぞくぞく登場！＞「ももクロ春の一大事2021」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=5903"
+        },
+        {
+            "date": "2020/10/09",
+            "title": "＜本日10/9(金)より放送スタート！＞新番組『ももクロちゃんと！』",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=5870"
         },
         {
             "date": "2020/10/07",
@@ -45,11 +50,6 @@
             "date": "2020/10/02",
             "title": "【ももクロ10大発表】＜アーカイブ公開中！＞『メンバースペシャル報告会』",
             "url": "https://www.momoclo.net/pub/pc/information/?id=5890"
-        },
-        {
-            "date": "2020/10/02",
-            "title": "＜タイムテーブル公開！＞＜ももクロ＆佐々木彩夏＆浪江女子発組合が10/4(日)に出演決定！＞「TOKYO IDOL FESTIVAL オンライン 2020」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=5883"
         }
     ]
 }
