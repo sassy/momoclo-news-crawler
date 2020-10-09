@@ -1,6 +1,11 @@
 {
-    "updated": "2020/10/08",
+    "updated": "2020/10/09",
     "news": [
+        {
+            "date": "2020/10/09",
+            "title": "＜本日10/9(金)より放送スタート！＞新番組『ももクロちゃんと！』",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=5870"
+        },
         {
             "date": "2020/10/07",
             "title": "【浪江女子発組合】10/31(土)立川公演チケット詳細決定！",
@@ -45,11 +50,6 @@
             "date": "2020/10/02",
             "title": "＜タイムテーブル公開！＞＜ももクロ＆佐々木彩夏＆浪江女子発組合が10/4(日)に出演決定！＞「TOKYO IDOL FESTIVAL オンライン 2020」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=5883"
-        },
-        {
-            "date": "2020/10/02",
-            "title": "＜受付は終了しました＞あーりんプロデュースブランド『Chubby Bunny（チュビー・バニー）』第3弾「THE KISSコラボアクセサリー」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=5840"
         }
     ]
 }
