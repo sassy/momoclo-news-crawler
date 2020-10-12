@@ -1,6 +1,11 @@
 {
-    "updated": "2020/10/11",
+    "updated": "2020/10/12",
     "news": [
+        {
+            "date": "2020/10/12",
+            "title": "＜スケジュール＞10/12(月) ～ 10/18(日)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=5910"
+        },
         {
             "date": "2020/10/09",
             "title": "＜10/10(土)情報更新＞MSRS開催ガイドライン公開しました「浪江発立川へ 秋」",
@@ -45,11 +50,6 @@
             "date": "2020/10/02",
             "title": "ももクロ10大発表！！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=5905"
-        },
-        {
-            "date": "2020/10/02",
-            "title": "【ももクロ10大発表】＜アーカイブ公開中！＞『メンバースペシャル報告会』",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=5890"
         }
     ]
 }
