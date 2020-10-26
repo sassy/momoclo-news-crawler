@@ -1,6 +1,11 @@
 {
-    "updated": "2020/10/25",
+    "updated": "2020/10/26",
     "news": [
+        {
+            "date": "2020/10/26",
+            "title": "＜スケジュール＞10/26(月) ～ 11/01(日)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=5925"
+        },
         {
             "date": "2020/10/25",
             "title": "＜10/25(日)19:00から生配信!!＞「SOPHISTANCE」公式YouTubeチャンネルにて、リモートトークライブ第五弾！",
@@ -45,11 +50,6 @@
             "date": "2020/10/18",
             "title": "＜受注受付は終了しました＞スタプラ特別企画「STARDUST PLANET ECO BAG COLLECTION」発表！限定生写真がもらえるキャンペーンも！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=5913"
-        },
-        {
-            "date": "2020/10/17",
-            "title": "【次回は11/3(火祝)20:00から一緒にみよう再配信！】「生配信だシェー！永野と高城。Another Side -緊急ワークショップ宣言-」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=5887"
         }
     ]
 }
