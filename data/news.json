@@ -1,6 +1,11 @@
 {
-    "updated": "2020/11/05",
+    "updated": "2020/11/06",
     "news": [
+        {
+            "date": "2020/11/06",
+            "title": "＜見逃し配信のみチケットの受付スタート！＞ANGEL EYES限定生配信番組「ももクロチャンピオンカーニバル2020」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=5922"
+        },
         {
             "date": "2020/11/05",
             "title": "【ANGEL EYES会員様限定！10名様に舞台挨拶付き特別鑑賞券が当たる！】映画『魔女見習いをさがして』公開記念舞台挨拶",
@@ -45,11 +50,6 @@
             "date": "2020/10/30",
             "title": "【10/30(金)情報更新：ご来場の方の入場時間について】＜佐々木彩夏プロデュースJA浪江＞「浪江発立川へ 秋」」／MSRS・体調管理票はこちら",
             "url": "https://www.momoclo.net/pub/pc/information/?id=5909"
-        },
-        {
-            "date": "2020/10/28",
-            "title": "＜AE限定受付＆記念グッズのみ受注販売スタート！＞ANGEL EYES限定生配信番組「ももクロチャンピオンカーニバル2020」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=5922"
         }
     ]
 }
