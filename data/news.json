@@ -1,6 +1,11 @@
 {
-    "updated": "2020/12/03",
+    "updated": "2020/12/04",
     "news": [
+        {
+            "date": "2020/12/04",
+            "title": "「AYAKA NATION 2020 in Yokohama Arena」と 「ハードロックカフェ」 とのコラボグッズ抽選販売決定！",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6017"
+        },
         {
             "date": "2020/12/04",
             "title": "＜本日12/3(木)24:00より『月色Chainon』［Eternal盤］配信スタート！＞さらに90年代作品の歴代セーラームーン楽曲もサブスク解禁！",
@@ -45,11 +50,6 @@
             "date": "2020/11/30",
             "title": "「ももクロ・ライオンZ EXPO 2020」＜「じゃじゃ～んと！ももクロCAFÉ」のメンバープロデュースメニュー公開＆“おしはがし抽選会”実施決定！＞",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6006"
-        },
-        {
-            "date": "2020/11/30",
-            "title": "＜チケット一般発売中！＞12月16日(水)から計18日間開催！「ももクロ・ライオンZ EXPO 2020」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=5971"
         }
     ]
 }
