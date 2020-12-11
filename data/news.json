@@ -3,12 +3,27 @@
     "news": [
         {
             "date": "2020/12/11",
+            "title": "玉井詩織の活動に関するお知らせ",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6032"
+        },
+        {
+            "date": "2020/12/11",
+            "title": "＜12/23(水)発売！＞『ももクロ夏のバカ騒ぎ2020 配信先からこんにちは』より「Re:Story」を公開！さらに生コメンタリー特番の配信決定！",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6030"
+        },
+        {
+            "date": "2020/12/11",
+            "title": "＜チケットAE会員限定受付スタート！～12/13(日)23:59まで＞ももいろクローバーZ「3600セカンズ」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6022"
+        },
+        {
+            "date": "2020/12/11",
             "title": "【冬季休業のご案内】ANGEL EYESインフォメーション・ももクロチケット",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6011"
         },
         {
             "date": "2020/12/10",
-            "title": "＜本日12/11(金)19:00より二次販売スタート！＞「ももクロ2020-2021冬グッズ」人気商品の受注販売も決定！",
+            "title": "＜二次販売受付中！～12/13(日)23:59まで＞「ももクロ2020-2021冬グッズ」人気商品の受注販売も決定！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6029"
         },
         {
@@ -35,21 +50,6 @@
             "date": "2020/12/08",
             "title": "＜12/12(土)ニコ生での生配信決定！＞「AYAKARNIVAL 2020」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6023"
-        },
-        {
-            "date": "2020/12/08",
-            "title": "＜公演詳細・チケットAE会員限定受付決定！＞ももいろクローバーZ「3600セカンズ」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6022"
-        },
-        {
-            "date": "2020/12/07",
-            "title": "＜オリジナルグッズ公開！＞「ももクロ・ライオンZ EXPO 2020」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6021"
-        },
-        {
-            "date": "2020/12/07",
-            "title": "＜スケジュール＞12/07(月) ～ 12/13(日)",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6013"
         }
     ]
 }
