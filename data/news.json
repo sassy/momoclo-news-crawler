@@ -1,6 +1,11 @@
 {
-    "updated": "2020/12/14",
+    "updated": "2020/12/15",
     "news": [
+        {
+            "date": "2020/12/15",
+            "title": "＜BEAMS×ももクロ＞BEAMS出店のVRイベント『バーチャルマーケット5』で販売されるコラボアイテム決定！",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6031"
+        },
         {
             "date": "2020/12/14",
             "title": "＜チケット一般発売開始！＆有料ライブ配信が決定！＞「『ミューコミプラス』presentsスタプラアイドルフェスティバル～今宵、2人目のシンデレラが決まる～」",
@@ -45,11 +50,6 @@
             "date": "2020/12/12",
             "title": "【Movie】 「ライブその後に」 2020.12.12 「AYAKARNIVAL 2020」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6037"
-        },
-        {
-            "date": "2020/12/12",
-            "title": "＜1/11(月･祝)20:00からニコ生配信決定!!＞あーりんとみる「AYAKARNIVAL 2020」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6034"
         }
     ]
 }
