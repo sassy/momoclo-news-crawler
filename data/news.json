@@ -1,6 +1,11 @@
 {
-    "updated": "2021/01/03",
+    "updated": "2021/01/04",
     "news": [
+        {
+            "date": "2021/01/04",
+            "title": "＜スケジュール＞01/04(月) ～ 01/10(日)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6079"
+        },
         {
             "date": "2021/01/01",
             "title": "【Movie】 「ライブその後に」 2020.12.3 「第4回 ももいろ歌合戦」",
@@ -45,11 +50,6 @@
             "date": "2020/12/25",
             "title": "＜12/27(日)21:00より生配信!!＞「SOPHISTANCE」公式YouTubeチャンネルにて、リモートトークライブ第6弾！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6073"
-        },
-        {
-            "date": "2020/12/25",
-            "title": "【Movie】ももクロからクリスマスメッセージ",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6074"
         }
     ]
 }
