@@ -1,6 +1,11 @@
 {
-    "updated": "2021/01/06",
+    "updated": "2021/01/07",
     "news": [
+        {
+            "date": "2021/01/07",
+            "title": "年賀状未着について",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6072"
+        },
         {
             "date": "2021/01/06",
             "title": "＜1/13(水)発売！＞『月色Chainon』ももいろクローバーZ盤の全曲試聴トレーラー公開！",
@@ -45,11 +50,6 @@
             "date": "2020/12/28",
             "title": "＜ご視聴ありがとうございました！アーカイブ公開中！＞お前ら準備はできてるか!?ももいろ歌合戦直前！ひとりふんどし合体SP",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6075"
-        },
-        {
-            "date": "2020/12/28",
-            "title": "＜スケジュール＞12/28(月) ～ 01/03(日)",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6067"
         }
     ]
 }
