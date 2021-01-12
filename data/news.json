@@ -1,6 +1,11 @@
 {
-    "updated": "2021/01/11",
+    "updated": "2021/01/12",
     "news": [
+        {
+            "date": "2021/01/12",
+            "title": "＜2/7(日)19:00より再配信決定！＞「AYAKARNIVAL2020」スペシャル映像付き再配信",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6089"
+        },
         {
             "date": "2021/01/11",
             "title": "＜本日1/11(月･祝)20:00からニコ生配信決定!!＞あーりんとみる「AYAKARNIVAL 2020」",
@@ -45,11 +50,6 @@
             "date": "2021/01/01",
             "title": "【Movie】 「ライブその後に」 2020.12.31「第4回 ももいろ歌合戦」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6081"
-        },
-        {
-            "date": "2020/12/31",
-            "title": "玉井詩織インタビュー掲載！「MONTHLY AE」12月号",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6080"
         }
     ]
 }
