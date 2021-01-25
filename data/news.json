@@ -1,6 +1,11 @@
 {
-    "updated": "2021/01/24",
+    "updated": "2021/01/25",
     "news": [
+        {
+            "date": "2021/01/25",
+            "title": "＜スケジュール＞01/25(月) ～ 01/31(日)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6112"
+        },
         {
             "date": "2021/01/23",
             "title": "＜本日1月23日(土)アベマプレミアムにて生配信！＞「新春ももクロファン感謝祭　オンラインファンミーティング」",
@@ -45,11 +50,6 @@
             "date": "2021/01/20",
             "title": "「ももいろクローバーZ ももクロくらぶxoxo ～バレンタイン DE NIGHT だぁ～Z！ 2021」チケット一般発売のご案内",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6106"
-        },
-        {
-            "date": "2021/01/20",
-            "title": "【Movie】高城れにが雑誌「CAPA」の表紙に登場!!",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6108"
         }
     ]
 }
