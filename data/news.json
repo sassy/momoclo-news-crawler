@@ -3,17 +3,22 @@
     "news": [
         {
             "date": "2021/02/05",
+            "title": "＜明日2/6(土)より放送スタート！＞ももくろちゃんZ『とびだせ！ぐーちょきぱーてぃー』にて、「サンリオピューロランドコラボコーナー」の放送決定！",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6133"
+        },
+        {
+            "date": "2021/02/05",
             "title": "【2月5日(金)情報更新】＜開催延期＆振替公演 のお知らせ＞「ももクロくらぶxoxo〜バレンタイン DE NIGHT だぁ〜Z! 2021」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6129"
         },
         {
             "date": "2021/02/05",
-            "title": "＜本日2/4(木)24:00より配信スタート！＞『月色Chainon』[ももいろクローバーZ盤]より、4人が歌う“-ZZ ver.-”の配信決定！",
+            "title": "＜2/4(木)24:00より配信スタート！＞『月色Chainon』[ももいろクローバーZ盤]より、4人が歌う“-ZZ ver.-”の配信決定！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6131"
         },
         {
             "date": "2021/02/04",
-            "title": "＜明日2/5(金)19:00より予約受付スタート！＞親子でも楽しめるももくろちゃんZの公式グッズ発売決定！",
+            "title": "＜2/5(金)19:00より予約受付スタート！＞親子でも楽しめるももくろちゃんZの公式グッズ発売決定！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6130"
         },
         {
@@ -28,7 +33,7 @@
         },
         {
             "date": "2021/02/02",
-            "title": "本日2/2(火)18:00より「はるえ商店」SALE開催！",
+            "title": "2/2(火)18:00より「はるえ商店」SALE開催！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6127"
         },
         {
@@ -45,11 +50,6 @@
             "date": "2021/02/01",
             "title": "＜2/24(水)発売！＞NEW ALBUM『田中将大』未公開LIVE映像の大放出祭！第三弾は「何時だって挑戦者」を24時間限定公開！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6124"
-        },
-        {
-            "date": "2021/02/01",
-            "title": "【Photo Report更新！】",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6123"
         }
     ]
 }
