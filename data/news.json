@@ -1,9 +1,14 @@
 {
-    "updated": "2021/02/21",
+    "updated": "2021/02/22",
     "news": [
         {
+            "date": "2021/02/22",
+            "title": "＜スケジュール＞02/22(月) ～ 02/28(日)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6149"
+        },
+        {
             "date": "2021/02/21",
-            "title": "＜お申込み受付中！〜本日2/21(日)23:59まで＞はるえ商店限定粗品つき！ももクロ福袋",
+            "title": "＜お申込み受付は終了いたしました＞はるえ商店限定粗品つき！ももクロ福袋",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6148"
         },
         {
@@ -45,11 +50,6 @@
             "date": "2021/02/15",
             "title": "【2/15(月)情報更新】＜スケジュール＞02/15(月) ～ 02/21(日)",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6141"
-        },
-        {
-            "date": "2021/02/14",
-            "title": "バレンタインデー！ももくろちゃんZより「ぽっぽーあーりんのばえばえクッキング」を公開！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6144"
         }
     ]
 }
