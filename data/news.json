@@ -1,6 +1,11 @@
 {
-    "updated": "2021/02/28",
+    "updated": "2021/03/01",
     "news": [
+        {
+            "date": "2021/03/01",
+            "title": "＜スケジュール＞03/01(月) ～ 03/07(日)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6156"
+        },
         {
             "date": "2021/02/28",
             "title": "百田夏菜子インタビュー掲載！「MONTHLY AE」2月号",
@@ -45,11 +50,6 @@
             "date": "2021/02/17",
             "title": "＜劇場版「美少女戦士セーラームーン Eternal」上映中！＞『月色Chainon』のライブパフォーマンス映像を公開！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6146"
-        },
-        {
-            "date": "2021/02/17",
-            "title": "＜2/20(土)21:00から生配信！＞「SOPHISTANCE」公式YouTubeチャンネルにて、リモートトークライブ第9弾！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6147"
         }
     ]
 }
