@@ -3,6 +3,11 @@
     "news": [
         {
             "date": "2021/05/08",
+            "title": "＜配信アルバム『ZZ's Ⅱ』収録楽曲毎日公開！＞第3弾は「白い風 -ZZ ver.-」！",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6262"
+        },
+        {
+            "date": "2021/05/08",
             "title": "＜発売中！＞「ももくろちゃんZ どうようコレクション」発売記念“うたスタYouTubeチャンネル”コラボ！うたスタキャラクターとももくろちゃんZが仲良く輪唱！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6263"
         },
@@ -45,11 +50,6 @@
             "date": "2021/05/05",
             "title": "＜本日5/5(水・祝)発売！＞「ももくろちゃんZ どうようコレクション」配信スタート！さらに、うたスタYouTubeチャンネルにももくろちゃんZが登場！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6255"
-        },
-        {
-            "date": "2021/05/04",
-            "title": "玉井詩織 Birthday BOOK 26 発売決定！お申し込みは誕生日の6月4日（金）まで！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6256"
         }
     ]
 }
