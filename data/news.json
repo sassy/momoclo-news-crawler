@@ -1,6 +1,11 @@
 {
-    "updated": "2021/05/12",
+    "updated": "2021/05/13",
     "news": [
+        {
+            "date": "2021/05/13",
+            "title": "＜7/7(水)発売！＞ももくろちゃんZ『とびだせ！ぐーちょきぱーてぃー Season 2』BD＆DVD発売決定！",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6275"
+        },
         {
             "date": "2021/05/12",
             "title": "【5/12(水)情報更新】＜振替公演についての発表延期のお知らせ＞「Happy Mother’s Day！～母に感謝のコンサート2021 in TOKYO～」",
@@ -45,11 +50,6 @@
             "date": "2021/05/10",
             "title": "＜配信アルバム『ZZ's Ⅱ』収録楽曲毎日公開！＞第5弾は「サラバ、愛しき悲しみたちよ -ZZ ver.-」！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6266"
-        },
-        {
-            "date": "2021/05/10",
-            "title": "玉井詩織 新型コロナウイルス感染に関するご報告",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6267"
         }
     ]
 }
