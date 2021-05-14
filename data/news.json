@@ -1,6 +1,11 @@
 {
-    "updated": "2021/05/13",
+    "updated": "2021/05/14",
     "news": [
+        {
+            "date": "2021/05/14",
+            "title": "＜6/30(水)同時発売！＞テレビ朝日「ももクロChan」第8弾発売決定！＆「Musée duももクロ」初のBlu-ray化決定！",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6277"
+        },
         {
             "date": "2021/05/13",
             "title": "＜配信アルバム『ZZ's Ⅱ』収録楽曲毎日公開！＞第8弾は「ゴリラパンチ -ZZ ver.-」！",
@@ -45,11 +50,6 @@
             "date": "2021/05/11",
             "title": "＜配信アルバム『ZZ's Ⅱ』収録楽曲毎日公開！＞第6弾は「灰とダイヤモンド -ZZ ver.-」！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6269"
-        },
-        {
-            "date": "2021/05/11",
-            "title": "【5/11(火)情報更新：臨時休業についてのお知らせ】＜発売中！『PLAY!』LIVE Blu-ray & DVD＞「ももいろクローバーZ×ラウンドワン」コラボキャンペーン！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6228"
         }
     ]
 }
