@@ -1,6 +1,11 @@
 {
-    "updated": "2021/05/30",
+    "updated": "2021/05/31",
     "news": [
+        {
+            "date": "2021/05/31",
+            "title": "＜スケジュール＞05/31(月) ～ 06/06(日)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6299"
+        },
         {
             "date": "2021/05/30",
             "title": "＜6/5(土)23:30～24:00放送！＞【佐々木彩夏出演決定！】テレビ朝日『コタローは1人暮らし』",
@@ -45,11 +50,6 @@
             "date": "2021/05/27",
             "title": "【Photo Report更新！】",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6300"
-        },
-        {
-            "date": "2021/05/24",
-            "title": "【英語版をアップしました/English version is now available】高城れにインタビュー掲載！「MONTHLY AE」4月号",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6253"
         }
     ]
 }
