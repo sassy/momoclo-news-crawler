@@ -1,6 +1,16 @@
 {
-    "updated": "2021/07/23",
+    "updated": "2021/07/24",
     "news": [
+        {
+            "date": "2021/07/24",
+            "title": "あーりんより",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6410"
+        },
+        {
+            "date": "2021/07/24",
+            "title": "お知らせ",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6409"
+        },
         {
             "date": "2021/07/23",
             "title": "＜配信中！＞高城れにの新曲「SKY HIGH」のMV公開！",
@@ -40,16 +50,6 @@
             "date": "2021/07/21",
             "title": "【駐車場販売は7/22(木・祝)ひる12時から】「ももクロ夏のパノラマ地獄2021 ～Survive～」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6394"
-        },
-        {
-            "date": "2021/07/21",
-            "title": "＜10/23(土)・24(日)開催！＞「阿蘇ロックフェスティバル2021」出演決定！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6388"
-        },
-        {
-            "date": "2021/07/20",
-            "title": "＜グッズ二次販売決定！7/21(水)12:00スタート！＞「ももクロ夏のパノラマ地獄2021」オフィシャルグッズ",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6401"
         }
     ]
 }
