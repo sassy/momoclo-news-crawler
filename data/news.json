@@ -1,6 +1,11 @@
 {
-    "updated": "2021/07/25",
+    "updated": "2021/07/26",
     "news": [
+        {
+            "date": "2021/07/26",
+            "title": "＜スケジュール＞07/26(月) ～ 08/01(日)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6400"
+        },
         {
             "date": "2021/07/24",
             "title": "あーりんより",
@@ -45,11 +50,6 @@
             "date": "2021/07/21",
             "title": "【駐車場販売は7/22(木・祝)ひる12時から】「ももクロ夏のパノラマ地獄2021 ～Survive～」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6394"
-        },
-        {
-            "date": "2021/07/21",
-            "title": "＜10/23(土)・24(日)開催！＞「阿蘇ロックフェスティバル2021」出演決定！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6388"
         }
     ]
 }
