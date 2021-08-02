@@ -1,6 +1,16 @@
 {
-    "updated": "2021/08/01",
+    "updated": "2021/08/02",
     "news": [
+        {
+            "date": "2021/08/02",
+            "title": "【夏季休業のご案内】ANGEL EYESインフォメーション・ももクロチケット",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6423"
+        },
+        {
+            "date": "2021/08/02",
+            "title": "＜スケジュール＞08/02(月) ～ 08/08(日・祝)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6415"
+        },
         {
             "date": "2021/08/01",
             "title": "＜配信は終了しました。ご視聴ありがとうございました。＞7/31(土)・8/1(日)『ももクロ地獄TV』",
@@ -13,7 +23,7 @@
         },
         {
             "date": "2021/07/31",
-            "title": "＜ももクロ地獄TV開催記念！＞「第2.5回 ANGEL EYESオンライン抽選会(練習)」開催！",
+            "title": "＜開催中！～8/15(日)23:59まで！＞ももクロ地獄TV開催記念！「第2.5回 ANGEL EYESオンライン抽選会(練習)」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6417"
         },
         {
@@ -40,16 +50,6 @@
             "date": "2021/07/29",
             "title": "＜9/15(水)発売！＞百田夏菜子出演「すくってごらん」Blu-ray & DVD発売記念！映画内キャスト別歌唱シーンを期間限定公開！第1弾は『ブレない男』！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6416"
-        },
-        {
-            "date": "2021/07/28",
-            "title": "ももくろちゃんZ × 子育て情報メディア「KIDSNA」タイアップ記事公開！ さらに、人気コーナー「きもちいい音コレクション」を公開！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6414"
-        },
-        {
-            "date": "2021/07/27",
-            "title": "＜2021年6月号発行！＞AE会員様だけのお楽しみ！「MONTHLY PDF」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6412"
         }
     ]
 }
