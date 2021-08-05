@@ -3,6 +3,16 @@
     "news": [
         {
             "date": "2021/08/05",
+            "title": "百田夏菜子 新型コロナウイルス感染に関するご報告",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6432"
+        },
+        {
+            "date": "2021/08/05",
+            "title": "【08/05(木)情報更新】＜スケジュール＞08/02(月) ～ 08/08(日・祝)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6415"
+        },
+        {
+            "date": "2021/08/05",
             "title": "【高城れに参加決定！】＜11/11(木)発売！＞「SPEED 25th Anniversary TRIBUTE ALBUM “SPEED SPIRITS”」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6427"
         },
@@ -32,11 +42,6 @@
             "url": "https://www.momoclo.net/pub/pc/information/?id=6423"
         },
         {
-            "date": "2021/08/02",
-            "title": "＜スケジュール＞08/02(月) ～ 08/08(日・祝)",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6415"
-        },
-        {
             "date": "2021/08/01",
             "title": "＜配信は終了しました。ご視聴ありがとうございました。＞7/31(土)・8/1(日)『ももクロ地獄TV』",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6419"
@@ -45,11 +50,6 @@
             "date": "2021/07/31",
             "title": "百田夏菜子インタビュー掲載！「MONTHLY AE」7月号",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6422"
-        },
-        {
-            "date": "2021/07/31",
-            "title": "＜開催中！～8/15(日)23:59まで！＞ももクロ地獄TV開催記念！「第2.5回 ANGEL EYESオンライン抽選会(練習)」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6417"
         }
     ]
 }
