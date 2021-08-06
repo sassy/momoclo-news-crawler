@@ -3,8 +3,23 @@
     "news": [
         {
             "date": "2021/08/06",
+            "title": "＜8/7(土)に1回限りの配信決定!!＞『ももクロ地獄TV』",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6433"
+        },
+        {
+            "date": "2021/08/06",
+            "title": "【8/6(金)情報更新：各返金受付を開始いたしました】＜振替公演・振替日変更受付のご案内＞「ももクロ夏のパノラマ地獄2021 ～Survive!～」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6420"
+        },
+        {
+            "date": "2021/08/06",
             "title": "＜8/9(月・休)昼12:00から配信スタート！＞GYAO!「ROCK IN JAPAN FESTIVAL 2019」の再配信決定！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6430"
+        },
+        {
+            "date": "2021/08/05",
+            "title": "＜8/18(水)発売！＞高城れに1stソロアルバム『れにちゃんWORLD』初回限定盤に収録される特典ライブ映像より、「タマシイレボリューション」のカバーパフォーマンスを公開！",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6431"
         },
         {
             "date": "2021/08/05",
@@ -35,21 +50,6 @@
             "date": "2021/08/02",
             "title": "＜受注受付中！～8/9(月・休)23:59まで！＞玉井詩織 生誕記念商品2021『バケットハット』",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6424"
-        },
-        {
-            "date": "2021/08/02",
-            "title": "【Movie】あーりんより",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6425"
-        },
-        {
-            "date": "2021/08/02",
-            "title": "【夏季休業のご案内】ANGEL EYESインフォメーション・ももクロチケット",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6423"
-        },
-        {
-            "date": "2021/08/01",
-            "title": "＜配信は終了しました。ご視聴ありがとうございました。＞7/31(土)・8/1(日)『ももクロ地獄TV』",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6419"
         }
     ]
 }
