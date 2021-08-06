@@ -1,6 +1,11 @@
 {
-    "updated": "2021/08/05",
+    "updated": "2021/08/06",
     "news": [
+        {
+            "date": "2021/08/06",
+            "title": "＜8/9(月・休)昼12:00から配信スタート！＞GYAO!「ROCK IN JAPAN FESTIVAL 2019」の再配信決定！",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6430"
+        },
         {
             "date": "2021/08/05",
             "title": "百田夏菜子 新型コロナウイルス感染に関するご報告",
@@ -45,11 +50,6 @@
             "date": "2021/08/01",
             "title": "＜配信は終了しました。ご視聴ありがとうございました。＞7/31(土)・8/1(日)『ももクロ地獄TV』",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6419"
-        },
-        {
-            "date": "2021/07/31",
-            "title": "百田夏菜子インタビュー掲載！「MONTHLY AE」7月号",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6422"
         }
     ]
 }
