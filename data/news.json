@@ -3,6 +3,11 @@
     "news": [
         {
             "date": "2021/08/23",
+            "title": "「ももクロ夏のパノラマ地獄2021 ～Survive!～」中止のお知らせ",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6454"
+        },
+        {
+            "date": "2021/08/23",
             "title": "【8/23(月)情報更新】「イナズマロック フェス 2021」開催中止のお知らせ",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6382"
         },
@@ -45,11 +50,6 @@
             "date": "2021/08/18",
             "title": "＜8/25(水)より予約開始！＞『ももいろクローバーＺオリジナルおせち』第3弾発売決定！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6444"
-        },
-        {
-            "date": "2021/08/18",
-            "title": "＜本日8/18(水)発売！＞高城れに1stソロアルバム『れにちゃんWORLD』",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6443"
         }
     ]
 }
