@@ -1,6 +1,11 @@
 {
-    "updated": "2021/09/06",
+    "updated": "2021/09/07",
     "news": [
+        {
+            "date": "2021/09/07",
+            "title": "【9月19日にABEMAでの配信ライブ決定！】「The LIVE 〜諦めない夏〜 in ABEMA」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6473"
+        },
         {
             "date": "2021/09/06",
             "title": "【Movie】「ライブその後に」 2021.9.6「黒フェス2021～白黒歌合戦～」",
@@ -45,11 +50,6 @@
             "date": "2021/09/01",
             "title": "【09/01(金)情報更新】＜スケジュール＞08/30(月) ～ 09/05(日)",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6456"
-        },
-        {
-            "date": "2021/08/31",
-            "title": "高城れにインタビュー掲載！「MONTHLY AE」8月号",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6464"
         }
     ]
 }
