@@ -3,12 +3,17 @@
     "news": [
         {
             "date": "2021/09/18",
+            "title": "＜チケット受付スタート！＞ももいろクローバーZ・浪江女子発組合の東京都民限定 明治座ライブ",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6487"
+        },
+        {
+            "date": "2021/09/18",
             "title": "＜番組先行受付は9/18(土)12:00から！＞「もリフのじかん」武道館ライブ決定！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6480"
         },
         {
             "date": "2021/09/16",
-            "title": "＜オリジナルTシャツ付きは本日9/16(木)23:59まで＞「The LIVE ～諦めない夏～ in ABEMA」9月19日(日)独占生配信！",
+            "title": "＜ABEMAにて視聴チケット発売中！＞「The LIVE ～諦めない夏～ in ABEMA」9月19日(日)独占生配信！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6478"
         },
         {
@@ -45,11 +50,6 @@
             "date": "2021/09/15",
             "title": "＜本日9/15(水)発売！＞「すくってごらん」Blu-ray & DVD",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6485"
-        },
-        {
-            "date": "2021/09/14",
-            "title": "＜9月25 日・10月2日～4日開催！＞ももいろクローバーZ・浪江女子発組合の東京都民限定 明治座ライブチケット情報",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6487"
         }
     ]
 }
