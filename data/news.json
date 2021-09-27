@@ -1,9 +1,14 @@
 {
-    "updated": "2021/09/26",
+    "updated": "2021/09/27",
     "news": [
         {
+            "date": "2021/09/27",
+            "title": "＜スケジュール＞09/27(月) ～ 10/03(日)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6500"
+        },
+        {
             "date": "2021/09/26",
-            "title": "＜本日9/26(日)20:00から公式YouTubeチャンネルにて生配信！＞『映画「すくってごらん」Blu-ray&DVD発売記念特番』",
+            "title": "＜たくさんのご視聴ありがとうございました！＞『映画「すくってごらん」Blu-ray&DVD発売記念特番』",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6496"
         },
         {
@@ -45,11 +50,6 @@
             "date": "2021/09/20",
             "title": "＜スケジュール＞09/20(月・祝) ～ 09/26(日)",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6483"
-        },
-        {
-            "date": "2021/09/19",
-            "title": "【Movie】「ライブその後に」2021.9.19「The LIVE ～諦めない夏～ in ABEMA」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6499"
         }
     ]
 }
