@@ -1,6 +1,16 @@
 {
-    "updated": "2021/10/01",
+    "updated": "2021/10/02",
     "news": [
+        {
+            "date": "2021/10/02",
+            "title": "＜完全版配信スタート！～11/1(月)23:59まで！＞「The LIVE ～諦めない夏～ in ABEMA」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6478"
+        },
+        {
+            "date": "2021/10/02",
+            "title": "【本日10/2～10/4開催！】＜10/3(日)二部のニコ生配信も！＞ ももいろクローバーZ 明治座ライブ ご入場についてのご案内",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6487"
+        },
         {
             "date": "2021/10/01",
             "title": "＜明日10/2(土)より開催！＞【週末ヒロインももいろクローバーZ LIVE 「origin」】 ももクロ一座特別公演グッズ販売決定！",
@@ -32,11 +42,6 @@
             "url": "https://www.momoclo.net/pub/pc/information/?id=6516"
         },
         {
-            "date": "2021/10/01",
-            "title": "＜10/3(日)二部のニコ生配信も！＞ ももいろクローバーZ 明治座ライブ ご入場についてのご案内",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6487"
-        },
-        {
             "date": "2021/09/30",
             "title": "佐々木彩夏インタビュー掲載！「MONTHLY AE」9月号",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6514"
@@ -45,11 +50,6 @@
             "date": "2021/09/30",
             "title": "origin チケット販売に関するお詫び",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6515"
-        },
-        {
-            "date": "2021/09/30",
-            "title": "【09/30(木)情報更新】「TOKYO IDOL FESTIVAL 2021」10/1(金)開催中止のお知らせ",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6484"
         }
     ]
 }
