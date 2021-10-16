@@ -3,6 +3,11 @@
     "news": [
         {
             "date": "2021/10/16",
+            "title": "＜DAY2の当日券販売決定！＞「百田夏菜子ソロコンサート」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6557"
+        },
+        {
+            "date": "2021/10/16",
             "title": "＜払い戻し受付は10/16(土)23:59まで＞【10/8(金)情報更新 払戻期間延長について】『第2回 ももクロ一座 特別公演』公演延期のお知らせ",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6475"
         },
@@ -45,11 +50,6 @@
             "date": "2021/10/13",
             "title": "＜チケット一般抽選受付決定！10/13(水)18:00～10/17(日)23:59まで＞【週末ヒロインももいろクローバーZ LIVE 「origin」】10/27(水)北海道公演",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6546"
-        },
-        {
-            "date": "2021/10/12",
-            "title": "玉井詩織より",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6545"
         }
     ]
 }
