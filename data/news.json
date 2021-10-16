@@ -1,6 +1,11 @@
 {
-    "updated": "2021/10/15",
+    "updated": "2021/10/16",
     "news": [
+        {
+            "date": "2021/10/16",
+            "title": "＜払い戻し受付は10/16(土)23:59まで＞【10/8(金)情報更新 払戻期間延長について】『第2回 ももクロ一座 特別公演』公演延期のお知らせ",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6475"
+        },
         {
             "date": "2021/10/16",
             "title": "＜当日のしおり＞百田夏菜子ソロコンサート【ご入場・注意事項について】",
@@ -45,11 +50,6 @@
             "date": "2021/10/12",
             "title": "玉井詩織より",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6545"
-        },
-        {
-            "date": "2021/10/12",
-            "title": "＜チケット一般販売中！＞百田夏菜子 ソロコンサート DAY2 10/17(日)ライブビューイング決定！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6511"
         }
     ]
 }
