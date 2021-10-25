@@ -1,6 +1,11 @@
 {
-    "updated": "2021/10/24",
+    "updated": "2021/10/25",
     "news": [
+        {
+            "date": "2021/10/25",
+            "title": "＜スケジュール＞10/25(月) ～ 10/31(日)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6560"
+        },
         {
             "date": "2021/10/22",
             "title": "【英語版をアップしました/English version is now available】佐々木彩夏インタビュー掲載！「MONTHLY AE」9月号",
@@ -45,11 +50,6 @@
             "date": "2021/10/17",
             "title": "【Movie】「ライブその後に」2021.10.17「Talk With Me ～シンデレラタイム～」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6558"
-        },
-        {
-            "date": "2021/10/17",
-            "title": "ご来場ありがとうございました＜当日のしおり＞百田夏菜子ソロコンサート【ご入場・注意事項について】",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6547"
         }
     ]
 }
