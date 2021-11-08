@@ -1,6 +1,11 @@
 {
-    "updated": "2021/11/07",
+    "updated": "2021/11/08",
     "news": [
+        {
+            "date": "2021/11/08",
+            "title": "＜スケジュール＞11/08(月)～11/14(日)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6583"
+        },
         {
             "date": "2021/11/05",
             "title": "武藤彩未出演決定！オープニングアクト・ももクロカバーコーナーも！＜チケット一般発売中！＞あーりん主催「AYAKARNIVAL 2021」",
@@ -8,7 +13,7 @@
         },
         {
             "date": "2021/11/05",
-            "title": "＜本日11/5(金)20:30から公式YouTubeチャンネルにて生配信！＞「AYAKARNIVAL2021」出演者集合！『緊急生配信！「AYAKARNIVAL2021」を考える』",
+            "title": "＜ご視聴ありがとうございました！アーカイブ公開中！＞「AYAKARNIVAL2021」出演者集合！『緊急生配信！「AYAKARNIVAL2021」を考える』",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6585"
         },
         {
@@ -45,11 +50,6 @@
             "date": "2021/11/01",
             "title": "＜スケジュール＞11/01(月)～11/07(日)",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6566"
-        },
-        {
-            "date": "2021/10/31",
-            "title": "百田夏菜子インタビュー掲載！「MONTHLY AE」10月号",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6579"
         }
     ]
 }
