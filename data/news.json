@@ -3,6 +3,16 @@
     "news": [
         {
             "date": "2021/11/15",
+            "title": "＜タイムテーブルを更新！＞あーりん主催アイドルの祭典！「AYAKARNIVAL 2021」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6604"
+        },
+        {
+            "date": "2021/11/15",
+            "title": "【Photo Report更新！】",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6599"
+        },
+        {
+            "date": "2021/11/15",
             "title": "プレゼントについてのご案内とお願い",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6598"
         },
@@ -33,23 +43,13 @@
         },
         {
             "date": "2021/11/12",
-            "title": "＜LINE LIVE-VIEWINGで独占生配信決定！＞「AYAKARNIVAL 2021」",
+            "title": "【11/15(月)情報更新】＜LINE LIVE-VIEWINGで独占生配信決定！＞「AYAKARNIVAL 2021」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6596"
         },
         {
             "date": "2021/11/12",
             "title": "＜11/14(日)よりTV-CM放映開始！＞ももクロ×太田胃散初の楽曲タイアップが実現！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6595"
-        },
-        {
-            "date": "2021/11/11",
-            "title": "MSRSをアップいたしました＜当日のしおり＞11/12(金)「origin」兵庫公演【ご入場・注意事項について】",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6592"
-        },
-        {
-            "date": "2021/11/10",
-            "title": "【11/10(水)情報更新：特別展追加情報！】＜11/13(土)からスタート！＞「ももクロ春の一大事2019in黒部」特別展・聖地巡礼スタンプラリー開催！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6562"
         }
     ]
 }
