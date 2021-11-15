@@ -1,6 +1,21 @@
 {
-    "updated": "2021/11/14",
+    "updated": "2021/11/15",
     "news": [
+        {
+            "date": "2021/11/15",
+            "title": "プレゼントについてのご案内とお願い",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6598"
+        },
+        {
+            "date": "2021/11/15",
+            "title": "＜一般抽選受付中！～11/16(火)23:59まで＞「ももいろクリスマス2021 ～さいたまスーパーアリーナ大会～」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6588"
+        },
+        {
+            "date": "2021/11/15",
+            "title": "＜スケジュール＞11/15(月)～11/21(日)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6602"
+        },
         {
             "date": "2021/11/13",
             "title": "【11/13(土)情報更新】＜SS特典について＞「AYAKARNIVAL 2021」",
@@ -32,24 +47,9 @@
             "url": "https://www.momoclo.net/pub/pc/information/?id=6592"
         },
         {
-            "date": "2021/11/11",
-            "title": "＜一般抽選受付決定！11/11(木)20:00～11/16(火)23:59まで＞「ももいろクリスマス2021 ～さいたまスーパーアリーナ大会～」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6588"
-        },
-        {
             "date": "2021/11/10",
             "title": "【11/10(水)情報更新：特別展追加情報！】＜11/13(土)からスタート！＞「ももクロ春の一大事2019in黒部」特別展・聖地巡礼スタンプラリー開催！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6562"
-        },
-        {
-            "date": "2021/11/10",
-            "title": "＜物販情報公開！＞【週末ヒロインももいろクローバーZ LIVE 「origin」】11/12(金)兵庫公演",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6591"
-        },
-        {
-            "date": "2021/11/10",
-            "title": "ももクロ「origin」兵庫公演へご来場の方を対象にももいろクローバーZへの質問をハガキで募集！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6593"
         }
     ]
 }
