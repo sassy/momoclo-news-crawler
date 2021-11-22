@@ -1,14 +1,24 @@
 {
-    "updated": "2021/11/21",
+    "updated": "2021/11/22",
     "news": [
         {
+            "date": "2021/11/22",
+            "title": "＜一般抽選2次受付決定！11/22(月)15:00～11/23(火祝)23:59まで＞「ももいろクリスマス2021 ～さいたまスーパーアリーナ大会～」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6622"
+        },
+        {
+            "date": "2021/11/22",
+            "title": "＜スケジュール＞11/22(月)～11/28(日)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6617"
+        },
+        {
             "date": "2021/11/20",
-            "title": "＜11月21日(日)23:59まで！＞ももクロ×日テレポシュレのコラボ企画「ももクロポシュレの玉手箱だZ」第4弾！",
+            "title": "＜販売受付は終了しました＞ももクロ×日テレポシュレのコラボ企画「ももクロポシュレの玉手箱だZ」第4弾！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6577"
         },
         {
             "date": "2021/11/20",
-            "title": "12/19(日)全国50ヶ所の映画館でライブビューイング決定！百田夏菜子ソロコンサート「Talk With Me ~シンデレラタイム~」ディレクターズカット版",
+            "title": "＜LIVE CDのAE会員限定通販予約受付中！＞12/19(日)全国50ヶ所の映画館でライブビューイング決定！百田夏菜子ソロコンサート「Talk With Me ~シンデレラタイム~」ディレクターズカット版",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6620"
         },
         {
@@ -40,16 +50,6 @@
             "date": "2021/11/17",
             "title": "【Movie】「ライブその後に」2021.11.17 佐々木彩夏主催「AYAKARNIVAL2021」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6614"
-        },
-        {
-            "date": "2021/11/17",
-            "title": "＜当日券販売決定！＞あーりん主催アイドルの祭典！「AYAKARNIVAL 2021」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6604"
-        },
-        {
-            "date": "2021/11/17",
-            "title": "ご来場ありがとうございました！＜当日のしおり＞11/17(水)開催「AYAKARNIVAL2021」【ご入場・注意事項について】",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6605"
         }
     ]
 }
