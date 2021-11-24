@@ -3,6 +3,11 @@
     "news": [
         {
             "date": "2021/11/24",
+            "title": "＜12/1(水)18:30～放送！＞「2021 FNS 歌謡祭」出演決定！",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6628"
+        },
+        {
+            "date": "2021/11/24",
             "title": "＜ライブビューイングのAE先行受付中！～11/29(月)23:59まで！＞12/19(日)上映・百田夏菜子ソロコンサート「Talk With Me ~シンデレラタイム~」ディレクターズカット版",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6620"
         },
@@ -45,11 +50,6 @@
             "date": "2021/11/20",
             "title": "＜チケット受付開始！＞佐々木彩夏プロデュース「浪江女子発組合」LINE CUBE公演のタイトル＆公演詳細が決定！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6621"
-        },
-        {
-            "date": "2021/11/19",
-            "title": "＜ももクロ×桃鉄コラボ今冬実施決定！＞イラストから楽曲までももクロづくし！11/27(土)18:00から先行プレイ生配信決定！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6616"
         }
     ]
 }
