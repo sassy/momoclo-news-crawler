@@ -1,6 +1,11 @@
 {
-    "updated": "2021/12/01",
+    "updated": "2021/12/02",
     "news": [
+        {
+            "date": "2021/12/02",
+            "title": "＜ももクロ×桃鉄コラボ 本日12/2(火)10:00からスタート！＞イラストから楽曲までももクロづくし！",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6616"
+        },
         {
             "date": "2021/12/01",
             "title": "＜2021年10月号発行！＞AE会員様だけのお楽しみ！「MONTHLY PDF」",
@@ -45,11 +50,6 @@
             "date": "2021/11/25",
             "title": "＜スターダストショッパーズでご予約受付中!!＞【百田夏菜子出演】「コタローは1人暮らし」のBlu-ray＆DVD BOX",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6428"
-        },
-        {
-            "date": "2021/11/25",
-            "title": "【英語版をアップしました/English version is now available】百田夏菜子インタビュー掲載！「MONTHLY AE」10月号",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6579"
         }
     ]
 }
