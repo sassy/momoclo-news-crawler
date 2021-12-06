@@ -1,6 +1,11 @@
 {
-    "updated": "2021/12/05",
+    "updated": "2021/12/06",
     "news": [
+        {
+            "date": "2021/12/06",
+            "title": "＜スケジュール＞12/06(月)～12/12(日)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6632"
+        },
         {
             "date": "2021/12/04",
             "title": "＜当日のしおり＞「ももいろクリスマス2021」【ご入場・注意事項について】",
@@ -8,7 +13,7 @@
         },
         {
             "date": "2021/12/04",
-            "title": "はるえ商店Tシャツ付きの販売は12/5(月)23:59まで！＜12/8(水)DAY2公演がABEMAで生配信決定！＞「ももいろクリスマス2021〜さいたまスーパーアリーナ大会〜」",
+            "title": "ABEMAチケットの販売は12/8(水)21:30終演まで！＜12/8(水)DAY2公演がABEMAで生配信決定！＞「ももいろクリスマス2021〜さいたまスーパーアリーナ大会〜」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6623"
         },
         {
@@ -45,11 +50,6 @@
             "date": "2021/12/02",
             "title": "＜ももクロ×桃鉄コラボ 本日12/2(木)10:00からスタート！＞イラストから楽曲までももクロづくし！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6616"
-        },
-        {
-            "date": "2021/12/01",
-            "title": "＜2021年10月号発行！＞AE会員様だけのお楽しみ！「MONTHLY PDF」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6634"
         }
     ]
 }
