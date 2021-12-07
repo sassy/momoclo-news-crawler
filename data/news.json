@@ -1,6 +1,16 @@
 {
-    "updated": "2021/12/06",
+    "updated": "2021/12/07",
     "news": [
+        {
+            "date": "2021/12/07",
+            "title": "スターダストプラネット公式動画配信サービス『スタコミュ』リリース決定！！",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6644"
+        },
+        {
+            "date": "2021/12/07",
+            "title": "本日12/7(火)DAY1開催！＜当日のしおり＞「ももいろクリスマス2021」【ご入場・注意事項について】",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6640"
+        },
         {
             "date": "2021/12/06",
             "title": "＜DAY1 12/7(火)公演の当日引換券販売が決定！＞「ももいろクリスマス2021 ～さいたまスーパーアリーナ大会～」",
@@ -15,11 +25,6 @@
             "date": "2021/12/06",
             "title": "＜スケジュール＞12/06(月)～12/12(日)",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6632"
-        },
-        {
-            "date": "2021/12/04",
-            "title": "＜当日のしおり＞「ももいろクリスマス2021」【ご入場・注意事項について】",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6640"
         },
         {
             "date": "2021/12/04",
@@ -45,11 +50,6 @@
             "date": "2021/12/02",
             "title": "【Photo Report更新！】",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6635"
-        },
-        {
-            "date": "2021/12/02",
-            "title": "＜12/3(金)18:00より受注販売スタート！＞『ももクロChan』10周年記念プロジェクト第6弾！ 歴代3衣装の“箱推しデザイン”＆“BIGサイズ”レプリカ販売決定！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6636"
         }
     ]
 }
