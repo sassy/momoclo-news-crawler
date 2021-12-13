@@ -1,6 +1,11 @@
 {
-    "updated": "2021/12/12",
+    "updated": "2021/12/13",
     "news": [
+        {
+            "date": "2021/12/13",
+            "title": "＜スケジュール＞12/13(月)～12/19(日)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6654"
+        },
         {
             "date": "2021/12/12",
             "title": "＜番組最速先行受付スタート！～12/26(日)23:59まで！＞ニッポン放送 ももいろクローバーＺ ももクロくらぶxoxo ～バレンタイン DE NIGHT だぁ～Ｚ！2022",
@@ -45,11 +50,6 @@
             "date": "2021/12/07",
             "title": "【Movie】玉さんからの一足早いクリスマスプレゼント",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6648"
-        },
-        {
-            "date": "2021/12/07",
-            "title": "「ももいろクリスマス2021」第三回＆第四回オンライン抽選会開催！今回はチャンスが2回♪",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6639"
         }
     ]
 }
