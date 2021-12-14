@@ -1,6 +1,11 @@
 {
-    "updated": "2021/12/13",
+    "updated": "2021/12/14",
     "news": [
+        {
+            "date": "2021/12/14",
+            "title": "【冬季休業のご案内】ANGEL EYESインフォメーション・ももクロチケット",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6656"
+        },
         {
             "date": "2021/12/13",
             "title": "＜開場開演時間決定のご案内＞「ももいろクローバーZ 13周年記念コンサート」",
@@ -45,11 +50,6 @@
             "date": "2021/12/08",
             "title": "ご来場ありがとうございました「ももいろクリスマス2021」【ご入場・注意事項について】",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6640"
-        },
-        {
-            "date": "2021/12/08",
-            "title": "＜チケット一般抽選受付は終了しました＞「第5回ももいろ歌合戦～届け！希望の彼方へ～」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6637"
         }
     ]
 }
