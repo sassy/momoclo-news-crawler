@@ -1,30 +1,35 @@
 {
-    "updated": "2021/12/19",
+    "updated": "2021/12/20",
     "news": [
+        {
+            "date": "2021/12/20",
+            "title": "＜チケットAE先行受付中～12/21(火)23:59まで＞【週末ヒロインももいろクローバーZ LIVE 「origin」】1/15(土)秋田公演",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6658"
+        },
+        {
+            "date": "2021/12/20",
+            "title": "＜告知動画を公開！第二次抽選受付中！～本日12/20(月)23:59まで＞「『ももいろ歌合戦前夜』全室貸切特別宿泊プラン」 販売決定！",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6662"
+        },
+        {
+            "date": "2021/12/20",
+            "title": "＜スケジュール＞12/20(月)～12/26日)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6660"
+        },
         {
             "date": "2021/12/19",
             "title": "＜7/12(火) 自身の誕生日に発売決定！＞百田夏菜子初のソロコン『Talk With Me ～シンデレラタイム～』LIVE Blu-ray & DVD",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6665"
         },
         {
-            "date": "2021/12/19",
-            "title": "＜告知動画を公開！第二次抽選受付決定！～12/20(月)23:59まで＞「『ももいろ歌合戦前夜』全室貸切特別宿泊プラン」 販売決定！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6662"
-        },
-        {
             "date": "2021/12/17",
-            "title": "＜アーカイブ配信は本日12/17(金)23:59まで！＞「AYAKARNIVAL2021」",
+            "title": "＜アーカイブ配信は終了しました＞「AYAKARNIVAL2021」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6596"
         },
         {
             "date": "2021/12/16",
             "title": "＜12/17(金)20:00スタート！＞「第5回ももいろ歌合戦」グッズ事前通販 「AYAKARNIVAL2021」&「ももクリ2021」グッズ事後通販",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6661"
-        },
-        {
-            "date": "2021/12/16",
-            "title": "＜公演詳細ご案内！チケットAE先行受付中～12/21(火)23:59まで＞【週末ヒロインももいろクローバーZ LIVE 「origin」】1/15(土)秋田公演",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6658"
         },
         {
             "date": "2021/12/14",
@@ -45,11 +50,6 @@
             "date": "2021/12/12",
             "title": "＜番組最速先行受付スタート！～12/26(日)23:59まで！＞ニッポン放送 ももいろクローバーＺ ももクロくらぶxoxo ～バレンタイン DE NIGHT だぁ～Ｚ！2022",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6213"
-        },
-        {
-            "date": "2021/12/10",
-            "title": "＜配信決定！現地チケットも残りわずか！＞12/11(土)開催 「2021年JA浪江 組合総会　あいのりきっぷ」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6621"
         }
     ]
 }
