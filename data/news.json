@@ -1,6 +1,11 @@
 {
-    "updated": "2022/01/05",
+    "updated": "2022/01/06",
     "news": [
+        {
+            "date": "2022/01/06",
+            "title": "年賀状未着について",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6682"
+        },
         {
             "date": "2022/01/05",
             "title": "佐々木彩夏インタビュー掲載！「MONTHLY AE」12月号",
@@ -8,12 +13,12 @@
         },
         {
             "date": "2022/01/05",
-            "title": "＜本日1/5(水)23:59まで！＞ANGEL EYES会員限定！先行セール開催中！",
+            "title": "＜セール期間販売は終了しました＞ANGEL EYES会員限定！先行セール開催中！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6683"
         },
         {
             "date": "2022/01/05",
-            "title": "＜本日1/5(水)23:59まで！チケット一般抽選受付中！＞【週末ヒロインももいろクローバーZ LIVE 「origin」】1/15(土)秋田公演 >",
+            "title": "＜チケット一般抽選受付は終了しました＞【週末ヒロインももいろクローバーZ LIVE 「origin」】1/15(土)秋田公演 >",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6689"
         },
         {
@@ -45,11 +50,6 @@
             "date": "2021/12/30",
             "title": "＜ご視聴ありがとうございました！＞第5回ももいろ歌合戦 第3弾出演者発表 緊急発表SP」を生配信!!",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6693"
-        },
-        {
-            "date": "2021/12/29",
-            "title": "＜AE会員先行受付は終了しました＞ニッポン放送 ももいろクローバーＺ ももクロくらぶxoxo ～バレンタイン DE NIGHT だぁ～Ｚ！2022",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6692"
         }
     ]
 }
