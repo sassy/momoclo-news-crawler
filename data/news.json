@@ -1,6 +1,11 @@
 {
-    "updated": "2022/01/12",
+    "updated": "2022/01/13",
     "news": [
+        {
+            "date": "2022/01/13",
+            "title": "ももクロ「origin」秋田公演へご来場の方を対象にももいろクローバーZへの質問をハガキで募集！",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6707"
+        },
         {
             "date": "2022/01/12",
             "title": "＜佐々木彩夏総合プロデュース＞浪江女子発組合1stアルバム『花咲む』 映像特典に明治座LIVE収録決定＆TEASER映像公開！",
@@ -45,11 +50,6 @@
             "date": "2022/01/06",
             "title": "レッツパーティー！ももクロ×桃鉄テーマソング「BUTTOBI!」ゲーミングMV公開！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6702"
-        },
-        {
-            "date": "2022/01/06",
-            "title": "年賀状未着について",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6682"
         }
     ]
 }
