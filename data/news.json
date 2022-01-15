@@ -3,6 +3,16 @@
     "news": [
         {
             "date": "2022/01/15",
+            "title": "【生配信・返金対応のご案内】ももいろクローバーZ「13周年記念コンサート」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6712"
+        },
+        {
+            "date": "2022/01/15",
+            "title": "【Movie】たのしい雪合戦",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6711"
+        },
+        {
+            "date": "2022/01/15",
             "title": "【高城れに】＜1/15(土)よりTV-CM放映開始！＞ゲーム『ウマ娘 プリティーダービー』新CM出演決定！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6710"
         },
@@ -40,16 +50,6 @@
             "date": "2022/01/07",
             "title": "＜チケットのAE限定追加受付は終了しました＞「ももいろクローバーZ 13周年記念コンサート」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6700"
-        },
-        {
-            "date": "2022/01/07",
-            "title": "＜2022年1月7日(金)スタート！限定プライズ登場！＞アミューズメント施設「モーリーファンタジー」との初コラボレーション！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6684"
-        },
-        {
-            "date": "2022/01/07",
-            "title": "＜3/18(金)公開！映画『KAPPEI カッペイ』主題歌＞西川貴教さんの新曲「鉄血†Gravity」にももいろクローバーZの参加が決定！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6701"
         }
     ]
 }
