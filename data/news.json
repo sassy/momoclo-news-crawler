@@ -1,6 +1,11 @@
 {
-    "updated": "2022/01/30",
+    "updated": "2022/01/31",
     "news": [
+        {
+            "date": "2022/01/31",
+            "title": "＜スケジュール＞01/31(月)～02/06(日)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6728"
+        },
         {
             "date": "2022/01/30",
             "title": "佐々木彩夏が総合プロデューサーを務める浪江女子発組合1stアルバム『花咲む』収録楽曲「桜梅桃李夢物語」先行配信決定！さらに、メンバー手書き歌詞が載った「あるけあるけ」リリックビデオが公開！",
@@ -8,7 +13,7 @@
         },
         {
             "date": "2022/01/27",
-            "title": "＜本日1/28(金)21:00から公式YouTubeチャンネルにて生配信！＞週末ヒロインももいろクローバーＺの「自由」presented by SOPHISTANCE >",
+            "title": "＜ご視聴ありがとうございました！アーカイブ公開中！＞週末ヒロインももいろクローバーＺの「自由」presented by SOPHISTANCE >",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6727"
         },
         {
@@ -45,11 +50,6 @@
             "date": "2022/01/23",
             "title": "＜5/17(火)発売！＞3年ぶりの最新アルバムタイトルは『祝典(しゅくてん)』！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6723"
-        },
-        {
-            "date": "2022/01/23",
-            "title": "＜完全版配信は終了いたしました＞ABEMA「ももいろクリスマス2021〜さいたまスーパーアリーナ大会〜」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6623"
         }
     ]
 }
