@@ -1,6 +1,11 @@
 {
-    "updated": "2022/02/01",
+    "updated": "2022/02/02",
     "news": [
+        {
+            "date": "2022/02/02",
+            "title": "ナタリーによるオンラインイベント「マツリー vol.2」2月3日（木）生配信企画延期のご案内",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6736"
+        },
         {
             "date": "2022/02/01",
             "title": "佐々木彩夏 新型コロナウイルス感染に関するご報告",
@@ -45,11 +50,6 @@
             "date": "2022/01/27",
             "title": "＜3/30(水)発売！＞全曲「One Night Carnival」の氣志團さんトリビュートアルバムにももいろクローバーZの参加が決定！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6726"
-        },
-        {
-            "date": "2022/01/27",
-            "title": "【返金対応についてのお知らせを更新しました】＜当日のしおり＞1/23(日)「ももいろクローバーZ 13周年記念コンサート」幕張メッセ公演【ご入場・注意事項について】",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6718"
         }
     ]
 }
