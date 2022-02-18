@@ -3,8 +3,23 @@
     "news": [
         {
             "date": "2022/02/18",
-            "title": "＜2月18日(金)17:40から生配信！＞「ももクロ春の一大事2022」スペシャルガイド生配信！",
+            "title": "＜アーカイブを公開いたしました＞「ももクロ春の一大事2022」スペシャルガイド生配信！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6757"
+        },
+        {
+            "date": "2022/02/18",
+            "title": "＜2/23(水・祝)発売！浪江女子発組合1stアルバム『花咲む』 ＞明治座ライブ映像放出祭フィナーレ！「つながる、ウンメイ」のライブ映像を公開！",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6760"
+        },
+        {
+            "date": "2022/02/18",
+            "title": "＜AE会員先行受付スタート！～2/27(日)23:59まで＞「ももクロ春の一大事2022」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6750"
+        },
+        {
+            "date": "2022/02/18",
+            "title": "【英語版をアップしました/English version is now available】高城れにインタビュー掲載！「MONTHLY AE」1月号",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6732"
         },
         {
             "date": "2022/02/15",
@@ -35,21 +50,6 @@
             "date": "2022/02/13",
             "title": "【Movie】「ライブその後に」 2022.02.13「ニッポン放送 ももいろクローバーＺ ももクロくらぶxoxo ～バレンタイン DE NIGHT だぁ～Ｚ！2022「表」」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6752"
-        },
-        {
-            "date": "2022/02/13",
-            "title": "＜公演詳細・チケットAE先行受付決定！＞「ももクロ春の一大事2022」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6750"
-        },
-        {
-            "date": "2022/02/13",
-            "title": "＜チケットAE先行受付は終了しました＞高城れにソロコンサート「まるごとれにちゃん2022 RENICHAN WORLD」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6745"
-        },
-        {
-            "date": "2022/02/12",
-            "title": "【Movie】「ライブその後に」 2022.02.12「ニッポン放送 ももいろクローバーＺ ももクロくらぶxoxo ～バレンタイン DE NIGHT だぁ～Ｚ！2022「裏」」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6751"
         }
     ]
 }
