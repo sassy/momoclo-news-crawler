@@ -3,7 +3,12 @@
     "news": [
         {
             "date": "2022/03/09",
-            "title": "＜本日3/9(水) 神奈川公演のニコ生配信決定!!＞高城れにソロコンサート「まるごとれにちゃん2022 RENICHAN WORLD」",
+            "title": "【Movie】「ライブその後に」 2022.03.09「まるごとれにちゃん2022 RENICHAN WORLD」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6796"
+        },
+        {
+            "date": "2022/03/09",
+            "title": "＜ご視聴ありがとうございました。＞高城れにソロコンサート「まるごとれにちゃん2022 RENICHAN WORLD」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6780"
         },
         {
@@ -45,11 +50,6 @@
             "date": "2022/03/03",
             "title": "3/4(金)0:00より高城れにの新曲「じゃないほう」が配信スタート！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6784"
-        },
-        {
-            "date": "2022/03/03",
-            "title": "「まるごとれにちゃん2022 RENICHAN WORLD」 オフィシャルグッズ発表！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6781"
         }
     ]
 }
