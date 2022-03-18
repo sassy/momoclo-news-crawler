@@ -2,6 +2,11 @@
     "updated": "2022/03/18",
     "news": [
         {
+            "date": "2022/03/18",
+            "title": "＜チケット一般発売決定！＞「ももクロ春の一大事2022」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6803"
+        },
+        {
             "date": "2022/03/17",
             "title": "【3/17(木)情報更新】東北新幹線被災情報につきまして「ももクロ春の一大事2022」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6750"
@@ -13,7 +18,7 @@
         },
         {
             "date": "2022/03/17",
-            "title": "＜舞台挨拶のオンライン配信が決定！＞『ももいろクローバーＺ～アイドルの向こう側～』",
+            "title": "＜舞台挨拶のオンライン配信チケット受付中！＞『ももいろクローバーＺ～アイドルの向こう側～』",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6801"
         },
         {
@@ -45,11 +50,6 @@
             "date": "2022/03/11",
             "title": "＜ご視聴ありがとうございました！＞ナタリーによるオンラインイベント「ももいろクローバーZ × ナタリー 15周年を迎えたナタリーの新しい社歌を作っちゃおう！」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6736"
-        },
-        {
-            "date": "2022/03/09",
-            "title": "【Movie】「ライブその後に」 2022.03.09「まるごとれにちゃん2022 RENICHAN WORLD」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6796"
         }
     ]
 }
