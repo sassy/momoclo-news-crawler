@@ -1,6 +1,11 @@
 {
-    "updated": "2022/03/22",
+    "updated": "2022/03/23",
     "news": [
+        {
+            "date": "2022/03/23",
+            "title": "＜チケット受付は3/25(金)13:00からスタート！＞MOMOIRO CLOVER Z 6th ALBUM TOUR “祝典”",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6799"
+        },
         {
             "date": "2022/03/22",
             "title": "＜5/17(火)発売！＞6th ORIGINAL FULL ALBUM『祝典』新アーティスト写真＆初回限定盤ジャケット写真公開！さらに特設サイトもオープン！",
@@ -45,11 +50,6 @@
             "date": "2022/03/17",
             "title": "【3/17(木)情報更新】東北新幹線被災情報につきまして「ももクロ春の一大事2022」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6750"
-        },
-        {
-            "date": "2022/03/17",
-            "title": "「まるごとれにちゃん2022 RENICHAN WORLD」 オフィシャルグッズ事後通販 3/17(木)20:00スタート！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6802"
         }
     ]
 }
