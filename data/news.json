@@ -1,6 +1,11 @@
 {
-    "updated": "2022/03/23",
+    "updated": "2022/03/24",
     "news": [
+        {
+            "date": "2022/03/24",
+            "title": "【英語版をアップしました/English version is now available】百田夏菜子インタビュー掲載！「MONTHLY AE」2月号",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6773"
+        },
         {
             "date": "2022/03/23",
             "title": "＜チケット受付は3/25(金)13:00からスタート！＞MOMOIRO CLOVER Z 6th ALBUM TOUR “祝典”",
@@ -45,11 +50,6 @@
             "date": "2022/03/19",
             "title": "＜ご視聴ありがとうございました！＞高城れにソロコンサート「まるごとれにちゃん2022 RENICHAN WORLD」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6780"
-        },
-        {
-            "date": "2022/03/17",
-            "title": "【3/17(木)情報更新】東北新幹線被災情報につきまして「ももクロ春の一大事2022」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6750"
         }
     ]
 }
