@@ -3,6 +3,16 @@
     "news": [
         {
             "date": "2022/04/15",
+            "title": "【4/15(金)情報更新】MSRSをアップいたしました。＜チケット一般発売中！＞「ももクロ春の一大事2022」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6803"
+        },
+        {
+            "date": "2022/04/15",
+            "title": "＜5/17(火)発売！『祝典』収録楽曲発表映像を毎日公開！＞9曲目「Intermission -闍-」、10曲目「momo」に決定！",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6852"
+        },
+        {
+            "date": "2022/04/15",
             "title": "【百田夏菜子連続ドラマ初主演決定！】＜6/4(土)より放送スタート！＞土ドラ『僕の大好きな妻！』",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6849"
         },
@@ -40,16 +50,6 @@
             "date": "2022/04/12",
             "title": "＜5/17(火)発売！『祝典』収録楽曲発表映像を毎日公開！＞6曲目は「BUTTOBI!」に決定！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6845"
-        },
-        {
-            "date": "2022/04/11",
-            "title": "＜5/17(火)発売！『祝典』収録楽曲発表映像を毎日公開！＞5曲目は新曲「満漢全席」に決定！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6844"
-        },
-        {
-            "date": "2022/04/11",
-            "title": "＜スケジュール＞04/11(月)～04/17(日)",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6834"
         }
     ]
 }
