@@ -1,6 +1,11 @@
 {
-    "updated": "2022/04/21",
+    "updated": "2022/04/22",
     "news": [
+        {
+            "date": "2022/04/22",
+            "title": "＜当日券販売決定！＞「ももクロ春の一大事2022」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6873"
+        },
         {
             "date": "2022/04/21",
             "title": "＜4月分公開!!＞玉井詩織 AE会員向けデジタルコンテンツ！",
@@ -45,11 +50,6 @@
             "date": "2022/04/19",
             "title": "【4/19(火)情報更新 】＜Q&A＞「ももクロ春の一大事2022」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6825"
-        },
-        {
-            "date": "2022/04/19",
-            "title": "＜5/17(火)発売！『祝典』収録楽曲発表映像を毎日公開！＞14曲目は「孤独の中で鳴るBeatっ！」に決定！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6862"
         }
     ]
 }
