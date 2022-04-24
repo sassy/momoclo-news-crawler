@@ -1,15 +1,20 @@
 {
-    "updated": "2022/04/23",
+    "updated": "2022/04/24",
     "news": [
+        {
+            "date": "2022/04/24",
+            "title": "【本日DAY2開催！クローク情報などを更新】＜当日のしおり＞「ももクロ春の一大事2022」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6869"
+        },
+        {
+            "date": "2022/04/24",
+            "title": "＜DAY2公演のニコ生配信決定！＞「ももクロ春の一大事2022」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6859"
+        },
         {
             "date": "2022/04/23",
             "title": "＜座長は“ももクロの若大将”玉井詩織！＞“ももクロ一座”がパワーアップして明治座の舞台に帰ってくる！第2回公演は壮大なスケールで贈る大江戸ミュージカル！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6874"
-        },
-        {
-            "date": "2022/04/23",
-            "title": "＜当日のしおり＞「ももクロ春の一大事2022」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6869"
         },
         {
             "date": "2022/04/22",
@@ -45,11 +50,6 @@
             "date": "2022/04/21",
             "title": "【2022/4/21(木)情報更新】＜ファンクラブブース設置決定！＞会場でお得な新規ご入会・会員継続を受付します！さらに、AE会員様限定ゲリラ企画も開催！？「ももクロ春の一大事2022」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6861"
-        },
-        {
-            "date": "2022/04/20",
-            "title": "＜5/17(火)発売！『祝典』収録楽曲発表映像を毎日公開！＞15曲目は新曲「手紙」に決定！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6864"
         }
     ]
 }
