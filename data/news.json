@@ -1,6 +1,11 @@
 {
-    "updated": "2022/04/26",
+    "updated": "2022/04/27",
     "news": [
+        {
+            "date": "2022/04/27",
+            "title": "＜5/17(火)『祝典』リリース記念！＞日本最大級ニュースアプリ「SmartNews」内にももクロチャンネルが開設！",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6882"
+        },
         {
             "date": "2022/04/26",
             "title": "「ももクロ春の一大事2022」三町合同大会ジャージーの色移りに関するお詫びとお知らせ",
@@ -45,11 +50,6 @@
             "date": "2022/04/24",
             "title": "開催決定！7月30日・31日 ももクロ夏のバカ騒ぎ2022 in ベルーナドーム",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6879"
-        },
-        {
-            "date": "2022/04/24",
-            "title": "開催決定！佐々木彩夏ソロコンサート AYAKA NATION2022 in TOKYO GARDEN THEATRE",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6878"
         }
     ]
 }
