@@ -1,6 +1,11 @@
 {
-    "updated": "2022/05/15",
+    "updated": "2022/05/16",
     "news": [
+        {
+            "date": "2022/05/16",
+            "title": "＜スケジュール＞05/16(月)～05/22(日)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6943"
+        },
         {
             "date": "2022/05/16",
             "title": "【Movie】「メッセージの向こうから」2022.05.15「MOMOIRO CLOVER Z 6th ALBUM TOUR “祝典” 東京・日本武道館」",
@@ -45,11 +50,6 @@
             "date": "2022/05/13",
             "title": "＜当日のしおり＞5/13(金)大阪府・フェスティバルホール公演「MOMOIRO CLOVER Z 6th ALBUM TOUR “祝典”」【ご入場・注意事項について】",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6935"
-        },
-        {
-            "date": "2022/05/13",
-            "title": "＜9/17(土)・18(日)、19(月・祝)開催！＞「イナズマロック フェス 2022」出演決定！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6938"
         }
     ]
 }
