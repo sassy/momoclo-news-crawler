@@ -1,6 +1,11 @@
 {
-    "updated": "2022/05/17",
+    "updated": "2022/05/18",
     "news": [
+        {
+            "date": "2022/05/18",
+            "title": "＜限定企画第2弾スタート！＞日本最大級ニュースアプリ「SmartNews」内にももクロチャンネルが開設！",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6882"
+        },
         {
             "date": "2022/05/17",
             "title": "＜本日5/17(火)『祝典』発売！＞百田夏菜子初主演ドラマ「僕の大好きな妻！」の主題歌「なんとなく最低な日々」のアニメーションMVを公開！",
@@ -45,11 +50,6 @@
             "date": "2022/05/16",
             "title": "＜本日の祝電＞5月15日(日) 東京都 日本武道館",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6900"
-        },
-        {
-            "date": "2022/05/16",
-            "title": "＜本日5/16(月)夜9時からABEMAにて生放送！＞『MOMOIRO CLOVER Z 6th ALBUM「祝典」発売前夜祭 』",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6899"
         }
     ]
 }
