@@ -1,10 +1,15 @@
 {
-    "updated": "2022/05/20",
+    "updated": "2022/05/21",
     "news": [
         {
-            "date": "2022/05/20",
+            "date": "2022/05/21",
             "title": "＜当日のしおり＞5/21(土)岡山県津山市公演「MOMOIRO CLOVER Z 6th ALBUM TOUR “祝典”」【ご入場・注意事項について】",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6970"
+        },
+        {
+            "date": "2022/05/21",
+            "title": "＜当日のしおり＞5/22(日)愛媛県今治市公演「MOMOIRO CLOVER Z 6th ALBUM TOUR “祝典”」【ご入場・注意事項について】",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6971"
         },
         {
             "date": "2022/05/20",
@@ -45,11 +50,6 @@
             "date": "2022/05/18",
             "title": "＜5/25(水)放送！＞フジテレビ『ナンバMG5』第6話のゲスト出演決定！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6957"
-        },
-        {
-            "date": "2022/05/18",
-            "title": "＜限定企画第2弾スタート！＞日本最大級ニュースアプリ「SmartNews」内にももクロチャンネルが開設！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6882"
         }
     ]
 }
