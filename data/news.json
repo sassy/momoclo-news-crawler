@@ -3,12 +3,17 @@
     "news": [
         {
             "date": "2022/05/26",
+            "title": "＜6/18(土)高城れに出演！＞「YATSUI FESTIVAL! 2022」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6977"
+        },
+        {
+            "date": "2022/05/26",
             "title": "＜出演決定！＞「ROCK IN JAPAN FESTIVAL 2022」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6968"
         },
         {
             "date": "2022/05/25",
-            "title": "＜本日5/25(水)22:00～放送！＞フジテレビ『ナンバMG5』第6話のゲスト出演決定！",
+            "title": "＜ご視聴ありがとうございました！＞フジテレビ『ナンバMG5』第6話のゲスト出演決定！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6957"
         },
         {
@@ -45,11 +50,6 @@
             "date": "2022/05/22",
             "title": "＜今治市のPRコーナーを音声でお届け！in 祝典ツアー＞5月22日(日)愛媛県・今治市 今治市公会堂",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6918"
-        },
-        {
-            "date": "2022/05/22",
-            "title": "＜本日の祝電＞5月22日(日) 愛媛県 今治市",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6900"
         }
     ]
 }
