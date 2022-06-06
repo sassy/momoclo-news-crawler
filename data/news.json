@@ -3,12 +3,27 @@
     "news": [
         {
             "date": "2022/06/06",
+            "title": "＜チケットのAE会員先行受付スタート！～6/12(日)23:59まで＞「AYAKA NATION 2022 in TOKYO GARDEN THEATER」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6990"
+        },
+        {
+            "date": "2022/06/06",
+            "title": "【NFTホルダー限定シートが決定！】＜ももクロNFT第二弾！＞“SNSアイコンに設定可能”なNFTアートが登場！「ももクロ×モノノフ×NFT！」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6986"
+        },
+        {
+            "date": "2022/06/06",
+            "title": "＜愛知県西尾市・栃木県佐野市・福岡県福岡市の募集開始！＞「祝典」開催記念！みなさまからの祝電コメントを大募集！",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6996"
+        },
+        {
+            "date": "2022/06/06",
             "title": "＜スケジュール＞06/06(月)～06/12(日)",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6992"
         },
         {
             "date": "2022/06/04",
-            "title": "＜本日6/4(土)より放送スタート！＞【百田夏菜子連続ドラマ初主演！】土ドラ『僕の大好きな妻！』",
+            "title": "＜6/4(土)より放送スタート！＞【百田夏菜子連続ドラマ初主演！】土ドラ『僕の大好きな妻！』",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6849"
         },
         {
@@ -35,21 +50,6 @@
             "date": "2022/06/02",
             "title": "＜本日の祝電＞6/2(木)愛知県名古屋市 DAY2",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6900"
-        },
-        {
-            "date": "2022/06/02",
-            "title": "【公演詳細決定！AE会員先行受付は6/6(月)20:00からスタート！】「AYAKA NATION 2022 in TOKYO GARDEN THEATER」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6990"
-        },
-        {
-            "date": "2022/06/02",
-            "title": "＜当日のしおり＞6/2(木)名古屋・センチュリーホール公演「MOMOIRO CLOVER Z 6th ALBUM TOUR “祝典”」【ご入場・注意事項について】",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6987"
-        },
-        {
-            "date": "2022/06/02",
-            "title": "【Movie】「メッセージの向こうから」2022.06.01「MOMOIRO CLOVER Z 6th ALBUM TOUR “祝典” 愛知県名古屋市・センチュリーホールDAY1」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6989"
         }
     ]
 }
