@@ -1,6 +1,11 @@
 {
-    "updated": "2022/06/05",
+    "updated": "2022/06/06",
     "news": [
+        {
+            "date": "2022/06/06",
+            "title": "＜スケジュール＞06/06(月)～06/12(日)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6992"
+        },
         {
             "date": "2022/06/04",
             "title": "＜本日6/4(土)より放送スタート！＞【百田夏菜子連続ドラマ初主演！】土ドラ『僕の大好きな妻！』",
@@ -45,11 +50,6 @@
             "date": "2022/06/02",
             "title": "【Movie】「メッセージの向こうから」2022.06.01「MOMOIRO CLOVER Z 6th ALBUM TOUR “祝典” 愛知県名古屋市・センチュリーホールDAY1」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6989"
-        },
-        {
-            "date": "2022/06/01",
-            "title": "＜ももクロNFT第二弾！＞“SNSアイコンに設定可能”なNFTアートが登場！「ももクロ×モノノフ×NFT！」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6986"
         }
     ]
 }
