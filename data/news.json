@@ -1,6 +1,11 @@
 {
-    "updated": "2022/06/06",
+    "updated": "2022/06/07",
     "news": [
+        {
+            "date": "2022/06/07",
+            "title": "【英語版をアップしました/English version is now available】佐々木彩夏インタビュー掲載！「MONTHLY AE」4月号",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=6894"
+        },
         {
             "date": "2022/06/06",
             "title": "＜チケットのAE会員先行受付スタート！～6/12(日)23:59まで＞「AYAKA NATION 2022 in TOKYO GARDEN THEATER」",
@@ -45,11 +50,6 @@
             "date": "2022/06/02",
             "title": "【Movie】「メッセージの向こうから」2022.06.02「MOMOIRO CLOVER Z 6th ALBUM TOUR “祝典” 愛知県名古屋市・センチュリーホールDAY2」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=6991"
-        },
-        {
-            "date": "2022/06/02",
-            "title": "＜本日の祝電＞6/2(木)愛知県名古屋市 DAY2",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=6900"
         }
     ]
 }
