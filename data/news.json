@@ -1,6 +1,11 @@
 {
-    "updated": "2022/06/30",
+    "updated": "2022/07/01",
     "news": [
+        {
+            "date": "2022/07/01",
+            "title": "＜各プレイガイドのチケット一般抽選受付は7/1(金)18:00スタート！＞「ももクロ夏のバカ騒ぎ2022 -MOMOFEST-」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7053"
+        },
         {
             "date": "2022/07/01",
             "title": "ももクロ×フマキラー『走れ！-PLAY ACTIVE！2022 ver.-』のミュージックビデオ公開！",
@@ -18,7 +23,7 @@
         },
         {
             "date": "2022/06/28",
-            "title": "＜本日6/28(火)20:00から！ABEMA PPV ONLINE LIVEにて生配信！＞『ももクロ  6月怒涛の合同生誕祭!!〜黄桃紫 3人合わせて82祭〜』",
+            "title": "＜ご視聴ありがとうございました！7/28(木)23:59まで視聴チケット販売中！＞『ももクロ  6月怒涛の合同生誕祭!!〜黄桃紫 3人合わせて82祭〜』",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7028"
         },
         {
@@ -45,11 +50,6 @@
             "date": "2022/06/25",
             "title": "映画『ももいろクローバーZ  ～アイドルの向こう側～〈特別上映版〉』 8月19日(金)劇場公開決定！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7048"
-        },
-        {
-            "date": "2022/06/25",
-            "title": "＜当日のしおり＞6/25(土)東京・武蔵野の森総合スポーツプラザ公演「MOMOIRO CLOVER Z 6th ALBUM TOUR “祝典”」【ご入場・注意事項について】",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7046"
         }
     ]
 }
