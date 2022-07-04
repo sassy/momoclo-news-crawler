@@ -1,6 +1,11 @@
 {
-    "updated": "2022/07/03",
+    "updated": "2022/07/04",
     "news": [
+        {
+            "date": "2022/07/04",
+            "title": "＜スケジュール＞07/04(月)～07/10(日)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7060"
+        },
         {
             "date": "2022/07/02",
             "title": "【7/2(土)情報更新：チケット無料当選者を発表！】＜ANGEL EYES 10周年記念＞感謝還元マニフェスト発表！",
@@ -45,11 +50,6 @@
             "date": "2022/06/28",
             "title": "＜7/12(火)21:00から！ABEMA PPV ONLINE LIVEにて生配信決定！＞『ももクロ7月怒涛の合同生誕祭？〜赤は1人で開祭〜』",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7050"
-        },
-        {
-            "date": "2022/06/28",
-            "title": "＜ご視聴ありがとうございました！7/28(木)23:59まで視聴チケット販売中！＞『ももクロ  6月怒涛の合同生誕祭!!〜黄桃紫 3人合わせて82祭〜』",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7028"
         }
     ]
 }
