@@ -1,6 +1,11 @@
 {
-    "updated": "2022/07/14",
+    "updated": "2022/07/15",
     "news": [
+        {
+            "date": "2022/07/15",
+            "title": "【タイムテーブル公開！】＜8/7(日)佐々木彩夏・浪江女子発組合出演決定！＞「TOKYO IDOL FESTIVAL 2022」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7040"
+        },
         {
             "date": "2022/07/14",
             "title": "【7月14日(木)情報更新】＜受注期間は7月15日(金)23:59まで！＞『AEファンド「ももクロ夏のバカ騒ぎ2022 -MOMOFEST-」』販売！",
@@ -45,11 +50,6 @@
             "date": "2022/07/12",
             "title": "＜7月分公開!!＞玉井詩織 AE会員向けデジタルコンテンツ！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7079"
-        },
-        {
-            "date": "2022/07/12",
-            "title": "＜おひさまかなこちゃん！お誕生日おめでとう！ ＞『とびだせ！ぐーちょきぱーてぃー』より「お宝ハンターキャプテンかなこ 〜島の秘宝と漢字の謎〜」を公開！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7076"
         }
     ]
 }
