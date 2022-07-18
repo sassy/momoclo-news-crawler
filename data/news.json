@@ -1,6 +1,11 @@
 {
-    "updated": "2022/07/17",
+    "updated": "2022/07/18",
     "news": [
+        {
+            "date": "2022/07/18",
+            "title": "＜7/19(日)0:00より配信スタート！＞佐々木彩夏の新曲「Lady Cat」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7100"
+        },
         {
             "date": "2022/07/17",
             "title": "＜当日のしおり＞佐々木彩夏ソロコンサート「AYAKA NATION 2022 in TOKYO GARDEN THEATER」【ご入場・注意事項について】",
@@ -13,7 +18,7 @@
         },
         {
             "date": "2022/07/17",
-            "title": "＜ファンクラブブース情報！＞「AYAKA NATION 2022」オンライン抽選会開催！",
+            "title": "＜本日7/18(月・祝)13:00～オンライン抽選会開催スタート！＞「AYAKA NATION 2022」ファンクラブブース情報！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7088"
         },
         {
@@ -45,11 +50,6 @@
             "date": "2022/07/15",
             "title": "佐々木彩夏ソロコンサート「AYAKA NATION 2022」 物販情報公開！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7087"
-        },
-        {
-            "date": "2022/07/15",
-            "title": "＜「AYAKA NATION 2022」開催記念！＞有明ガーデンとのコラボレーション「有明“あーりん”コレクション」開催決定！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7094"
         }
     ]
 }
