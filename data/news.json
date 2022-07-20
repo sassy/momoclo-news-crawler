@@ -1,6 +1,11 @@
 {
-    "updated": "2022/07/19",
+    "updated": "2022/07/20",
     "news": [
+        {
+            "date": "2022/07/20",
+            "title": "＜7/21(木)20:00〜緊急生配信決定!!＞「ももクロ夏のバカ騒ぎ2022 -MOMOFEST-」直前TikTok LIVE",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7103"
+        },
         {
             "date": "2022/07/19",
             "title": "【7/19(火)情報更新：オンラインリスニングパーティー開催！】好評配信中！佐々木彩夏の新曲「Lady Cat」",
@@ -45,11 +50,6 @@
             "date": "2022/07/16",
             "title": "【Movie】「試合その後に」 2022.07.16「横浜DeNAベイスターズvs東京ヤクルトスワローズ」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7097"
-        },
-        {
-            "date": "2022/07/16",
-            "title": "「ももクロ夏のバカ騒ぎ2022-MOMOFEST-」グッズ発表！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7096"
         }
     ]
 }
