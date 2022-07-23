@@ -1,6 +1,11 @@
 {
-    "updated": "2022/07/22",
+    "updated": "2022/07/23",
     "news": [
+        {
+            "date": "2022/07/23",
+            "title": "＜本日22:00からニコ生で有料配信!!＞7/23(土) 「AYAKA NATION 2022 in TOKYO GARDEN THEATER 反省会」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7073"
+        },
         {
             "date": "2022/07/22",
             "title": "『ももいろクリスマス2021』のメイキングダイジェスト映像公開！ 展開図や特典も一挙公開！",
@@ -45,11 +50,6 @@
             "date": "2022/07/18",
             "title": "【7/18(月・祝)情報更新】＜各プレイガイドのチケット一般先着受付中！＞「ももクロ夏のバカ騒ぎ2022 -MOMOFEST-」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7083"
-        },
-        {
-            "date": "2022/07/18",
-            "title": "【Movie】「ライブその後に」 2022.07.18「AYAKA NATION 2022 in TOKYO GARDEN THEATER 」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7102"
         }
     ]
 }
