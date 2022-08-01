@@ -3,6 +3,11 @@
     "news": [
         {
             "date": "2022/08/01",
+            "title": "＜ももクロ公式YouTubeにて明日8/2(火)より4日間連続公開決定！＞ももクロライブ放出祭開催！",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7133"
+        },
+        {
+            "date": "2022/08/01",
             "title": "【ご来場・ABEMAでのご視聴ありがとうございました！】＜当日のしおり＞「ももクロ夏のバカ騒ぎ2022 -MOMOFEST-」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7115"
         },
@@ -45,11 +50,6 @@
             "date": "2022/07/29",
             "title": "【夏季休業のご案内】ANGEL EYESインフォメーション・ももクロチケット",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7110"
-        },
-        {
-            "date": "2022/07/29",
-            "title": "＜両日とも当日券販売が決定！＞「ももクロ夏のバカ騒ぎ2022 -MOMOFEST-」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7124"
         }
     ]
 }
