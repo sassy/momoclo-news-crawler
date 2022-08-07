@@ -3,6 +3,11 @@
     "news": [
         {
             "date": "2022/08/07",
+            "title": "【Movie】「ライブその後に」 2022.08.07 「TOKYO IDOL FESTIVAL 2022」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7144"
+        },
+        {
+            "date": "2022/08/07",
             "title": "＜本日8/7(日)19:00〜再配信!!反省会はチケット販売中!!＞「AYAKA NATION 2022 in TOKYO GARDEN THEATER」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7073"
         },
@@ -18,12 +23,12 @@
         },
         {
             "date": "2022/08/05",
-            "title": "【本日8月5日(金)21:00より独占配信スタート!!】ももいろクローバーZがココロを込めてお手伝い！Paraviオリジナルバラエティ『お手伝いももクロトラベル』",
+            "title": "【8月5日(金)21:00より独占配信スタート!!】ももいろクローバーZがココロを込めてお手伝い！Paraviオリジナルバラエティ『お手伝いももクロトラベル』",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7128"
         },
         {
             "date": "2022/08/05",
-            "title": "＜本日8/5(金)19:00公開！ももクロライブ放出祭ラスト！＞ROCK IN JAPAN FESTIVAL 2019より「走れ！ -ZZ ver.-」を公開！",
+            "title": "＜8/5(金)19:00公開！ももクロライブ放出祭ラスト！＞ROCK IN JAPAN FESTIVAL 2019より「走れ！ -ZZ ver.-」を公開！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7136"
         },
         {
@@ -33,7 +38,7 @@
         },
         {
             "date": "2022/08/04",
-            "title": "＜本日8/4(木)19:00公開！ももクロライブ放出祭3日日！＞ももクロ夏の大型ライブより「行くぜっ！怪盗少女 -ZZ ver.-」を公開！",
+            "title": "＜8/4(木)19:00公開！ももクロライブ放出祭3日日！＞ももクロ夏の大型ライブより「行くぜっ！怪盗少女 -ZZ ver.-」を公開！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7137"
         },
         {
@@ -43,13 +48,8 @@
         },
         {
             "date": "2022/08/03",
-            "title": "＜本日8/3(水)19:00公開！ももクロライブ放出祭2日日！＞ももクロ夏の大型ライブより定番夏曲「ココ☆ナツ」を公開！",
+            "title": "＜8/3(水)19:00公開！ももクロライブ放出祭2日日！＞ももクロ夏の大型ライブより定番夏曲「ココ☆ナツ」を公開！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7135"
-        },
-        {
-            "date": "2022/08/03",
-            "title": "＜本日8/3(水)発売！ももくろちゃんZ『とびだせ！ぐーちょきぱーてぃー Season 3』BD&DVD＞過去作Season 1、Season 2の本編映像が1回きりのプレミア公開決定！＆「ぬりえプラバン」コンテスト開催！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7138"
         }
     ]
 }
