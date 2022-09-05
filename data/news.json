@@ -1,6 +1,11 @@
 {
-    "updated": "2022/09/04",
+    "updated": "2022/09/05",
     "news": [
+        {
+            "date": "2022/09/05",
+            "title": "＜スケジュール＞09/05(月)～09/11(日)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7196"
+        },
         {
             "date": "2022/09/04",
             "title": "【Movie】「生配信その後に」 2022.09.03 「週末ヒロインももいろクローバーＺの「自由」presented by SOPHISTANCE」",
@@ -45,11 +50,6 @@
             "date": "2022/08/31",
             "title": "＜2022年6月号発行！＞AE会員様だけのお楽しみ！「MONTHLY PDF」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7175"
-        },
-        {
-            "date": "2022/08/29",
-            "title": "＜大好評上映中！＞映画『ももいろクローバーＺ ～アイドルの向こう側～〈特別上映版〉』 大ヒット御礼舞台挨拶実施決定！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7188"
         }
     ]
 }
