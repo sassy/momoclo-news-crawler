@@ -1,6 +1,11 @@
 {
-    "updated": "2022/09/11",
+    "updated": "2022/09/12",
     "news": [
+        {
+            "date": "2022/09/12",
+            "title": "＜スケジュール＞09/12(月)～09/18(日)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7203"
+        },
         {
             "date": "2022/09/10",
             "title": "＜公演概要・チケットAE先行受付決定！＞【週末ヒロインももいろクローバーZ LIVE 「origin」】宮城・和歌山・群馬公演",
@@ -45,11 +50,6 @@
             "date": "2022/09/01",
             "title": "9月1日は防災の日！佐々木彩夏が総合プロデューサーを務める浪江女子発組合が東日本大震災の教訓を今に伝える映像を公開",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7194"
-        },
-        {
-            "date": "2022/09/01",
-            "title": "百田夏菜子がNHK「みんなのうた」に初登場！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7195"
         }
     ]
 }
