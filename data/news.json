@@ -1,6 +1,16 @@
 {
-    "updated": "2022/10/02",
+    "updated": "2022/10/03",
     "news": [
+        {
+            "date": "2022/10/03",
+            "title": "＜ご参加可能都道府県を変更しました・一般抽選受付は10/5(水)23:59まで！＞【週末ヒロインももいろクローバーZ LIVE 「origin」】宮城公演",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7226"
+        },
+        {
+            "date": "2022/10/03",
+            "title": "＜スケジュール＞10/03(月)～10/09(日)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7238"
+        },
         {
             "date": "2022/10/01",
             "title": "＜公演詳細決定！AE限定受付は10/3(月)21:00～10/10(月・祝)23:59まで＞「ANGEL EYES限定イベント2022」",
@@ -18,7 +28,7 @@
         },
         {
             "date": "2022/10/01",
-            "title": "＜本日10/1(土)15:30から公式YouTubeチャンネルにて生配信！＞オールももクロ告知祭’22 秋",
+            "title": "＜ご視聴ありがとうございました！アーカイブ公開中！＞オールももクロ告知祭’22 秋",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7225"
         },
         {
@@ -33,23 +43,13 @@
         },
         {
             "date": "2022/09/30",
-            "title": "【一般発売2次決定！10/1(土)昼12:00～10/2(日)23:59まで！】＜10/8(土)東京国際フォーラム・ホールAにオープン！＞『ももいろクローバーZ　ももクロくらぶxoxo presents スナック愛輪』",
+            "title": "【一般発売2次受付は終了しました】＜10/8(土)東京国際フォーラム・ホールAにオープン！＞『ももいろクローバーZ　ももクロくらぶxoxo presents スナック愛輪』",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7186"
         },
         {
             "date": "2022/09/30",
             "title": "＜10/14(金)朝5:00から放送スタート！＞BS朝日「おはよう！ももクロChan」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7235"
-        },
-        {
-            "date": "2022/09/29",
-            "title": "＜発売中！＞『祝典』ライブBlu-rayをDolby Atmos®でももクロが体験！ リアクション動画を公開！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7234"
-        },
-        {
-            "date": "2022/09/29",
-            "title": "＜11/3(木・祝)開催！＞「MTV VMAJ 2022 -THE LIVE-」出演決定！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7232"
         }
     ]
 }
