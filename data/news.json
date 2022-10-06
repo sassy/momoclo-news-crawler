@@ -3,6 +3,11 @@
     "news": [
         {
             "date": "2022/10/06",
+            "title": "＜ファンクラブブース情報！＞10/8(土)開催！『ももクロくらぶxoxo』 presents 「スナック愛輪」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7247"
+        },
+        {
+            "date": "2022/10/06",
             "title": "＜AE会員先行中！～10/6(木)23:59まで！＞11/ 23(水・祝)⼤阪城ホールにて開催！『関⻄テレビ開局 65 年突⼊！ Livejack SPECIAL 2022』",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7224"
         },
@@ -28,7 +33,7 @@
         },
         {
             "date": "2022/10/03",
-            "title": "【10/3(月)情報更新！】＜スケジュール＞10/03(月)～10/09(日)",
+            "title": "【10/6(木)情報更新！】＜スケジュール＞10/03(月)～10/09(日)",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7238"
         },
         {
@@ -45,11 +50,6 @@
             "date": "2022/10/01",
             "title": "＜ご視聴ありがとうございました！アーカイブ公開中！＞オールももクロ告知祭’22 秋",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7225"
-        },
-        {
-            "date": "2022/09/30",
-            "title": "玉井詩織インタビュー掲載！「MONTHLY AE」9月号",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7243"
         }
     ]
 }
