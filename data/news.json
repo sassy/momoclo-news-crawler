@@ -1,9 +1,14 @@
 {
-    "updated": "2022/10/19",
+    "updated": "2022/10/20",
     "news": [
         {
+            "date": "2022/10/20",
+            "title": "仲本さんへ",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7272"
+        },
+        {
             "date": "2022/10/19",
-            "title": "＜本日10/19(水)22:00より＞『祝典』日本武道館公演ダイジェストver.一夜限りのプレミア公開生放送！",
+            "title": "＜たくさんのご視聴ありがとうございました！プレミア公開は終了しました。＞『祝典』日本武道館公演ダイジェストver.一夜限りのプレミア公開生放送！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7269"
         },
         {
@@ -45,11 +50,6 @@
             "date": "2022/10/14",
             "title": "＜涌谷町とのコラボグッズ販売が決定！＞週末ヒロインももいろクローバーZ LIVE 「origin」10/16(日)宮城県・涌谷町公演",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7262"
-        },
-        {
-            "date": "2022/10/14",
-            "title": "【百田夏菜子】映画『ブラックパンサー／ワカンダ・フォーエバー』シュリ役に続投決定！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7260"
         }
     ]
 }
