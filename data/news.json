@@ -1,6 +1,11 @@
 {
-    "updated": "2022/10/23",
+    "updated": "2022/10/24",
     "news": [
+        {
+            "date": "2022/10/24",
+            "title": "【10/24(月)情報更新！】＜スケジュール＞10/24(月)～10/30(日)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7276"
+        },
         {
             "date": "2022/10/24",
             "title": "＜群馬公演の一般抽選2次受付スタート！～10/26(水)23:59まで＞【週末ヒロインももいろクローバーZ LIVE 「origin」】",
@@ -45,11 +50,6 @@
             "date": "2022/10/17",
             "title": "【10/17(月)情報更新！】＜スケジュール＞10/17(月)～10/23(日)",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7264"
-        },
-        {
-            "date": "2022/10/16",
-            "title": "【Movie】「ライブその後に」 2022.10.16 　『週末ヒロインももいろクローバーZ LIVE 「origin」涌谷町公演』",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7267"
         }
     ]
 }
