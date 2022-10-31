@@ -3,7 +3,12 @@
     "news": [
         {
             "date": "2022/10/31",
-            "title": "＜スケジュール＞10/31(月)～11/6(日)",
+            "title": "百田夏菜子インタビュー掲載！「MONTHLY AE」10月号",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7295"
+        },
+        {
+            "date": "2022/10/31",
+            "title": "【10/31(月)情報更新！】＜スケジュール＞10/31(月)～11/6(日)",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7291"
         },
         {
@@ -45,11 +50,6 @@
             "date": "2022/10/27",
             "title": "＜10月分公開!!＞玉井詩織 AE会員向けデジタルコンテンツ！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7286"
-        },
-        {
-            "date": "2022/10/26",
-            "title": "＜AE先行受付スタート！～10/31(月)23:59まで！＞2023/1/14(土)開催！『スタプラアイドルフェスティバル～今宵、シンデレラグループが決まる～powered by スタプラアイドルラジオ』",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7252"
         }
     ]
 }
