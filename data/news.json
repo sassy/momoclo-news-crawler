@@ -1,6 +1,11 @@
 {
-    "updated": "2022/10/30",
+    "updated": "2022/10/31",
     "news": [
+        {
+            "date": "2022/10/31",
+            "title": "＜スケジュール＞10/31(月)～11/6(日)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7291"
+        },
         {
             "date": "2022/10/29",
             "title": "【Movie】「ライブその後に」 2022.10.29 『週末ヒロインももいろクローバーZ LIVE 「origin」上富田町公演』",
@@ -45,11 +50,6 @@
             "date": "2022/10/26",
             "title": "＜AE先行受付スタート！～10/31(月)23:59まで！＞2023/1/14(土)開催！『スタプラアイドルフェスティバル～今宵、シンデレラグループが決まる～powered by スタプラアイドルラジオ』",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7252"
-        },
-        {
-            "date": "2022/10/26",
-            "title": "＜10月26日(水)販売開始！＞「ももクロ公式パンフレットNFT」販売決定！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7270"
         }
     ]
 }
