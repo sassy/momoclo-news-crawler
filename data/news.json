@@ -1,6 +1,11 @@
 {
-    "updated": "2022/11/05",
+    "updated": "2022/11/06",
     "news": [
+        {
+            "date": "2022/11/06",
+            "title": "お知らせ",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7305"
+        },
         {
             "date": "2022/11/05",
             "title": "＜AE先行受付は11月9日(水)23:59まで！＞「ももいろクリスマス2022 LOVE」",
@@ -45,11 +50,6 @@
             "date": "2022/10/31",
             "title": "【10/31(月)情報更新！】＜スケジュール＞10/31(月)～11/6(日)",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7291"
-        },
-        {
-            "date": "2022/10/29",
-            "title": "【Movie】「ライブその後に」 2022.10.29 『週末ヒロインももいろクローバーZ LIVE 「origin」上富田町公演』",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7294"
         }
     ]
 }
