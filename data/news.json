@@ -3,6 +3,11 @@
     "news": [
         {
             "date": "2022/11/19",
+            "title": "【Movie】「ライブその後に」 2022.11.19 「ANGEL EYES限定イベント2022」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7331"
+        },
+        {
+            "date": "2022/11/19",
             "title": "＜オンライン抽選会開催中！～12/3(土)23:59まで＞「ANGEL EYES限定イベント2022」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7323"
         },
@@ -45,11 +50,6 @@
             "date": "2022/11/14",
             "title": "2023年、ももいろクローバーZより新年のご挨拶！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7317"
-        },
-        {
-            "date": "2022/11/14",
-            "title": "＜MSRSをアップいたしました＞「ANGEL EYES限定イベント2022」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7241"
         }
     ]
 }
