@@ -1,6 +1,11 @@
 {
-    "updated": "2022/12/02",
+    "updated": "2022/12/03",
     "news": [
+        {
+            "date": "2022/12/03",
+            "title": "＜チケットのマッチング受付・一般抽選二次受付スタート！＞「ももいろクリスマス2022 LOVE」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7360"
+        },
         {
             "date": "2022/12/02",
             "title": "＜2022年10月号発行！＞AE会員様だけのお楽しみ！「MONTHLY PDF」",
@@ -45,11 +50,6 @@
             "date": "2022/11/28",
             "title": "【IC会員証】を紛失された会員様へのご案内：「ももいろクリスマス2022 LOVE」＜12/24(土)・12/25(日)＞",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7347"
-        },
-        {
-            "date": "2022/11/28",
-            "title": "＜スケジュール＞11/28(月)～12/4(日)",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7345"
         }
     ]
 }
