@@ -1,6 +1,11 @@
 {
-    "updated": "2022/12/06",
+    "updated": "2022/12/07",
     "news": [
+        {
+            "date": "2022/12/07",
+            "title": "＜DAY2 12/25(日)公演＞のABEMA生配信が決定！「ももいろクリスマス2022 LOVE」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7369"
+        },
         {
             "date": "2022/12/06",
             "title": "【Movie】「ライブその後に」 2022.12.06  「ヒダノ修一ソロ太鼓デビュー”30＋2” 周年記念コンサート ～This is ヒダノ修一」",
@@ -45,11 +50,6 @@
             "date": "2022/11/30",
             "title": "佐々木彩夏インタビュー掲載！「MONTHLY AE」11月号",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7359"
-        },
-        {
-            "date": "2022/11/30",
-            "title": "＜配信中！＞『デレステ』コラボ楽曲「Majoram Therapie」ミュージックビデオを公開！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7357"
         }
     ]
 }
