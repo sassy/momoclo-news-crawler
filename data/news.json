@@ -3,8 +3,13 @@
     "news": [
         {
             "date": "2022/12/27",
-            "title": "＜チケット一般先着受付期間が12/27(火)18:00までに延長となりました＞「第6回 ももいろ歌合戦」",
+            "title": "＜ チケット当日券販売決定！12/28(昼)12:00からWEB受付スタート！＞「第6回 ももいろ歌合戦」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7335"
+        },
+        {
+            "date": "2022/12/27",
+            "title": "＜2023/3/8(水)発売！＞最新フルアルバム『祝典』のLP盤発売決定！店舗別特典も公開！",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7415"
         },
         {
             "date": "2022/12/26",
@@ -45,11 +50,6 @@
             "date": "2022/12/25",
             "title": "＜本日DAY2開催！当日券販売中＆ABEMA生配信も！＞当日のしおり「ももいろクリスマス2022 LOVE」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7397"
-        },
-        {
-            "date": "2022/12/25",
-            "title": "各配信チケット販売中！＜DAY2 12/25(日)公演ABEMA生配信！＞「ももいろクリスマス2022 LOVE」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7369"
         }
     ]
 }
