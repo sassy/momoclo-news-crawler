@@ -1,6 +1,16 @@
 {
-    "updated": "2022/12/28",
+    "updated": "2022/12/29",
     "news": [
+        {
+            "date": "2022/12/29",
+            "title": "当日のしおり「第6回 ももいろ歌合戦」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7398"
+        },
+        {
+            "date": "2022/12/29",
+            "title": "【12/29(木)情報更新】＜ チケット当日券販売中！＞「第6回 ももいろ歌合戦」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7335"
+        },
         {
             "date": "2022/12/28",
             "title": "＜12/31(土)開催！＞「第6回ももいろ歌合戦」オフィシャルグッズ発表 & 当日会場物販情報公開！",
@@ -28,11 +38,6 @@
         },
         {
             "date": "2022/12/27",
-            "title": "＜ チケット当日券販売決定！12/28(昼)12:00からWEB受付スタート！＞「第6回 ももいろ歌合戦」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7335"
-        },
-        {
-            "date": "2022/12/27",
             "title": "＜2023/3/8(水)発売！＞最新フルアルバム『祝典』のLP盤発売決定！店舗別特典も公開！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7415"
         },
@@ -45,11 +50,6 @@
             "date": "2022/12/26",
             "title": "ももクログッズ ANGEL EYES会員先行SALE開催決定！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7406"
-        },
-        {
-            "date": "2022/12/26",
-            "title": "＜12月26日(月)昼12:00販売開始！＞「ももクロ公式パンフレットNFT」VOL.4～VOL.6",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7270"
         }
     ]
 }
