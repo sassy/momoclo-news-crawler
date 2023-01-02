@@ -1,6 +1,11 @@
 {
-    "updated": "2023/01/01",
+    "updated": "2023/01/02",
     "news": [
+        {
+            "date": "2023/01/02",
+            "title": "＜スケジュール＞1/2(月・祝)～1/8(日)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7422"
+        },
         {
             "date": "2023/01/01",
             "title": "『ももいろクリスマス2022 LOVE』から新曲「L.O.V.E」ライブ映像を初公開！",
@@ -45,11 +50,6 @@
             "date": "2022/12/28",
             "title": "＜ファンクラブブース情報！＞「第6回 ももいろ歌合戦」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7414"
-        },
-        {
-            "date": "2022/12/28",
-            "title": "【有料生配信決定！】＜1/2(月)佐々木彩夏＆浪江女子発組合出演！＞「TOKYO IDOL PROJECT×@JAM ニューイヤープレミアムパーティー2023」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7320"
         }
     ]
 }
