@@ -1,6 +1,21 @@
 {
-    "updated": "2023/01/05",
+    "updated": "2023/01/06",
     "news": [
+        {
+            "date": "2023/01/06",
+            "title": "配信チケット販売中！＜完全版配信は\"本日1月6日(金)\" 正午～2023年1月31日(火)23:59まで！＞「ももいろクリスマス2022 LOVE」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7369"
+        },
+        {
+            "date": "2023/01/06",
+            "title": "＜1/10(火)よりキャンペーンスタート！＞「ももクロ×カラオケDAM」コラボキャンペーンの詳細を公開！",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7428"
+        },
+        {
+            "date": "2023/01/06",
+            "title": "年賀状未着について",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7416"
+        },
         {
             "date": "2023/01/02",
             "title": "＜スケジュール＞1/2(月・祝)～1/8(日)",
@@ -35,21 +50,6 @@
             "date": "2022/12/31",
             "title": "＜12月分公開!!＞玉井詩織 AE会員向けデジタルコンテンツ！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7418"
-        },
-        {
-            "date": "2022/12/29",
-            "title": "当日のしおり「第6回 ももいろ歌合戦」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7398"
-        },
-        {
-            "date": "2022/12/28",
-            "title": "＜12/31(土)開催！＞「第6回ももいろ歌合戦」オフィシャルグッズ発表 & 当日会場物販情報公開！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7413"
-        },
-        {
-            "date": "2022/12/28",
-            "title": "＜ファンクラブブース情報！＞「第6回 ももいろ歌合戦」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7414"
         }
     ]
 }
