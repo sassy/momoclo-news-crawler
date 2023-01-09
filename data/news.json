@@ -1,6 +1,11 @@
 {
-    "updated": "2023/01/08",
+    "updated": "2023/01/09",
     "news": [
+        {
+            "date": "2023/01/09",
+            "title": "＜スケジュール＞1/9(月・祝)～1/15(日)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7429"
+        },
         {
             "date": "2023/01/06",
             "title": "配信チケット販売中！＜完全版配信は\"本日1月6日(金)\" 正午～2023年1月31日(火)23:59まで！＞「ももいろクリスマス2022 LOVE」",
@@ -45,11 +50,6 @@
             "date": "2022/12/31",
             "title": "本日開催！「第6回 ももいろ歌合戦」出演情報・チケット情報はこちら！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7335"
-        },
-        {
-            "date": "2022/12/31",
-            "title": "＜12月分公開!!＞玉井詩織 AE会員向けデジタルコンテンツ！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7418"
         }
     ]
 }
