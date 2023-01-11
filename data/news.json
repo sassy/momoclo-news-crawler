@@ -1,6 +1,16 @@
 {
-    "updated": "2023/01/10",
+    "updated": "2023/01/11",
     "news": [
+        {
+            "date": "2023/01/11",
+            "title": "【1/11(水)情報更新 公演スケジュール発表！】＜玉井詩織出演！2023年6月新橋演舞場にて開催！＞東京喜劇「熱海五郎一座」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7277"
+        },
+        {
+            "date": "2023/01/11",
+            "title": "＜ファンクラブブース情報！＆現地継続特典リニューアル！＞『スタプラアイドルフェスティバル～今宵、シンデレラグループが決まる～powered by スタプラアイドルラジオ』",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7430"
+        },
         {
             "date": "2023/01/09",
             "title": "＜スケジュール＞1/9(月・祝)～1/15(日)",
@@ -40,16 +50,6 @@
             "date": "2023/01/01",
             "title": "【Movie】「ライブその後に」2022.12.31「第6回 ももいろ歌合戦」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7425"
-        },
-        {
-            "date": "2022/12/31",
-            "title": "高城れにインタビュー掲載！「MONTHLY AE」12月号",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7424"
-        },
-        {
-            "date": "2022/12/31",
-            "title": "本日開催！「第6回 ももいろ歌合戦」出演情報・チケット情報はこちら！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7335"
         }
     ]
 }
