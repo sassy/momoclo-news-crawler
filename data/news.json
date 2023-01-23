@@ -1,6 +1,11 @@
 {
-    "updated": "2023/01/22",
+    "updated": "2023/01/23",
     "news": [
+        {
+            "date": "2023/01/23",
+            "title": "＜スケジュール＞1/23(月)～1/29(日)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7454"
+        },
         {
             "date": "2023/01/20",
             "title": "＜チケット2次プレリザーブ受付中！～1/24(火)23:59まで＞ニッポン放送 ももいろクローバーＺ ももクロくらぶxoxo ～バレンタイン DE NIGHT だぁ～Ｚ！2023",
@@ -23,7 +28,7 @@
         },
         {
             "date": "2023/01/18",
-            "title": "＜AE会員先行受付中！～1/22(日)23:59まで＞「ももクロ春の一大事2023 in 福山市」",
+            "title": "＜AE会員先行受付中は終了しました＞「ももクロ春の一大事2023 in 福山市」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7446"
         },
         {
@@ -45,11 +50,6 @@
             "date": "2023/01/13",
             "title": "【Photo Report更新！】",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7439"
-        },
-        {
-            "date": "2023/01/13",
-            "title": "高城れに 新型コロナウイルス感染に関するご報告",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7445"
         }
     ]
 }
