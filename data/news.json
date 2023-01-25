@@ -3,6 +3,11 @@
     "news": [
         {
             "date": "2023/01/25",
+            "title": "【Photo Report更新！】",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7458"
+        },
+        {
+            "date": "2023/01/25",
             "title": "＜3/8(水)発売！＞最新フルアルバム『祝典』のLP盤の店舗別特典デザイン公開！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7456"
         },
@@ -45,11 +50,6 @@
             "date": "2023/01/16",
             "title": "【1/17(火)情報更新！】＜スケジュール＞1/16(月)～1/22(日)",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7444"
-        },
-        {
-            "date": "2023/01/14",
-            "title": "【Movie】「ライブその後に」2023.01.14「スタプラアイドルフェスティバル～今宵、シンデレラグループが決まる～powered by スタプラアイドルラジオ」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7447"
         }
     ]
 }
