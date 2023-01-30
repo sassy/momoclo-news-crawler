@@ -3,12 +3,17 @@
     "news": [
         {
             "date": "2023/01/30",
+            "title": "【英語版をアップしました/English version is now available】高城れにインタビュー掲載！「MONTHLY AE」12月号",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7424"
+        },
+        {
+            "date": "2023/01/30",
             "title": "＜AE会員先行2次受付開始！～1/31(火)23:59まで＞「ももクロ春の一大事2023 in 福山市」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7460"
         },
         {
             "date": "2023/01/30",
-            "title": "＜スケジュール＞1/30(月)～2/5(日)",
+            "title": "【1/30(月)情報更新！】＜スケジュール＞1/30(月)～2/5(日)",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7462"
         },
         {
@@ -45,11 +50,6 @@
             "date": "2023/01/23",
             "title": "【1/23(月)情報更新！】＜スケジュール＞1/23(月)～1/29(日)",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7454"
-        },
-        {
-            "date": "2023/01/20",
-            "title": "＜4/4（火）出演決定！＞Mrs. GREEN APPLE 対バンライブ",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7455"
         }
     ]
 }
