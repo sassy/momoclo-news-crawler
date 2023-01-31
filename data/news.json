@@ -3,12 +3,17 @@
     "news": [
         {
             "date": "2023/01/31",
-            "title": "＜チケット一般発売中！～1/31(火)23:59まで！＞ニッポン放送 ももいろクローバーＺ ももクロくらぶxoxo ～バレンタイン DE NIGHT だぁ～Ｚ！2023",
+            "title": "玉井詩織インタビュー掲載！「MONTHLY AE」1月号",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7468"
+        },
+        {
+            "date": "2023/01/31",
+            "title": "＜チケット一般発売受付終了＞ニッポン放送 ももいろクローバーＺ ももクロくらぶxoxo ～バレンタイン DE NIGHT だぁ～Ｚ！2023",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7383"
         },
         {
             "date": "2023/01/31",
-            "title": "＜AE会員先行2次受付開始！～1/31(火)23:59まで＞「ももクロ春の一大事2023 in 福山市」",
+            "title": "＜AE会員先行2次受付終了＞「ももクロ春の一大事2023 in 福山市」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7460"
         },
         {
@@ -45,11 +50,6 @@
             "date": "2023/01/25",
             "title": "＜3/8(水)発売！＞最新フルアルバム『祝典』のLP盤の店舗別特典デザイン公開！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7456"
-        },
-        {
-            "date": "2023/01/23",
-            "title": "【1/23(月)情報更新！】＜スケジュール＞1/23(月)～1/29(日)",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7454"
         }
     ]
 }
