@@ -3,6 +3,11 @@
     "news": [
         {
             "date": "2023/02/11",
+            "title": "【Movie】「ライブその後に」 2023.02.11『ニッポン放送 ももいろクローバーＺ ももクロくらぶxoxo ～バレンタイン DE NIGHT だぁ～Ｚ！2023「裏」』",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7482"
+        },
+        {
+            "date": "2023/02/11",
             "title": "＜AEバレンタイン先行受付開始！～2月19日(日)23:59まで＞「ももクロ春の一大事2023 in 福山市」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7481"
         },
@@ -45,11 +50,6 @@
             "date": "2023/02/06",
             "title": "＜スケジュール＞02/06(月)～02/12(日)",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7475"
-        },
-        {
-            "date": "2023/02/05",
-            "title": "【Movie】「花火大会その後に」2023.2.4「宇奈月温泉開湯100年プレ事業　第77回宇奈月温泉雪のカーニバル ももクロ音楽花火 」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7476"
         }
     ]
 }
