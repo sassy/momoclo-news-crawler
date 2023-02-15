@@ -3,6 +3,11 @@
     "news": [
         {
             "date": "2023/02/15",
+            "title": "＜3/5(日)11:00から放送！＞TOKYO MX『第2回 ももいろインフラーZ』",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7487"
+        },
+        {
+            "date": "2023/02/15",
             "title": "＜2023年4月・5月開催！＞「JAPAN JAM 2023」出演決定！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7478"
         },
@@ -13,7 +18,7 @@
         },
         {
             "date": "2023/02/14",
-            "title": "＜AE先行受付中！～2/14(火)23:59まで！＆横浜REI HOTELとのコラボレーションも！＞高城れにソロコンサート「Yokohama開高祭」",
+            "title": "＜AE先行受付は終了しました＞高城れにソロコンサート「Yokohama開高祭」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7479"
         },
         {
@@ -45,11 +50,6 @@
             "date": "2023/02/11",
             "title": "【Movie】「ライブその後に」 2023.02.11『ニッポン放送 ももいろクローバーＺ ももクロくらぶxoxo ～バレンタイン DE NIGHT だぁ～Ｚ！2023「裏」』",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7482"
-        },
-        {
-            "date": "2023/02/11",
-            "title": "＜AEバレンタイン先行受付開始！～2/19(日)23:59まで＞「ももクロ春の一大事2023 in 福山市」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7481"
         }
     ]
 }
