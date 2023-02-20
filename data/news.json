@@ -1,6 +1,11 @@
 {
-    "updated": "2023/02/19",
+    "updated": "2023/02/20",
     "news": [
+        {
+            "date": "2023/02/20",
+            "title": "＜スケジュール＞2/20(月)～2/26(日)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7494"
+        },
         {
             "date": "2023/02/19",
             "title": "＜2/19(日)24:00より配信スタート！＞玉井詩織ソロプロジェクト『SHIORI TAMAI 12 Colors』 2月曲は「Another World」！リスニングシェアキャンペーンも実施決定！",
@@ -13,7 +18,7 @@
         },
         {
             "date": "2023/02/18",
-            "title": "百田夏菜子「COHINA 2023 Spring Collection」のイメージモデルに決定！",
+            "title": "【百田夏菜子】「COHINA 2023 Spring Collection」のイメージモデルに決定！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7491"
         },
         {
@@ -45,11 +50,6 @@
             "date": "2023/02/14",
             "title": "【ドリンク代が￥600→￥500に変更になりました】＜2/14(火)18:00～一般発売開始＞佐々木彩夏プロデュース 2/19(日)開催 『浪江女子発組合 出張公演 ～合同生誕祭～』",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7469"
-        },
-        {
-            "date": "2023/02/14",
-            "title": "＜AE先行受付は終了しました＞高城れにソロコンサート「Yokohama開高祭」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7479"
         }
     ]
 }
