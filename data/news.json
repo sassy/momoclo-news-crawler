@@ -1,6 +1,11 @@
 {
-    "updated": "2023/02/21",
+    "updated": "2023/02/22",
     "news": [
+        {
+            "date": "2023/02/22",
+            "title": "＜一般抽選受付スタート！～2/26(日)23:59まで＞高城れにソロコンサート「Yokohama開高祭」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7496"
+        },
         {
             "date": "2023/02/21",
             "title": "【高城れに】＜3/29(水)発売！＞映画『かぐや様は告らせたい-ファーストキッスは終わらない-』のオープニング主題歌！『Love is Show』鈴木雅之 feat. 高城れに",
@@ -45,11 +50,6 @@
             "date": "2023/02/15",
             "title": "＜3/5(日)11:00から放送！＞TOKYO MX『第2回 ももいろインフラーZ』",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7487"
-        },
-        {
-            "date": "2023/02/15",
-            "title": "＜2023年4月・5月開催！＞「JAPAN JAM 2023」出演決定！",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7478"
         }
     ]
 }
