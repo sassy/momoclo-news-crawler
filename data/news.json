@@ -1,6 +1,11 @@
 {
-    "updated": "2023/03/12",
+    "updated": "2023/03/13",
     "news": [
+        {
+            "date": "2023/03/13",
+            "title": "＜スケジュール＞3/13(月)～3/19(日)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7528"
+        },
         {
             "date": "2023/03/10",
             "title": "＜玉井詩織掲載＞「横浜STORY」順次配布中♪",
@@ -45,11 +50,6 @@
             "date": "2023/03/08",
             "title": "【3/8(水)情報更新：タイムテーブル公開！】浪江女子発組合「IDORISE!! FESTIVAL 2023」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7374"
-        },
-        {
-            "date": "2023/03/08",
-            "title": "＜本日3/8(水)発売！＞最新フルアルバム『祝典』のLP盤",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7415"
         }
     ]
 }
