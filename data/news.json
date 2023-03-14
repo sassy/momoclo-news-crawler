@@ -2,8 +2,13 @@
     "updated": "2023/03/14",
     "news": [
         {
+            "date": "2023/03/14",
+            "title": "【Photo Report更新！】",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7530"
+        },
+        {
             "date": "2023/03/13",
-            "title": "＜スケジュール＞3/13(月)～3/19(日)",
+            "title": "【3/14(火)情報更新！】＜スケジュール＞3/13(月)～3/19(日)",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7528"
         },
         {
@@ -13,12 +18,12 @@
         },
         {
             "date": "2023/03/10",
-            "title": "＜チケット一般二次受付は3/11(土)13:00スタート！オフィシャルツアー追加コースも決定！＞「ももクロ春の一大事2023 in 福山市」",
+            "title": "＜チケット一般二次受付中！～3/21(火・祝)23:59まで！オフィシャルツアー追加コースも決定！＞「ももクロ春の一大事2023 in 福山市」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7526"
         },
         {
             "date": "2023/03/10",
-            "title": "＜AE会員先行受付スタート！～3/16(木)23:59まで＞Mrs. GREEN APPLE 対バンライブ",
+            "title": "＜AE会員先行受付中！～3/16(木)23:59まで＞Mrs. GREEN APPLE 対バンライブ",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7525"
         },
         {
@@ -45,11 +50,6 @@
             "date": "2023/03/08",
             "title": "【3/8(水)情報更新：タイムテーブル公開！】「JAPAN JAM 2023」出演決定！",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7478"
-        },
-        {
-            "date": "2023/03/08",
-            "title": "【3/8(水)情報更新：タイムテーブル公開！】浪江女子発組合「IDORISE!! FESTIVAL 2023」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7374"
         }
     ]
 }
