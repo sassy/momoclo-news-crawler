@@ -1,15 +1,20 @@
 {
-    "updated": "2023/04/22",
+    "updated": "2023/04/23",
     "news": [
+        {
+            "date": "2023/04/23",
+            "title": "【本日DAY2開催！】＜当日のしおり＞ももクロ春の一大事2023 in 福山市",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7604"
+        },
+        {
+            "date": "2023/04/23",
+            "title": "＜4/23(日)DAY2公演をABEMA PPV ONLINE LIVEにて独占生配信決定！＞「ももクロ春の一大事2023 in 福山市〜笑顔のチカラ つなげるオモイ〜」",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7590"
+        },
         {
             "date": "2023/04/22",
             "title": "【Movie】「ライブその後に」 2023.04.22「ももクロ春の一大事2023 in 福山市 〜笑顔のチカラ つなげるオモイ〜」DAY1",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7642"
-        },
-        {
-            "date": "2023/04/22",
-            "title": "【本日DAY1開催！】＜当日のしおり＞ももクロ春の一大事2023 in 福山市",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7604"
         },
         {
             "date": "2023/04/21",
@@ -45,11 +50,6 @@
             "date": "2023/04/19",
             "title": "＜4/20（木）0:00より配信スタート！＞玉井詩織ソロプロジェクト『SHIORI TAMAI 12 Colors』 4月曲は「Eyes on me」！リスニングシェアキャンペーンも実施決定♪",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7625"
-        },
-        {
-            "date": "2023/04/19",
-            "title": "＜4/26（水）21:00からニコニコのアイドル専門チャンネル「ニコドル」にて生配信決定!!＞「AYAKA NATIONがもーっと♡楽しくなる会」",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7626"
         }
     ]
 }
