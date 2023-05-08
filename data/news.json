@@ -1,6 +1,11 @@
 {
-    "updated": "2023/05/07",
+    "updated": "2023/05/08",
     "news": [
+        {
+            "date": "2023/05/08",
+            "title": "＜スケジュール＞5/8(月)～5/14(日)",
+            "url": "https://www.momoclo.net/pub/pc/information/?id=7668"
+        },
         {
             "date": "2023/05/06",
             "title": "【高城れに】＜5/13(土)、5/14(日)開催！＞「ハマトラFES（Yokohama Triathlon Festival）」出演決定！",
@@ -45,11 +50,6 @@
             "date": "2023/05/01",
             "title": "【5/1(月)情報更新：オフィシャルグッズ ＜会場受取＞時間枠追加＆キャンセル分受付のご案内】「AYAKA NATION 2023 in YOKOHAMA Arena～FRIENDS～」",
             "url": "https://www.momoclo.net/pub/pc/information/?id=7662"
-        },
-        {
-            "date": "2023/05/01",
-            "title": "＜「Rakuten TV」にて生配信決定!!＞5/17(水)「代々木無限大記念日 ももいろクローバーZ 15th Anniversary」DAY2",
-            "url": "https://www.momoclo.net/pub/pc/information/?id=7666"
         }
     ]
 }
