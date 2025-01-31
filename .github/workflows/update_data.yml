@@ -31,7 +31,7 @@ jobs:
       run: |
         python main.py
     - name: commit and push
-      uses: stefanzweifel/git-auto-commit-action@v4.1.6
+      uses: stefanzweifel/git-auto-commit-action@v5
       with:
         commit_message: update data
         commit_user_name: update data bot
