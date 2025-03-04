@@ -1,10 +1,20 @@
 {
-    "updated": "2025/03/03",
+    "updated": "2025/03/04",
     "news": [
         {
-            "date": "2025/03/03",
-            "title": "＜スケジュール＞3/3(月)～3/9(日)",
+            "date": "2025/03/04",
+            "title": "【3/4(火)情報更新！】＜スケジュール＞3/3(月)～3/9(日)",
             "url": "https://www.momoclo.net/archives/news/250303_01"
+        },
+        {
+            "date": "2025/03/03",
+            "title": "＜重要なお知らせ＞「ももクロチケット」サービスリニューアルに伴う現行システム終了のお知らせ",
+            "url": "https://www.momoclo.net/archives/news/250303_03"
+        },
+        {
+            "date": "2025/03/03",
+            "title": "＜スペシャルゲスト出演決定！外周パーク情報解禁！＞「ももクロ春の一大事2025 in 新発田市」",
+            "url": "https://www.momoclo.net/archives/news/250303_02"
         },
         {
             "date": "2025/03/02",
@@ -40,16 +50,6 @@
             "date": "2025/02/28",
             "title": "【Movie】「お仕事その後に」2025.02.28 資生堂さんのイベント出演",
             "url": "https://www.momoclo.net/archives/news/250228_01"
-        },
-        {
-            "date": "2025/02/27",
-            "title": "【英語版をアップしました/English version is now available】佐々木彩夏インタビュー掲載！「MONTHLY AE」1月号",
-            "url": "https://www.momoclo.net/archives/news/250131_02"
-        },
-        {
-            "date": "2025/02/26",
-            "title": "『ももクロ春の一大事2024 in 亀岡市』LIVE Blu-ray & DVD発売記念「ももクロ春一2024応援店キャンペーン」開催決定！本日2/26(水)より応援店舗募集スタート！",
-            "url": "https://www.momoclo.net/archives/news/250226_01"
         }
     ]
 }
