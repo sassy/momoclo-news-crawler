@@ -1,6 +1,16 @@
 {
-    "updated": "2025/03/05",
+    "updated": "2025/03/06",
     "news": [
+        {
+            "date": "2025/03/06",
+            "title": "【3/6(木)情報更新！】＜スケジュール＞3/3(月)～3/9(日)",
+            "url": "https://www.momoclo.net/archives/news/250303_01"
+        },
+        {
+            "date": "2025/03/05",
+            "title": "『ももクロ春の一大事2024 in 亀岡市』LIVE Blu-ray & DVDより「Chai Maxx」ライブ映像公開！",
+            "url": "https://www.momoclo.net/archives/news/250305_01"
+        },
         {
             "date": "2025/03/05",
             "title": "＜タイムテーブル公開！＞「JAPAN JAM2025」",
@@ -22,11 +32,6 @@
             "url": "https://www.momoclo.net/archives/news/250304_01"
         },
         {
-            "date": "2025/03/04",
-            "title": "【3/4(火)情報更新！】＜スケジュール＞3/3(月)～3/9(日)",
-            "url": "https://www.momoclo.net/archives/news/250303_01"
-        },
-        {
             "date": "2025/03/03",
             "title": "＜重要なお知らせ＞「ももクロチケット」サービスリニューアルに伴う現行システム終了のお知らせ",
             "url": "https://www.momoclo.net/archives/news/250303_03"
@@ -45,11 +50,6 @@
             "date": "2025/03/01",
             "title": "＜プレイガイド先行受付＆アップグレード受付開始！＞―30th Anniversary― SHIORI TAMAI SOLO CONCERT「Maison de Poupée」",
             "url": "https://www.momoclo.net/archives/news/250301_03"
-        },
-        {
-            "date": "2025/03/01",
-            "title": "【Movie】ももたと百田のツーショット",
-            "url": "https://www.momoclo.net/archives/news/250301_02"
         }
     ]
 }
