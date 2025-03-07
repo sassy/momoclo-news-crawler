@@ -1,6 +1,11 @@
 {
-    "updated": "2025/03/06",
+    "updated": "2025/03/07",
     "news": [
+        {
+            "date": "2025/03/06",
+            "title": "【神奈川・愛知公演】＜当日のしおり＞MOMOTA KANAKO LIVE TOUR 2025「VITAMIN-B」",
+            "url": "https://www.momoclo.net/archives/news/250306_01"
+        },
         {
             "date": "2025/03/06",
             "title": "【3/6(木)情報更新！】＜スケジュール＞3/3(月)～3/9(日)",
@@ -45,11 +50,6 @@
             "date": "2025/03/02",
             "title": "【Movie】「ライブその後に」2025.03.02「KANSAI COLLECTION 2025 SPRING & SUMMER」",
             "url": "https://www.momoclo.net/archives/news/250302_01"
-        },
-        {
-            "date": "2025/03/01",
-            "title": "＜プレイガイド先行受付＆アップグレード受付開始！＞―30th Anniversary― SHIORI TAMAI SOLO CONCERT「Maison de Poupée」",
-            "url": "https://www.momoclo.net/archives/news/250301_03"
         }
     ]
 }
