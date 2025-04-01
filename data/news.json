@@ -1,6 +1,11 @@
 {
-    "updated": "2025/03/31",
+    "updated": "2025/04/01",
     "news": [
+        {
+            "date": "2025/03/31",
+            "title": "百田夏菜子インタビュー掲載！「MONTHLY AE」3月号",
+            "url": "https://www.momoclo.net/archives/news/250331_03"
+        },
         {
             "date": "2025/03/31",
             "title": "【佐々木彩夏】Pink Bloom！あーりん× CELFORD スペシャルトークショーの開催決定！",
@@ -13,7 +18,7 @@
         },
         {
             "date": "2025/03/30",
-            "title": "＜一般抽選受付は本日3/30(日)23:59まで＞―30th Anniversary― SHIORI TAMAI SOLO CONCERT「Maison de Poupée」",
+            "title": "＜一般抽選受付は終了しました＞―30th Anniversary― SHIORI TAMAI SOLO CONCERT「Maison de Poupée」",
             "url": "https://www.momoclo.net/archives/news/250315_01"
         },
         {
@@ -45,11 +50,6 @@
             "date": "2025/03/27",
             "title": "【佐々木彩夏】「KANGOL REWARD」× あーりん コラボ決定！",
             "url": "https://www.momoclo.net/archives/news/250327_06"
-        },
-        {
-            "date": "2025/03/27",
-            "title": "23枚目のCDシングル『Event Horizon』発売決定！ ガンダムアーケードカードゲーム「機動戦士ガンダム アーセナルベース FORSQUAD」で使用可能となる描き下ろしイラストのゲームカードも封入！",
-            "url": "https://www.momoclo.net/archives/news/250327_02"
         }
     ]
 }
