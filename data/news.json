@@ -1,15 +1,30 @@
 {
-    "updated": "2025/04/13",
+    "updated": "2025/04/14",
     "news": [
+        {
+            "date": "2025/04/14",
+            "title": "＜スケジュール＞4/14(月)～4/20(日)",
+            "url": "https://www.momoclo.net/archives/news/250414_01"
+        },
+        {
+            "date": "2025/04/13",
+            "title": "【Movie】「ライブその後に」 2025.04.13 「ももクロ春の一大事2025　本当に一大事な緊急配信」",
+            "url": "https://www.momoclo.net/archives/news/250413_04"
+        },
+        {
+            "date": "2025/04/13",
+            "title": "＜情報更新＞【開催中止のお知らせ】「ももクロ春の一大事2025 in 新発田市」",
+            "url": "https://www.momoclo.net/archives/news/250413_02"
+        },
+        {
+            "date": "2025/04/13",
+            "title": "【Photo Report 更新！】＜セットリスト公開＞「ももクロ春の一大事2025 in 新発田市〜新発田 新発見!?〜」DAY2",
+            "url": "https://www.momoclo.net/archives/news/250413_03"
+        },
         {
             "date": "2025/04/13",
             "title": "＜本日4/13(日)20:00予定＞「ももクロ春の一大事2025　本当に一大事な緊急配信」",
             "url": "https://www.momoclo.net/archives/news/250413_01-2"
-        },
-        {
-            "date": "2025/04/13",
-            "title": "【開催中止のお知らせ】「ももクロ春の一大事2025 in 新発田市」",
-            "url": "https://www.momoclo.net/archives/news/250413_02"
         },
         {
             "date": "2025/04/13",
@@ -18,7 +33,7 @@
         },
         {
             "date": "2025/04/12",
-            "title": "「ライブその後に」 2025.04.12 「ももクロ春の一大事2025 in 新発田市 ～新発田 新発見！？～」DAY1",
+            "title": "【Movie】「ライブその後に」 2025.04.12 「ももクロ春の一大事2025 in 新発田市 ～新発田 新発見！？～」DAY1",
             "url": "https://www.momoclo.net/archives/news/250412_03"
         },
         {
@@ -35,21 +50,6 @@
             "date": "2025/04/12",
             "title": "＜当日のしおり＞「ももクロ春の一大事2025 in 新発田市 ～新発田 新発見！？～」",
             "url": "https://www.momoclo.net/archives/news/250410_01"
-        },
-        {
-            "date": "2025/04/11",
-            "title": "＜両日とも当日券販売決定！＞「ももクロ春の一大事2025 in 新発田市 ～新発田 新発見！？～」",
-            "url": "https://www.momoclo.net/archives/news/250411_02"
-        },
-        {
-            "date": "2025/04/11",
-            "title": "『ももクロポシュレの玉手箱だZ 第5弾』一部商品のキャンセル分等を期間限定販売決定",
-            "url": "https://www.momoclo.net/archives/news/250411_01"
-        },
-        {
-            "date": "2025/04/11",
-            "title": "『ももクロ　春の一大事2025 in 新発田市』オフィシャルグッズ 【現地物販】情報公開！",
-            "url": "https://www.momoclo.net/archives/news/250411_03"
         }
     ]
 }
