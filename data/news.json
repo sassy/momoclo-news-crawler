@@ -1,15 +1,25 @@
 {
-    "updated": "2025/05/01",
+    "updated": "2025/05/02",
     "news": [
+        {
+            "date": "2025/05/02",
+            "title": "＜5/2(金)情報更新：ライブチケットの返金受付を開始しました＞「ももクロ春の一大事2025 in 新発田市」",
+            "url": "https://www.momoclo.net/archives/news/250413_02"
+        },
+        {
+            "date": "2025/05/01",
+            "title": "【Movie】「ライブその後に」 2025.05.01「中森明菜 Tribute Concert ”明響“」",
+            "url": "https://www.momoclo.net/archives/news/250501_01"
+        },
+        {
+            "date": "2025/05/01",
+            "title": "【5/1(木)情報更新！】＜スケジュール＞4/28(月)～5/4(日)",
+            "url": "https://www.momoclo.net/archives/news/250428_01"
+        },
         {
             "date": "2025/05/01",
             "title": "＜ファンクラブブース＞―30th Anniversary― SHIORI TAMAI SOLO CONCERT 「Maison de Poupée」",
             "url": "https://www.momoclo.net/archives/news/250430_02"
-        },
-        {
-            "date": "2025/05/01",
-            "title": "＜5/1(木)情報更新：ライブチケットの返金受付を開始しました＞「ももクロ春の一大事2025 in 新発田市」",
-            "url": "https://www.momoclo.net/archives/news/250413_02"
         },
         {
             "date": "2025/04/30",
@@ -40,16 +50,6 @@
             "date": "2025/04/29",
             "title": "【Movie】「ライブその後に」 2025.04.29 「JAPAN JAM 2025」",
             "url": "https://www.momoclo.net/archives/news/20250429_03"
-        },
-        {
-            "date": "2025/04/29",
-            "title": "＜プレオーダー受付開始！～5/7(水)23:59まで＞「ハマの夜祭り番長襲名記念　ももクロ夏のバカ騒ぎ2025 in 横浜スタジアム",
-            "url": "https://www.momoclo.net/archives/news/250429_01"
-        },
-        {
-            "date": "2025/04/29",
-            "title": "高城れに 「JAPAN JAM 2025」欠席のお知らせ",
-            "url": "https://www.momoclo.net/archives/news/250429_02"
         }
     ]
 }
