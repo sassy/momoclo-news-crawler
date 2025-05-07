@@ -1,6 +1,11 @@
 {
-    "updated": "2025/05/06",
+    "updated": "2025/05/07",
     "news": [
+        {
+            "date": "2025/05/06",
+            "title": "【Movie】「ライブその後に」 2024.05.06 「―30th Anniversary― SHIORI TAMAI SOLO CONCERT「Maison de Poupée」」",
+            "url": "https://www.momoclo.net/archives/news/250506_01"
+        },
         {
             "date": "2025/05/06",
             "title": "＜当日のしおり＞―30th Anniversary― SHIORI TAMAI SOLO CONCERT「Maison de Poupée」",
@@ -45,11 +50,6 @@
             "date": "2025/05/02",
             "title": "＜5/2(金)情報更新：ライブチケットの返金受付を開始しました＞「ももクロ春の一大事2025 in 新発田市」",
             "url": "https://www.momoclo.net/archives/news/250413_02"
-        },
-        {
-            "date": "2025/05/01",
-            "title": "【Movie】「ライブその後に」 2025.05.01「中森明菜 Tribute Concert ”明響“」",
-            "url": "https://www.momoclo.net/archives/news/250501_01"
         }
     ]
 }
