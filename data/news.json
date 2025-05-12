@@ -1,6 +1,16 @@
 {
-    "updated": "2025/05/11",
+    "updated": "2025/05/12",
     "news": [
+        {
+            "date": "2025/05/12",
+            "title": "＜スケジュール＞5/12(月)～5/18(日)",
+            "url": "https://www.momoclo.net/archives/news/250512_01"
+        },
+        {
+            "date": "2025/05/11",
+            "title": "【Movie】「ライブその後に」 2024.05.11 「PLAY ACTIVE 『大冒険！』 2025 プロジェクト ももフマ 工作＆LIVE」",
+            "url": "https://www.momoclo.net/archives/news/250511_01"
+        },
         {
             "date": "2025/05/09",
             "title": "＜5/17(土)20:00から生配信決定！＞「緊急生配信！ももクロ祝17周年！夏バカで100倍バカになる方法」",
@@ -40,16 +50,6 @@
             "date": "2025/05/06",
             "title": "＜当日のしおり＞―30th Anniversary― SHIORI TAMAI SOLO CONCERT「Maison de Poupée」",
             "url": "https://www.momoclo.net/archives/news/250505_02"
-        },
-        {
-            "date": "2025/05/05",
-            "title": "【Movie】「イベントその後に」2025.05.05「第37回かしわ記念」",
-            "url": "https://www.momoclo.net/archives/news/250505_04"
-        },
-        {
-            "date": "2025/05/05",
-            "title": "【Movie】「ライブその後に」 2025.05.05「ベートーヴェン～魂の交響曲～」",
-            "url": "https://www.momoclo.net/archives/news/250505_03"
         }
     ]
 }
