@@ -1,10 +1,15 @@
 {
-    "updated": "2025/05/12",
+    "updated": "2025/05/13",
     "news": [
         {
-            "date": "2025/05/12",
-            "title": "＜スケジュール＞5/12(月)～5/18(日)",
+            "date": "2025/05/13",
+            "title": "【5/13(火)情報更新！】＜スケジュール＞5/12(月)～5/18(日)",
             "url": "https://www.momoclo.net/archives/news/250512_01"
+        },
+        {
+            "date": "2025/05/12",
+            "title": "＜5/14(水)&5/16(金)に生配信決定＞「AYAKA NATION 2025 VIP ROOM A⁺ ～the Voyage～」グッズ紹介生配信&ニコ生特番",
+            "url": "https://www.momoclo.net/archives/news/250512_02"
         },
         {
             "date": "2025/05/11",
@@ -45,11 +50,6 @@
             "date": "2025/05/06",
             "title": "【Movie】「ライブその後に」 2024.05.06 「―30th Anniversary― SHIORI TAMAI SOLO CONCERT「Maison de Poupée」」",
             "url": "https://www.momoclo.net/archives/news/250506_01"
-        },
-        {
-            "date": "2025/05/06",
-            "title": "＜当日のしおり＞―30th Anniversary― SHIORI TAMAI SOLO CONCERT「Maison de Poupée」",
-            "url": "https://www.momoclo.net/archives/news/250505_02"
         }
     ]
 }
