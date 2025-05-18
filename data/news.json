@@ -1,10 +1,15 @@
 {
-    "updated": "2025/05/17",
+    "updated": "2025/05/18",
     "news": [
         {
             "date": "2025/05/17",
             "title": "＜チケット一般抽選受付開始！～5/25(日)23:59まで＞「ハマの夜祭り番長襲名記念　ももクロ夏のバカ騒ぎ2025 in 横浜スタジアム」",
             "url": "https://www.momoclo.net/archives/news/250517_01"
+        },
+        {
+            "date": "2025/05/17",
+            "title": "＜アーカイブ公開中！＞「緊急生配信！ももクロ祝17周年！夏バカで100倍バカになる方法」",
+            "url": "https://www.momoclo.net/archives/news/250509_03"
         },
         {
             "date": "2025/05/16",
@@ -45,11 +50,6 @@
             "date": "2025/05/14",
             "title": "＜5/14(水)&5/16(金)に生配信決定＞「AYAKA NATION 2025 VIP ROOM A⁺ ～the Voyage～」グッズ紹介生配信&ニコ生特番",
             "url": "https://www.momoclo.net/archives/news/250512_02"
-        },
-        {
-            "date": "2025/05/11",
-            "title": "【Movie】「ライブその後に」 2024.05.11 「PLAY ACTIVE 『大冒険！』 2025 プロジェクト ももフマ 工作＆LIVE」",
-            "url": "https://www.momoclo.net/archives/news/250511_01"
         }
     ]
 }
