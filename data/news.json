@@ -1,6 +1,11 @@
 {
-    "updated": "2025/07/06",
+    "updated": "2025/07/07",
     "news": [
+        {
+            "date": "2025/07/07",
+            "title": "＜スケジュール＞7/7(月)～7/13(日)",
+            "url": "https://www.momoclo.net/archives/news/250707_01"
+        },
         {
             "date": "2025/07/05",
             "title": "＜7/12(土)20:30〜有料生配信決定!!＞百田夏菜子「祝・おたんじょービンゴ大会！ 延長戦〜ビンゴはしない生配信の部〜」",
@@ -45,11 +50,6 @@
             "date": "2025/07/04",
             "title": "【Photo Report 更新！】",
             "url": "https://www.momoclo.net/archives/news/250704_02"
-        },
-        {
-            "date": "2025/07/04",
-            "title": "＜11/11(火)開催！＞「～五木ひろし60th Anniversary～五木JAM2025inYOKOHAMA」出演決定！",
-            "url": "https://www.momoclo.net/archives/news/250704_01"
         }
     ]
 }
