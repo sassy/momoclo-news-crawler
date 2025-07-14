@@ -1,6 +1,11 @@
 {
-    "updated": "2025/07/13",
+    "updated": "2025/07/14",
     "news": [
+        {
+            "date": "2025/07/14",
+            "title": "＜スケジュール＞7/14(月)～7/20(日)",
+            "url": "https://www.momoclo.net/archives/news/250714_01"
+        },
         {
             "date": "2025/07/12",
             "title": "【Movie】「ビンゴそのあとに」2025.07.12「祝・おたんじょービンゴ大会！」",
@@ -45,11 +50,6 @@
             "date": "2025/07/07",
             "title": "＜スケジュール＞7/7(月)～7/13(日)",
             "url": "https://www.momoclo.net/archives/news/250707_01"
-        },
-        {
-            "date": "2025/07/05",
-            "title": "【佐々木彩夏生誕記念商品2025】商品詳細 & 販売詳細 発表",
-            "url": "https://www.momoclo.net/archives/news/250705_01"
         }
     ]
 }
