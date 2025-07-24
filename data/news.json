@@ -1,6 +1,11 @@
 {
-    "updated": "2025/07/23",
+    "updated": "2025/07/24",
     "news": [
+        {
+            "date": "2025/07/23",
+            "title": "23rd CD SINGLE『Event Horizon』発売記念オンラインくじ販売決定！",
+            "url": "https://www.momoclo.net/archives/news/250723_01"
+        },
         {
             "date": "2025/07/21",
             "title": "＜スケジュール＞7/21(月)～7/27(日)",
@@ -45,11 +50,6 @@
             "date": "2025/07/17",
             "title": "＜7/17(木)情報更新＞【高城れに・佐々木彩夏】「第38回川越いもの子作業所チャリティーコンサート」出演決定！",
             "url": "https://www.momoclo.net/archives/news/250301_01"
-        },
-        {
-            "date": "2025/07/17",
-            "title": "【Audio】『佐々木彩夏の０１００』AE出張版 #10",
-            "url": "https://www.momoclo.net/archives/news/250717_01"
         }
     ]
 }
