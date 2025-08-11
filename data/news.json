@@ -1,6 +1,11 @@
 {
-    "updated": "2025/08/10",
+    "updated": "2025/08/11",
     "news": [
+        {
+            "date": "2025/08/11",
+            "title": "＜スケジュール＞8/11(月・祝)～8/17(日)",
+            "url": "https://www.momoclo.net/archives/news/250811_01"
+        },
         {
             "date": "2025/08/08",
             "title": "【8/8(金)情報更新！】＜スケジュール＞8/4(月)～8/10(日)",
@@ -45,11 +50,6 @@
             "date": "2025/08/03",
             "title": "ももクロ の夏はまだまだ終わらない！「夏のバカ騒ぎ2025」映像化決定！",
             "url": "https://www.momoclo.net/archives/news/250803_03"
-        },
-        {
-            "date": "2025/08/03",
-            "title": "＜11月に兵庫・千葉で開催決定！＞「ANGEL EYES限定イベント2025」",
-            "url": "https://www.momoclo.net/archives/news/250803_01"
         }
     ]
 }
