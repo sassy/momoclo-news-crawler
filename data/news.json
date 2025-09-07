@@ -1,9 +1,14 @@
 {
-    "updated": "2025/09/06",
+    "updated": "2025/09/07",
     "news": [
         {
+            "date": "2025/09/06",
+            "title": "【Movie】「ライブその後に」 2025.09.06「黒フェス2025〜白黒歌合戦〜」",
+            "url": "https://www.momoclo.net/archives/news/250906_01"
+        },
+        {
             "date": "2025/09/05",
-            "title": "『ももいろクリスマス2024』映像化決定！アテレコ特報映像2本同時公開！",
+            "title": "『ももいろクリスマス2024』映像化決定！アテレコ特報映像公開！",
             "url": "https://www.momoclo.net/archives/news/250905_01"
         },
         {
@@ -45,11 +50,6 @@
             "date": "2025/08/31",
             "title": "百田夏菜子インタビュー掲載！「MONTHLY AE」8月号",
             "url": "https://www.momoclo.net/archives/news/250831_03"
-        },
-        {
-            "date": "2025/08/31",
-            "title": "『夏のバカ騒ぎ2025』から 定番夏ソング総選挙１位の「天手力男」ライブ映像公開！",
-            "url": "https://www.momoclo.net/archives/news/250831_01"
         }
     ]
 }
