@@ -1,6 +1,16 @@
 {
-    "updated": "2025/09/07",
+    "updated": "2025/09/08",
     "news": [
+        {
+            "date": "2025/09/08",
+            "title": "＜スケジュール＞9/8(月)～9/14(日)",
+            "url": "https://www.momoclo.net/archives/news/250908_01"
+        },
+        {
+            "date": "2025/09/07",
+            "title": "【Movie】「ライブその後に」 2025.09.07「令和アイドル超選抜らいぶ 〜時空を超えて輝く昭和リバイバル〜」",
+            "url": "https://www.momoclo.net/archives/news/250907_01"
+        },
         {
             "date": "2025/09/06",
             "title": "【Movie】「ライブその後に」 2025.09.06「黒フェス2025〜白黒歌合戦〜」",
@@ -40,16 +50,6 @@
             "date": "2025/09/01",
             "title": "【IC会員証】を紛失された会員様へのご案内：「高城れにソロコンサートツアー『OTOGIMASHOW』」",
             "url": "https://www.momoclo.net/archives/news/250901_01"
-        },
-        {
-            "date": "2025/09/01",
-            "title": "＜AE先行受付中！～9/7(日)23:59まで＞『ももいろインフラーZ』公開収録2025",
-            "url": "https://www.momoclo.net/archives/news/250901_03"
-        },
-        {
-            "date": "2025/08/31",
-            "title": "百田夏菜子インタビュー掲載！「MONTHLY AE」8月号",
-            "url": "https://www.momoclo.net/archives/news/250831_03"
         }
     ]
 }
