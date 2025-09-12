@@ -1,6 +1,11 @@
 {
-    "updated": "2025/09/11",
+    "updated": "2025/09/12",
     "news": [
+        {
+            "date": "2025/09/12",
+            "title": "＜9/13(土)昼12:00から生配信!!＞「ももクロANGEL EYES限定イベント2025内容をお伝えします」",
+            "url": "https://www.momoclo.net/archives/news/250911_01"
+        },
         {
             "date": "2025/09/10",
             "title": "【Audio】『佐々木彩夏の０１００』AE出張版 #16",
@@ -45,11 +50,6 @@
             "date": "2025/09/06",
             "title": "【Movie】「ライブその後に」 2025.09.06「黒フェス2025〜白黒歌合戦〜」",
             "url": "https://www.momoclo.net/archives/news/250906_01"
-        },
-        {
-            "date": "2025/09/05",
-            "title": "『ももいろクリスマス2024』映像化決定！アテレコ特報映像公開！",
-            "url": "https://www.momoclo.net/archives/news/250905_01"
         }
     ]
 }
