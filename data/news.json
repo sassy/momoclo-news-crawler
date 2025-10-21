@@ -1,6 +1,11 @@
 {
-    "updated": "2025/10/20",
+    "updated": "2025/10/21",
     "news": [
+        {
+            "date": "2025/10/20",
+            "title": "【Movie】「ライブその後に」 2025.10.20高城れにソロコンサートツアー「OTOGIMASHOW」神奈川公演",
+            "url": "https://www.momoclo.net/archives/news/251020_02"
+        },
         {
             "date": "2025/10/20",
             "title": "【横浜公演】＜当日のしおり＞高城れにソロコンサートツアー「OTOGIMASHOW」",
@@ -45,11 +50,6 @@
             "date": "2025/10/15",
             "title": "【横浜公演】＜ファンクラブブース＞高城れにソロコンサートツアー「OTOGIMASHOW」",
             "url": "https://www.momoclo.net/archives/news/250926_01"
-        },
-        {
-            "date": "2025/10/15",
-            "title": "高城れにソロコンサートツアー2025『OTOGIMASHOW』10月20日（月）KT Zepp Yokohama公演~物販情報公開~",
-            "url": "https://www.momoclo.net/archives/news/251015_02"
         }
     ]
 }
