@@ -1,6 +1,16 @@
 {
-    "updated": "2025/11/01",
+    "updated": "2025/11/02",
     "news": [
+        {
+            "date": "2025/11/01",
+            "title": "＜AE会員先行受付は11/9(日)23:59まで！＞「第9回 ももいろ歌合戦」",
+            "url": "https://www.momoclo.net/archives/news/251101_01"
+        },
+        {
+            "date": "2025/11/01",
+            "title": "【Movie】「ライブその後に&その前に」 2025.11.01 「ANGEL EYES限定イベント2025」in 神戸",
+            "url": "https://www.momoclo.net/archives/news/251101_02"
+        },
         {
             "date": "2025/10/31",
             "title": "玉井詩織インタビュー掲載！「MONTHLY AE」10月号",
@@ -40,16 +50,6 @@
             "date": "2025/10/29",
             "title": "DOSI(旧LINE NFT)にてコンテンツをご購入いただいた皆さまへサービス終了とアイテム移転（Transfer）のご案内",
             "url": "https://www.momoclo.net/archives/news/251029_01"
-        },
-        {
-            "date": "2025/10/29",
-            "title": "【英語版をアップしました/English version is now available】佐々木彩夏インタビュー掲載！「MONTHLY AE」9月号",
-            "url": "https://www.momoclo.net/archives/news/250930_03"
-        },
-        {
-            "date": "2025/10/29",
-            "title": "【英語版をアップしました/English version is now available】百田夏菜子インタビュー掲載！「MONTHLY AE」8月号",
-            "url": "https://www.momoclo.net/archives/news/250831_03"
         }
     ]
 }
