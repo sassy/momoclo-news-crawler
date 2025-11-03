@@ -1,6 +1,11 @@
 {
-    "updated": "2025/11/02",
+    "updated": "2025/11/03",
     "news": [
+        {
+            "date": "2025/11/03",
+            "title": "＜スケジュール＞11/3(月・祝)～11/9(日)",
+            "url": "https://www.momoclo.net/archives/news/251103_01"
+        },
         {
             "date": "2025/11/01",
             "title": "＜AE会員先行受付は11/9(日)23:59まで！＞「第9回 ももいろ歌合戦」",
@@ -45,11 +50,6 @@
             "date": "2025/10/29",
             "title": "【Audio】『佐々木彩夏の０１００』AE出張版 #22",
             "url": "https://www.momoclo.net/archives/news/251029_02"
-        },
-        {
-            "date": "2025/10/29",
-            "title": "DOSI(旧LINE NFT)にてコンテンツをご購入いただいた皆さまへサービス終了とアイテム移転（Transfer）のご案内",
-            "url": "https://www.momoclo.net/archives/news/251029_01"
         }
     ]
 }
