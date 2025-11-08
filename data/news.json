@@ -1,6 +1,21 @@
 {
-    "updated": "2025/11/07",
+    "updated": "2025/11/08",
     "news": [
+        {
+            "date": "2025/11/07",
+            "title": "【PINK HOUSE×Momoclo】SPECIAL COLLABORATION",
+            "url": "https://www.momoclo.net/archives/news/251031_01"
+        },
+        {
+            "date": "2025/11/07",
+            "title": "【Audio】『佐々木彩夏の０１００』AE出張版 #23",
+            "url": "https://www.momoclo.net/archives/news/251107_02"
+        },
+        {
+            "date": "2025/11/07",
+            "title": "【幕張公演】＜当日のしおり＞「ANGEL EYES限定イベント2025」",
+            "url": "https://www.momoclo.net/archives/news/251107_01"
+        },
         {
             "date": "2025/11/05",
             "title": "【Movie】「ライブその後に」2025.11.05「玉井詩織 Billboard Live Tour 2025」横浜公演",
@@ -35,21 +50,6 @@
             "date": "2025/11/03",
             "title": "【Movie】「イベントその後に」 2025.011.03「第25回JBCクラシック競走」",
             "url": "https://www.momoclo.net/archives/news/251103_02"
-        },
-        {
-            "date": "2025/11/01",
-            "title": "＜AE会員先行受付は11/9(日)23:59まで！＞「第9回 ももいろ歌合戦」",
-            "url": "https://www.momoclo.net/archives/news/251101_01"
-        },
-        {
-            "date": "2025/11/01",
-            "title": "【Movie】「ライブその後に&その前に」 2025.11.01 「ANGEL EYES限定イベント2025」in 神戸",
-            "url": "https://www.momoclo.net/archives/news/251101_02"
-        },
-        {
-            "date": "2025/10/31",
-            "title": "玉井詩織インタビュー掲載！「MONTHLY AE」10月号",
-            "url": "https://www.momoclo.net/archives/news/251031_03"
         }
     ]
 }
