@@ -1,6 +1,11 @@
 {
-    "updated": "2025/11/11",
+    "updated": "2025/11/12",
     "news": [
+        {
+            "date": "2025/11/11",
+            "title": "【Movie】「ライブその後に」 2025.11.11「～五木ひろし60th Anniversary～五木JAM2025inYOKOHAMA」",
+            "url": "https://www.momoclo.net/archives/news/251111_01"
+        },
         {
             "date": "2025/11/11",
             "title": "【Movie】「ライブその後に」2025.11.10「玉井詩織 Billboard Live Tour 2025」大阪公演",
@@ -45,11 +50,6 @@
             "date": "2025/11/05",
             "title": "【Movie】「ライブその後に」2025.11.05「玉井詩織 Billboard Live Tour 2025」横浜公演",
             "url": "https://www.momoclo.net/archives/news/251105_02"
-        },
-        {
-            "date": "2025/11/05",
-            "title": "ももいろクローバーＺ 日めくりカレンダー2026 発売決定！",
-            "url": "https://www.momoclo.net/archives/news/251105_01"
         }
     ]
 }
