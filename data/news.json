@@ -1,6 +1,11 @@
 {
-    "updated": "2025/11/26",
+    "updated": "2025/11/27",
     "news": [
+        {
+            "date": "2025/11/26",
+            "title": "【Audio】『佐々木彩夏の０１００』AE出張版 #26",
+            "url": "https://www.momoclo.net/archives/news/251126_01"
+        },
         {
             "date": "2025/11/25",
             "title": "【11/25(火)情報更新！】＜スケジュール＞11/24(月・祝)～11/30(日)",
@@ -45,11 +50,6 @@
             "date": "2025/11/18",
             "title": "玉井詩織『しおこうじ玉井詩織×坂崎幸之助のフォーク村』欠席のお知らせ",
             "url": "https://www.momoclo.net/archives/news/251118_02"
-        },
-        {
-            "date": "2025/11/17",
-            "title": "＜2025年10月号発行！＞AE会員様だけのお楽しみ！「MONTHLY PDF」",
-            "url": "https://www.momoclo.net/archives/news/251117_03"
         }
     ]
 }
