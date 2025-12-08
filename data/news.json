@@ -1,15 +1,20 @@
 {
-    "updated": "2025/12/07",
+    "updated": "2025/12/08",
     "news": [
+        {
+            "date": "2025/12/08",
+            "title": "＜スケジュール＞12/8(月)～12/14(日)",
+            "url": "https://www.momoclo.net/archives/news/251208_01"
+        },
+        {
+            "date": "2025/12/07",
+            "title": "【12/7(日)情報更新】＜第一弾出演者発表！チケット一般受付スタート！＞「第9回 ももいろ歌合戦」",
+            "url": "https://www.momoclo.net/archives/news/251204_01"
+        },
         {
             "date": "2025/12/05",
             "title": "【Photo Report 更新！】「第8回 ももいろ歌合戦」＠東京都・日本武道館",
             "url": "https://www.momoclo.net/archives/news/251205_01"
-        },
-        {
-            "date": "2025/12/05",
-            "title": "【12/5(金)情報更新】＜第一弾出演者発表！チケット一般受付スタート！＞「第9回 ももいろ歌合戦」",
-            "url": "https://www.momoclo.net/archives/news/251204_01"
         },
         {
             "date": "2025/12/03",
@@ -45,11 +50,6 @@
             "date": "2025/11/28",
             "title": "＜イベント出演中止のお知らせ＞11/29(土)「バンダイナムコフェスティバル2025」",
             "url": "https://www.momoclo.net/archives/news/251128_02"
-        },
-        {
-            "date": "2025/11/28",
-            "title": "『ももいろクリスマス2024』LIVE BD & DVD発売記念 ももクロ×スイパラ コラボメニュー公開！",
-            "url": "https://www.momoclo.net/archives/news/251128_01"
         }
     ]
 }
