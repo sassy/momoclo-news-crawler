@@ -1,10 +1,15 @@
 {
-    "updated": "2025/12/08",
+    "updated": "2025/12/09",
     "news": [
         {
-            "date": "2025/12/08",
-            "title": "＜スケジュール＞12/8(月)～12/14(日)",
+            "date": "2025/12/09",
+            "title": "【12/9(火)情報更新！】＜スケジュール＞12/8(月)～12/14(日)",
             "url": "https://www.momoclo.net/archives/news/251208_01"
+        },
+        {
+            "date": "2025/12/08",
+            "title": "＜明日12/9(火)20:00から公式YouTubeチャンネルにて生配信！＞「Momoiro Christmas 2025 ODYSSEY」グッズ紹介生配信！",
+            "url": "https://www.momoclo.net/archives/news/251208_02"
         },
         {
             "date": "2025/12/07",
@@ -45,11 +50,6 @@
             "date": "2025/11/29",
             "title": "【Movie】18年目のアイドルが挑んだリンボーの全貌",
             "url": "https://www.momoclo.net/archives/news/251129_01"
-        },
-        {
-            "date": "2025/11/28",
-            "title": "＜イベント出演中止のお知らせ＞11/29(土)「バンダイナムコフェスティバル2025」",
-            "url": "https://www.momoclo.net/archives/news/251128_02"
         }
     ]
 }
