@@ -1,6 +1,11 @@
 {
-    "updated": "2025/12/11",
+    "updated": "2025/12/12",
     "news": [
+        {
+            "date": "2025/12/12",
+            "title": "【12/12(金)情報更新！】＜スケジュール＞12/8(月)～12/14(日)",
+            "url": "https://www.momoclo.net/archives/news/251208_01"
+        },
         {
             "date": "2025/12/11",
             "title": "【12/11(木)情報更新】高城れに出演 『エアトリpresents 毎日がクリスマス2025』グッズ発表 & 物販情報公開",
@@ -45,11 +50,6 @@
             "date": "2025/12/09",
             "title": "『Momoiro Christmas 2025 ODYSSEY』 オフィシャルグッズ発表 & 会場受取予約販売、開始決定！！",
             "url": "https://www.momoclo.net/archives/news/251209_05"
-        },
-        {
-            "date": "2025/12/09",
-            "title": "【12/9(火)情報更新！】＜スケジュール＞12/8(月)～12/14(日)",
-            "url": "https://www.momoclo.net/archives/news/251208_01"
         }
     ]
 }
