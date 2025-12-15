@@ -1,6 +1,11 @@
 {
-    "updated": "2025/12/14",
+    "updated": "2025/12/15",
     "news": [
+        {
+            "date": "2025/12/15",
+            "title": "＜スケジュール＞12/15(月)～12/21(日)",
+            "url": "https://www.momoclo.net/archives/news/251215_02"
+        },
         {
             "date": "2025/12/12",
             "title": "【12/12(金)情報更新！】＜スケジュール＞12/8(月)～12/14(日)",
@@ -45,11 +50,6 @@
             "date": "2025/12/09",
             "title": "ANGEL EYES会員限定！夏バカ名場面ミニアアクリルキーホルダー発売決定！",
             "url": "https://www.momoclo.net/archives/news/251209_01"
-        },
-        {
-            "date": "2025/12/09",
-            "title": "『Momoiro Christmas 2025 ODYSSEY』 オフィシャルグッズ発表 & 会場受取予約販売、開始決定！！",
-            "url": "https://www.momoclo.net/archives/news/251209_05"
         }
     ]
 }
