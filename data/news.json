@@ -1,6 +1,11 @@
 {
-    "updated": "2026/01/20",
+    "updated": "2026/01/21",
     "news": [
+        {
+            "date": "2026/01/20",
+            "title": "『ももクロ夏のバカ騒ぎ2025』LIVE Blu-ray & DVD発売記念！夏ライブ投票結果の【夏バカ祭 モノノフedit ver.】がももクロ・キングレコード・EVIL LINE RECORDSにて SNS全方位ノンストップ配信スタート！",
+            "url": "https://www.momoclo.net/archives/news/260120_01"
+        },
         {
             "date": "2026/01/19",
             "title": "＜スケジュール＞1/19(月)～1/25(日)",
@@ -45,11 +50,6 @@
             "date": "2026/01/13",
             "title": "MAILIVIS はるえ商店にてWINTER SALE開催！",
             "url": "https://www.momoclo.net/archives/news/260113_01"
-        },
-        {
-            "date": "2026/01/13",
-            "title": "【1/13(火)情報更新！】＜スケジュール＞1/12(月・祝)～1/18(日)",
-            "url": "https://www.momoclo.net/archives/news/260112_01"
         }
     ]
 }
