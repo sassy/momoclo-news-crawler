@@ -1,6 +1,11 @@
 {
-    "updated": "2026/01/23",
+    "updated": "2026/01/24",
     "news": [
+        {
+            "date": "2026/01/23",
+            "title": "【Photo Report 更新！】",
+            "url": "https://www.momoclo.net/archives/news/260123_01"
+        },
         {
             "date": "2026/01/22",
             "title": "【1/22(木)情報更新！】＜スケジュール＞1/19(月)～1/25(日)",
@@ -45,11 +50,6 @@
             "date": "2026/01/15",
             "title": "【英語版をアップしました/English version is now available】高城れにインタビュー掲載！「MONTHLY AE」11月号",
             "url": "https://www.momoclo.net/archives/news/251130_01"
-        },
-        {
-            "date": "2026/01/14",
-            "title": "【Audio】『佐々木彩夏の０１００』AE出張版 #31",
-            "url": "https://www.momoclo.net/archives/news/260114_02"
         }
     ]
 }
