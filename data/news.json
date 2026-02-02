@@ -1,6 +1,16 @@
 {
-    "updated": "2026/02/01",
+    "updated": "2026/02/02",
     "news": [
+        {
+            "date": "2026/02/02",
+            "title": "＜スケジュール＞2/2(月)～2/8(日)",
+            "url": "https://www.momoclo.net/archives/news/260202_01"
+        },
+        {
+            "date": "2026/02/01",
+            "title": "＜ももいろクローバーZ出演決定！＞初の音楽フェス「HOTEI FES」",
+            "url": "https://www.momoclo.net/archives/news/260201_01"
+        },
         {
             "date": "2026/02/01",
             "title": "＜2/1(日)：公演ビジュアル解禁！＞【百田夏菜子】山田ジャパン2026年3月公演『9でカタがつく』出演決定！",
@@ -40,16 +50,6 @@
             "date": "2026/01/26",
             "title": "『ももクロ夏のバカ騒ぎ2025』LIVE Blu-ray & DVD発売記念 購入者抽選プレゼント企画実施決定！ 応援店特典デザイン公開！",
             "url": "https://www.momoclo.net/archives/news/260126_03"
-        },
-        {
-            "date": "2026/01/26",
-            "title": "【Movie】「イベントその後に」2026.01.26 玉井詩織「スキンケアブランド『iYON（アイヨン）』アンバサダー就任記念トークイベント」",
-            "url": "https://www.momoclo.net/archives/news/260126_04"
-        },
-        {
-            "date": "2026/01/26",
-            "title": "【玉井詩織】スキンケアブランド 『iYON（アイヨン）』 ブランドアンバサダーに就任決定！",
-            "url": "https://www.momoclo.net/archives/news/260126_02"
         }
     ]
 }
