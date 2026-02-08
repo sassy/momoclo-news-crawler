@@ -1,6 +1,16 @@
 {
-    "updated": "2026/02/07",
+    "updated": "2026/02/08",
     "news": [
+        {
+            "date": "2026/02/07",
+            "title": "【佐々木彩夏】『佐々木彩夏のオールナイトニッポンX（クロス)』放送決定！",
+            "url": "https://www.momoclo.net/archives/news/260207_03"
+        },
+        {
+            "date": "2026/02/07",
+            "title": "【Movie】「ライブその後に」2026.02.07「第67回旭川冬まつり」",
+            "url": "https://www.momoclo.net/archives/news/260207_02"
+        },
         {
             "date": "2026/02/07",
             "title": "＜本日2/7(土)昼12:00〜チケット一般販売スタート！＞【玉井詩織 出演】武部聡志プロデュース 『ジブリをうたう』 コンサート その２",
@@ -40,16 +50,6 @@
             "date": "2026/02/02",
             "title": "＜スケジュール＞2/2(月)～2/8(日)",
             "url": "https://www.momoclo.net/archives/news/260202_01"
-        },
-        {
-            "date": "2026/02/01",
-            "title": "＜ももいろクローバーZ出演決定！＞初の音楽フェス「HOTEI FES」",
-            "url": "https://www.momoclo.net/archives/news/260201_01"
-        },
-        {
-            "date": "2026/01/31",
-            "title": "佐々木彩夏インタビュー掲載！「MONTHLY AE」1月号",
-            "url": "https://www.momoclo.net/archives/news/260131_01"
         }
     ]
 }
