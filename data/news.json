@@ -1,6 +1,16 @@
 {
-    "updated": "2026/02/22",
+    "updated": "2026/02/23",
     "news": [
+        {
+            "date": "2026/02/23",
+            "title": "＜スケジュール＞2/23(月・祝)～3/1(日)",
+            "url": "https://www.momoclo.net/archives/news/260223_01"
+        },
+        {
+            "date": "2026/02/22",
+            "title": "【Movie】「その後に」シリーズ2本公開!!",
+            "url": "https://www.momoclo.net/archives/news/260222_01"
+        },
         {
             "date": "2026/02/21",
             "title": "【Movie】「その後に」シリーズ2本公開!!",
@@ -40,16 +50,6 @@
             "date": "2026/02/19",
             "title": "＜2/19(木):タイムテーブル更新！＞【高城れに】「HEROINES FES 2026」出演決定！",
             "url": "https://www.momoclo.net/archives/news/260129_01"
-        },
-        {
-            "date": "2026/02/19",
-            "title": "＜2026年1月号発行！＞AE会員様だけのお楽しみ！「MONTHLY PDF」",
-            "url": "https://www.momoclo.net/archives/news/260219_01"
-        },
-        {
-            "date": "2026/02/18",
-            "title": "【高城れに】「第44回ふくやまマラソン」 ゲストランナーとして出場決定！",
-            "url": "https://www.momoclo.net/archives/news/260218_01"
         }
     ]
 }
