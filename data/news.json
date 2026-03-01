@@ -1,6 +1,11 @@
 {
-    "updated": "2026/02/28",
+    "updated": "2026/03/01",
     "news": [
+        {
+            "date": "2026/02/28",
+            "title": "高城れにインタビュー掲載！「MONTHLY AE」2月号",
+            "url": "https://www.momoclo.net/archives/news/260228_01"
+        },
         {
             "date": "2026/02/27",
             "title": "【Movie】「舞台挨拶その後に」2026.02.27「『夏のバカ騒ぎ2025』LIVE Blu-ray & DVD発売記念 Dolby Atmos上映会」",
@@ -45,11 +50,6 @@
             "date": "2026/02/26",
             "title": "【佐々木彩夏】「大好き♡東北 定禅寺しゃべり亭」出演 & NHK仙台で公開収録決定！",
             "url": "https://www.momoclo.net/archives/news/260226_02"
-        },
-        {
-            "date": "2026/02/25",
-            "title": "＜チケット発売中！＞「夏のバカ騒ぎ2025」LIVE Blu-ray & DVD発売記念 Dolby Atmos上映会",
-            "url": "https://www.momoclo.net/archives/news/260211_01"
         }
     ]
 }
