@@ -1,6 +1,16 @@
 {
-    "updated": "2026/03/01",
+    "updated": "2026/03/02",
     "news": [
+        {
+            "date": "2026/03/02",
+            "title": "＜スケジュール＞3/2(月)～3/8(日)",
+            "url": "https://www.momoclo.net/archives/news/260302_01"
+        },
+        {
+            "date": "2026/03/01",
+            "title": "【Movie】「その後に」シリーズ2本公開!!",
+            "url": "https://www.momoclo.net/archives/news/260301_01"
+        },
         {
             "date": "2026/02/28",
             "title": "高城れにインタビュー掲載！「MONTHLY AE」2月号",
@@ -40,16 +50,6 @@
             "date": "2026/02/26",
             "title": "【英語版をアップしました/English version is now available】佐々木彩夏インタビュー掲載！「MONTHLY AE」1月号",
             "url": "https://www.momoclo.net/archives/news/260131_01"
-        },
-        {
-            "date": "2026/02/26",
-            "title": "【Audio】『佐々木彩夏の０１００』AE出張版 #36",
-            "url": "https://www.momoclo.net/archives/news/250226_02"
-        },
-        {
-            "date": "2026/02/26",
-            "title": "【佐々木彩夏】「大好き♡東北 定禅寺しゃべり亭」出演 & NHK仙台で公開収録決定！",
-            "url": "https://www.momoclo.net/archives/news/260226_02"
         }
     ]
 }
