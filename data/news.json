@@ -1,6 +1,21 @@
 {
-    "updated": "2026/03/04",
+    "updated": "2026/03/05",
     "news": [
+        {
+            "date": "2026/03/05",
+            "title": "【3/5(木)情報更新】＜スケジュール＞3/2(月)～3/8(日)",
+            "url": "https://www.momoclo.net/archives/news/260302_01"
+        },
+        {
+            "date": "2026/03/04",
+            "title": "【Movie】「イベントその後に」2026.03.04 百田夏菜子「アクアパーク品川 × ももいろクローバーZ コラボレーション イベント」",
+            "url": "https://www.momoclo.net/archives/news/260304_01"
+        },
+        {
+            "date": "2026/03/04",
+            "title": "『夏のバカ騒ぎ2025』LIVE Blu-ray & DVD発売記念！ウェンデーズ・ファーストキッチンコラボ開催決定！セトリ総選挙第1位「コノウタ」ライブ映像公開&ライブアルバムYouTubeノンストップ配信スタート！",
+            "url": "https://www.momoclo.net/archives/news/260304_02"
+        },
         {
             "date": "2026/03/04",
             "title": "＜タイムテーブル公開！＞「JAPAN JAM 2026」",
@@ -27,11 +42,6 @@
             "url": "https://www.momoclo.net/archives/news/260302_02"
         },
         {
-            "date": "2026/03/02",
-            "title": "＜スケジュール＞3/2(月)～3/8(日)",
-            "url": "https://www.momoclo.net/archives/news/260302_01"
-        },
-        {
             "date": "2026/03/01",
             "title": "【Movie】「その後に」シリーズ2本公開!!",
             "url": "https://www.momoclo.net/archives/news/260301_01"
@@ -40,16 +50,6 @@
             "date": "2026/02/28",
             "title": "高城れにインタビュー掲載！「MONTHLY AE」2月号",
             "url": "https://www.momoclo.net/archives/news/260228_01"
-        },
-        {
-            "date": "2026/02/27",
-            "title": "【Movie】「舞台挨拶その後に」2026.02.27「『夏のバカ騒ぎ2025』LIVE Blu-ray & DVD発売記念 Dolby Atmos上映会」",
-            "url": "https://www.momoclo.net/archives/news/260227_03"
-        },
-        {
-            "date": "2026/02/27",
-            "title": "『夏のバカ騒ぎ2025』LIVE Blu-ray & DVD発売記念！カラオケショップ JOYSOUNDコラボ開催決定！さらに発売記念YouTube生配信実施決定！",
-            "url": "https://www.momoclo.net/archives/news/260227_01"
         }
     ]
 }
