@@ -1,6 +1,11 @@
 {
-    "updated": "2026/03/13",
+    "updated": "2026/03/14",
     "news": [
+        {
+            "date": "2026/03/13",
+            "title": "【Movie】「ライブその後に」2026.03.13 玉井詩織「『ジブリをうたう』 コンサート その２」",
+            "url": "https://www.momoclo.net/archives/news/260313_01"
+        },
         {
             "date": "2026/03/13",
             "title": "＜5月にWOWOWで放送・配信決定！＞【玉井詩織 出演】武部聡志プロデュース 『ジブリをうたう』 コンサート その２",
@@ -45,11 +50,6 @@
             "date": "2026/03/05",
             "title": "佐々木彩夏からのご報告",
             "url": "https://www.momoclo.net/archives/news/260305_01"
-        },
-        {
-            "date": "2026/03/05",
-            "title": "【3/5(木)情報更新】＜スケジュール＞3/2(月)～3/8(日)",
-            "url": "https://www.momoclo.net/archives/news/260302_01"
         }
     ]
 }
