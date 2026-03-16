@@ -1,6 +1,11 @@
 {
-    "updated": "2026/03/15",
+    "updated": "2026/03/16",
     "news": [
+        {
+            "date": "2026/03/16",
+            "title": "＜スケジュール＞3/16(月)～3/22(日)",
+            "url": "https://www.momoclo.net/archives/news/260316_01"
+        },
         {
             "date": "2026/03/13",
             "title": "【Movie】「ライブその後に」2026.03.13 玉井詩織「『ジブリをうたう』 コンサート その２」",
@@ -45,11 +50,6 @@
             "date": "2026/03/05",
             "title": "お祝い",
             "url": "https://www.momoclo.net/archives/news/260305_02"
-        },
-        {
-            "date": "2026/03/05",
-            "title": "佐々木彩夏からのご報告",
-            "url": "https://www.momoclo.net/archives/news/260305_01"
         }
     ]
 }
