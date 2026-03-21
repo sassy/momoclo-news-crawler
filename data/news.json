@@ -1,6 +1,21 @@
 {
-    "updated": "2026/03/20",
+    "updated": "2026/03/21",
     "news": [
+        {
+            "date": "2026/03/21",
+            "title": "【Audio】『佐々木彩夏の０１００』AE出張版 #37",
+            "url": "https://www.momoclo.net/archives/news/260321_01"
+        },
+        {
+            "date": "2026/03/21",
+            "title": "「ごぶごぶフェス 2026」出演決定！",
+            "url": "https://www.momoclo.net/archives/news/260320_01"
+        },
+        {
+            "date": "2026/03/20",
+            "title": "【Movie】「ライブその後に」2026.03.20 玉井詩織「『ジブリをうたう』 コンサート その２」",
+            "url": "https://www.momoclo.net/archives/news/260320_02"
+        },
         {
             "date": "2026/03/19",
             "title": "【Photo Report 更新！】",
@@ -35,21 +50,6 @@
             "date": "2026/03/13",
             "title": "【Movie】「ライブその後に」2026.03.13 玉井詩織「『ジブリをうたう』 コンサート その２」",
             "url": "https://www.momoclo.net/archives/news/260313_01"
-        },
-        {
-            "date": "2026/03/13",
-            "title": "＜5月にWOWOWで放送・配信決定！＞【玉井詩織 出演】武部聡志プロデュース 『ジブリをうたう』 コンサート その２",
-            "url": "https://www.momoclo.net/archives/news/260207_01"
-        },
-        {
-            "date": "2026/03/13",
-            "title": "＜チケット先着販売中！＞ももいろクローバーZ VRシアター「MCZ Neo Galaxy Tour -無限の宇宙-」Digest ！",
-            "url": "https://www.momoclo.net/archives/news/260213_01"
-        },
-        {
-            "date": "2026/03/12",
-            "title": "『夏のバカ騒ぎ2025』LIVE Blu-ray & DVD発売記念！ミニストップコラボ第２弾開催決定！",
-            "url": "https://www.momoclo.net/archives/news/260312_01"
         }
     ]
 }
