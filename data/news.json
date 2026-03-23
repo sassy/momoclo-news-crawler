@@ -1,6 +1,16 @@
 {
-    "updated": "2026/03/22",
+    "updated": "2026/03/23",
     "news": [
+        {
+            "date": "2026/03/23",
+            "title": "＜スケジュール＞3/23(月)～3/29(日)",
+            "url": "https://www.momoclo.net/archives/news/260323_01"
+        },
+        {
+            "date": "2026/03/22",
+            "title": "『東京ももクロランド』オフィシャルグッズ ラインナップ一部先行発表 & 第1回販売【事前通販】開始決定！",
+            "url": "https://www.momoclo.net/archives/news/260322_01"
+        },
         {
             "date": "2026/03/21",
             "title": "【Audio】『佐々木彩夏の０１００』AE出張版 #37",
@@ -40,16 +50,6 @@
             "date": "2026/03/17",
             "title": "＜AE会員先行受付は3/19(木)18:00開始！＞「HOTEI FES」",
             "url": "https://www.momoclo.net/archives/news/260317_01"
-        },
-        {
-            "date": "2026/03/16",
-            "title": "＜スケジュール＞3/16(月)～3/22(日)",
-            "url": "https://www.momoclo.net/archives/news/260316_01"
-        },
-        {
-            "date": "2026/03/13",
-            "title": "【Movie】「ライブその後に」2026.03.13 玉井詩織「『ジブリをうたう』 コンサート その２」",
-            "url": "https://www.momoclo.net/archives/news/260313_01"
         }
     ]
 }
