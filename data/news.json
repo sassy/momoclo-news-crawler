@@ -1,6 +1,11 @@
 {
-    "updated": "2026/03/23",
+    "updated": "2026/03/24",
     "news": [
+        {
+            "date": "2026/03/23",
+            "title": "【Audio】「舞台その後に」2026.03.23 百田夏菜子「9でカタがつく」",
+            "url": "https://www.momoclo.net/archives/news/260323_02"
+        },
         {
             "date": "2026/03/23",
             "title": "＜スケジュール＞3/23(月)～3/29(日)",
@@ -45,11 +50,6 @@
             "date": "2026/03/18",
             "title": "【百田夏菜子】HYDEさんのニューアルバム『JEKYLL』に収録の「SMILING」Music Videoに百田夏菜子が特別出演！",
             "url": "https://www.momoclo.net/archives/news/260318_02"
-        },
-        {
-            "date": "2026/03/17",
-            "title": "＜AE会員先行受付は3/19(木)18:00開始！＞「HOTEI FES」",
-            "url": "https://www.momoclo.net/archives/news/260317_01"
         }
     ]
 }
