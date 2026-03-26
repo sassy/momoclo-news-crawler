@@ -1,6 +1,21 @@
 {
-    "updated": "2026/03/25",
+    "updated": "2026/03/26",
     "news": [
+        {
+            "date": "2026/03/26",
+            "title": "＜AE先行受付中！～3/31(火)23:59まで＞「東京ももクロランド」",
+            "url": "https://www.momoclo.net/archives/news/260318_03"
+        },
+        {
+            "date": "2026/03/26",
+            "title": "【3/26(木)情報更新！】＜スケジュール＞3/23(月)～3/29(日)",
+            "url": "https://www.momoclo.net/archives/news/260323_01"
+        },
+        {
+            "date": "2026/03/25",
+            "title": "＜2026年2月号発行！＞AE会員様だけのお楽しみ！「MONTHLY PDF」",
+            "url": "https://www.momoclo.net/archives/news/260325_01"
+        },
         {
             "date": "2026/03/25",
             "title": "【英語版をアップしました/English version is now available】高城れにインタビュー掲載！「MONTHLY AE」2月号",
@@ -10,11 +25,6 @@
             "date": "2026/03/23",
             "title": "【Audio】「舞台その後に」2026.03.23 百田夏菜子「9でカタがつく」",
             "url": "https://www.momoclo.net/archives/news/260323_02"
-        },
-        {
-            "date": "2026/03/23",
-            "title": "＜スケジュール＞3/23(月)～3/29(日)",
-            "url": "https://www.momoclo.net/archives/news/260323_01"
         },
         {
             "date": "2026/03/22",
@@ -40,16 +50,6 @@
             "date": "2026/03/19",
             "title": "【Photo Report 更新！】",
             "url": "https://www.momoclo.net/archives/news/260319_01"
-        },
-        {
-            "date": "2026/03/18",
-            "title": "＜詳細発表！AE会員先行受付をご案内！＞「東京ももクロランド」",
-            "url": "https://www.momoclo.net/archives/news/260318_03"
-        },
-        {
-            "date": "2026/03/18",
-            "title": "＜3/19(木)20:00～ チケット販売（先着）スタート＞ももいろクローバーZ VRシアター「MCZ Neo Galaxy Tour -無限の宇宙-」Digest ＠大阪",
-            "url": "https://www.momoclo.net/archives/news/260318_01"
         }
     ]
 }
