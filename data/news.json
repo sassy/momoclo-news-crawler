@@ -1,6 +1,11 @@
 {
-    "updated": "2026/03/26",
+    "updated": "2026/03/27",
     "news": [
+        {
+            "date": "2026/03/26",
+            "title": "玉井詩織 2026年マンスリー企画『with SHIORI』第3弾公開!!",
+            "url": "https://www.momoclo.net/archives/news/260326_01"
+        },
         {
             "date": "2026/03/26",
             "title": "＜AE先行受付中！～3/31(火)23:59まで＞「東京ももクロランド」",
@@ -45,11 +50,6 @@
             "date": "2026/03/20",
             "title": "【Movie】「ライブその後に」2026.03.20 玉井詩織「『ジブリをうたう』 コンサート その２」",
             "url": "https://www.momoclo.net/archives/news/260320_02"
-        },
-        {
-            "date": "2026/03/19",
-            "title": "【Photo Report 更新！】",
-            "url": "https://www.momoclo.net/archives/news/260319_01"
         }
     ]
 }
