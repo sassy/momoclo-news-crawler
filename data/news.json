@@ -1,6 +1,16 @@
 {
-    "updated": "2026/03/29",
+    "updated": "2026/03/30",
     "news": [
+        {
+            "date": "2026/03/30",
+            "title": "＜スケジュール＞3/30(月)～4/5(日)",
+            "url": "https://www.momoclo.net/archives/news/260330_01"
+        },
+        {
+            "date": "2026/03/29",
+            "title": "【Audio】「舞台その後に」2026.03.29 百田夏菜子「9でカタがつく」千秋楽公演",
+            "url": "https://www.momoclo.net/archives/news/260329_01"
+        },
         {
             "date": "2026/03/28",
             "title": "＜3/30(月)20:00頃から＞高城れにインスタライブ配信実施決定！",
@@ -40,16 +50,6 @@
             "date": "2026/03/22",
             "title": "『東京ももクロランド』オフィシャルグッズ ラインナップ一部先行発表 & 第1回販売【事前通販】開始決定！",
             "url": "https://www.momoclo.net/archives/news/260322_01"
-        },
-        {
-            "date": "2026/03/21",
-            "title": "【Audio】『佐々木彩夏の０１００』AE出張版 #37",
-            "url": "https://www.momoclo.net/archives/news/260321_01"
-        },
-        {
-            "date": "2026/03/21",
-            "title": "「ごぶごぶフェス 2026」出演決定！",
-            "url": "https://www.momoclo.net/archives/news/260320_01"
         }
     ]
 }
