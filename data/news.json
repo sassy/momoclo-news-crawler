@@ -1,6 +1,11 @@
 {
-    "updated": "2026/04/01",
+    "updated": "2026/04/02",
     "news": [
+        {
+            "date": "2026/04/01",
+            "title": "【Movie】「ライブその後に」2026.04.01「VS.超特急」",
+            "url": "https://www.momoclo.net/archives/news/260401_02"
+        },
         {
             "date": "2026/04/01",
             "title": "【IC会員証】を紛失された会員様へのご案内：「東京ももクロランド」",
@@ -45,11 +50,6 @@
             "date": "2026/03/26",
             "title": "【3/26(木)情報更新！】＜スケジュール＞3/23(月)～3/29(日)",
             "url": "https://www.momoclo.net/archives/news/260323_01"
-        },
-        {
-            "date": "2026/03/25",
-            "title": "＜2026年2月号発行！＞AE会員様だけのお楽しみ！「MONTHLY PDF」",
-            "url": "https://www.momoclo.net/archives/news/260325_01"
         }
     ]
 }
