@@ -1,6 +1,11 @@
 {
-    "updated": "2026/04/05",
+    "updated": "2026/04/06",
     "news": [
+        {
+            "date": "2026/04/06",
+            "title": "＜スケジュール＞4/6(月)～4/12(日)",
+            "url": "https://www.momoclo.net/archives/news/260406_01"
+        },
         {
             "date": "2026/04/03",
             "title": "【百田夏菜子】初対談集『この道をゆけば』5月18日（月）発売決定！東京・北海道・大阪でトークショーを開催！",
@@ -45,11 +50,6 @@
             "date": "2026/03/26",
             "title": "玉井詩織 2026年マンスリー企画『with SHIORI』第3弾公開!!",
             "url": "https://www.momoclo.net/archives/news/260326_01"
-        },
-        {
-            "date": "2026/03/26",
-            "title": "＜AE先行受付中！～3/31(火)23:59まで＞「東京ももクロランド」",
-            "url": "https://www.momoclo.net/archives/news/260318_03"
         }
     ]
 }
