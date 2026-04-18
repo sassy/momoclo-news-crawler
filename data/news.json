@@ -1,6 +1,11 @@
 {
-    "updated": "2026/04/17",
+    "updated": "2026/04/18",
     "news": [
+        {
+            "date": "2026/04/17",
+            "title": "＜開催決定！AE先行受付開始！＞百田夏菜子「32！SUNNY PARTY〜！！」",
+            "url": "https://www.momoclo.net/archives/news/260417_01"
+        },
         {
             "date": "2026/04/17",
             "title": "＜チケット発売中！＞ももいろクローバーZ VRシアター「MCZ Neo Galaxy Tour -無限の宇宙-」Digest ＠大阪",
@@ -45,11 +50,6 @@
             "date": "2026/04/09",
             "title": "＜一般抽選受付中！～4/13(月)23:59まで＞「東京ももクロランド」",
             "url": "https://www.momoclo.net/archives/news/260409_01"
-        },
-        {
-            "date": "2026/04/08",
-            "title": "＜タイムテーブル公開！＞玉井詩織出演『EARLY SUMMER FESTA 2026-Music and Beer-』",
-            "url": "https://www.momoclo.net/archives/news/260220_01"
         }
     ]
 }
