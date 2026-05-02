@@ -1,10 +1,25 @@
 {
-    "updated": "2026/05/01",
+    "updated": "2026/05/02",
     "news": [
+        {
+            "date": "2026/05/01",
+            "title": "＜当日のしおり＞「ももクロ結成18周年記念イベント 東京ももクロランド」",
+            "url": "https://www.momoclo.net/archives/news/260501_02"
+        },
+        {
+            "date": "2026/05/01",
+            "title": "【百田夏菜子】初対談集『この道をゆけば』5月18日（月）発売決定！",
+            "url": "https://www.momoclo.net/archives/news/260403_01"
+        },
         {
             "date": "2026/05/01",
             "title": "『東京ももクロランド』外周パーク「センダガヤベリーフェス」内 「ケースケ☆ブラックマーケット」&「ケースケ☆ホワイトピクニック」 詳細発表！",
             "url": "https://www.momoclo.net/archives/news/260501_01"
+        },
+        {
+            "date": "2026/05/01",
+            "title": "【5/1(金)情報更新！】＜スケジュール＞4/27(月)～5/3(日・祝)",
+            "url": "https://www.momoclo.net/archives/news/260427_01"
         },
         {
             "date": "2026/04/30",
@@ -35,21 +50,6 @@
             "date": "2026/04/29",
             "title": "＜開催決定！AE先行受付開始！＞高城れに「33 SAMBA to ボンボンDANCE ～まるごとれにちゃん祭り 2026～」",
             "url": "https://www.momoclo.net/archives/news/260429_01"
-        },
-        {
-            "date": "2026/04/28",
-            "title": "『東京ももクロランド』外周パーク「センダガヤベリーフェス・ケースケ☆ブラックマーケット」内はるえ商店 当日物販詳細発表！",
-            "url": "https://www.momoclo.net/archives/news/260428_01"
-        },
-        {
-            "date": "2026/04/28",
-            "title": "【英語版をアップしました/English version is now available】玉井詩織インタビュー掲載！「MONTHLY AE」3月号",
-            "url": "https://www.momoclo.net/archives/news/260331_1"
-        },
-        {
-            "date": "2026/04/27",
-            "title": "『Momoiro Christmas 2025 ODYSSEY』 映像化決定！さらに特報映像公開！",
-            "url": "https://www.momoclo.net/archives/news/260427_02"
         }
     ]
 }
