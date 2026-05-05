@@ -1,6 +1,16 @@
 {
-    "updated": "2026/05/04",
+    "updated": "2026/05/05",
     "news": [
+        {
+            "date": "2026/05/04",
+            "title": "ももいろクローバーZ出演 「Japan Jam 2026」物販情報公開",
+            "url": "https://www.momoclo.net/archives/news/260504_02"
+        },
+        {
+            "date": "2026/05/04",
+            "title": "＜スケジュール＞5/4(月)～5/10(日)",
+            "url": "https://www.momoclo.net/archives/news/260504_01"
+        },
         {
             "date": "2026/05/03",
             "title": "【Movie】「ライブその後に」2026.05.03「ももクロ結成18周年記念イベント 東京ももクロランド」",
@@ -40,16 +50,6 @@
             "date": "2026/04/30",
             "title": "「ももクロ結成18周年記念イベント 東京ももクロランド」開催記念抽選会開催のお知らせ",
             "url": "https://www.momoclo.net/archives/news/260430_04"
-        },
-        {
-            "date": "2026/04/30",
-            "title": "＜AE先行受付中！～5/6(水・祝)23:59まで＞【玉井詩織出演】『COSMIC CIRCUS vol.5』",
-            "url": "https://www.momoclo.net/archives/news/260430_01"
-        },
-        {
-            "date": "2026/04/30",
-            "title": "＜チケット一般発売は5/1(金)13:00から！＞「ケースケ☆アリーナ」in 東京ももクロランド",
-            "url": "https://www.momoclo.net/archives/news/260430_02"
         }
     ]
 }
