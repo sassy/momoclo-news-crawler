@@ -1,6 +1,11 @@
 {
-    "updated": "2026/05/10",
+    "updated": "2026/05/11",
     "news": [
+        {
+            "date": "2026/05/11",
+            "title": "＜スケジュール＞5/11(月)～5/17(日)",
+            "url": "https://www.momoclo.net/archives/news/260511_01"
+        },
         {
             "date": "2026/05/08",
             "title": "【Movie】「ライブその後に」 2026.05.08 「EARLY SUMMER FESTA 2026」",
@@ -45,11 +50,6 @@
             "date": "2026/05/05",
             "title": "【Movie】「ライブその後に」 2026.05.05 「JAPAN JAM 2026」",
             "url": "https://www.momoclo.net/archives/news/260505_01"
-        },
-        {
-            "date": "2026/05/04",
-            "title": "ももいろクローバーZ出演 「Japan Jam 2026」物販情報公開",
-            "url": "https://www.momoclo.net/archives/news/260504_02"
         }
     ]
 }
