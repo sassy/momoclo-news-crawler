@@ -1,15 +1,20 @@
 {
-    "updated": "2026/05/14",
+    "updated": "2026/05/15",
     "news": [
+        {
+            "date": "2026/05/14",
+            "title": "＜５/17(日)19:00からYouTubeで生配信決定＞「6574日目。その先へ行くのだ。」",
+            "url": "https://www.momoclo.net/archives/news/260514_01"
+        },
+        {
+            "date": "2026/05/14",
+            "title": "【5/14(木)情報更新！】＜スケジュール＞5/11(月)～5/17(日)",
+            "url": "https://www.momoclo.net/archives/news/260511_01"
+        },
         {
             "date": "2026/05/13",
             "title": "『東京ももクロランド』日テレポシュレブース販売商品期間＆数量限定で事後販売決定！",
             "url": "https://www.momoclo.net/archives/news/260513_01"
-        },
-        {
-            "date": "2026/05/13",
-            "title": "【5/13(水)情報更新！】＜スケジュール＞5/11(月)～5/17(日)",
-            "url": "https://www.momoclo.net/archives/news/260511_01"
         },
         {
             "date": "2026/05/12",
@@ -45,11 +50,6 @@
             "date": "2026/05/08",
             "title": "＜VIPアップグレードシート抽選申込のご案内＞「HOTEI FES」",
             "url": "https://www.momoclo.net/archives/news/260508_04"
-        },
-        {
-            "date": "2026/05/08",
-            "title": "＜9/19(土)・20(日)・21(月・祝)開催！＞「FEST. INAZUMA 2026」出演決定！",
-            "url": "https://www.momoclo.net/archives/news/260508_01"
         }
     ]
 }
