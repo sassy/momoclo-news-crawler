@@ -1,6 +1,11 @@
 {
-    "updated": "2026/05/30",
+    "updated": "2026/05/31",
     "news": [
+        {
+            "date": "2026/05/30",
+            "title": "【Movie】「ライブその後に」 2026.05.30 「日比谷音楽祭2026 HIBIYA DREAM SESSION 1」",
+            "url": "https://www.momoclo.net/archives/news/260530_01"
+        },
         {
             "date": "2026/05/29",
             "title": "【玉井詩織】＜6/1(月)開催！＞『COSMIC CIRCUS vol.5』 物販情報公開！",
@@ -45,11 +50,6 @@
             "date": "2026/05/27",
             "title": "玉井詩織 2026年マンスリー企画『with SHIORI』第5弾公開!!",
             "url": "https://www.momoclo.net/archives/news/260527_02"
-        },
-        {
-            "date": "2026/05/27",
-            "title": "【5/27(水)情報更新！】佐々⽊彩夏× MK MICHEL KLEIN GOLF",
-            "url": "https://www.momoclo.net/archives/news/260511_02"
         }
     ]
 }
