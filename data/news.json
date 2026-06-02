@@ -1,6 +1,11 @@
 {
-    "updated": "2026/06/01",
+    "updated": "2026/06/02",
     "news": [
+        {
+            "date": "2026/06/01",
+            "title": "【Movie】「ライブその後に」 2026.06.01 「『COSMIC CIRCUS vol.5』PRESENTED BY SPACE SHOWER ENTERTAINMENT PRODUCING」",
+            "url": "https://www.momoclo.net/archives/news/260601_04"
+        },
         {
             "date": "2026/06/01",
             "title": "新曲「会心の一劇」TVアニメ『炎の闘球女 ドッジ弾子』オープニング主題歌に決定！ 一部視聴できるPV公開！",
@@ -45,11 +50,6 @@
             "date": "2026/05/29",
             "title": "＜百田夏菜子 出演決定！＞「ピンク・レディー伝説 今も そして永遠に … Legend, Now and Forever」",
             "url": "https://www.momoclo.net/archives/news/260529_01"
-        },
-        {
-            "date": "2026/05/28",
-            "title": "＜一般抽選受付開始！～5/31(日)23:59まで＞高城れに「33 SAMBA to ボンボンDANCE ～まるごとれにちゃん祭り 2026～」",
-            "url": "https://www.momoclo.net/archives/news/260528_01"
         }
     ]
 }
