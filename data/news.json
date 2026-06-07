@@ -1,6 +1,11 @@
 {
-    "updated": "2026/06/06",
+    "updated": "2026/06/07",
     "news": [
+        {
+            "date": "2026/06/06",
+            "title": "【Movie】「ライブその後に」 2026.06.06「ごぶごぶフェス 2026」",
+            "url": "https://www.momoclo.net/archives/news/260606_01"
+        },
         {
             "date": "2026/06/05",
             "title": "ももいろクローバーZ出演 「ごぶごぶフェス2026」物販情報公開",
@@ -45,11 +50,6 @@
             "date": "2026/05/31",
             "title": "高城れにインタビュー掲載！「MONTHLY AE」5月号",
             "url": "https://www.momoclo.net/archives/news/260531_01"
-        },
-        {
-            "date": "2026/05/30",
-            "title": "【Movie】「ライブその後に」 2026.05.30 「日比谷音楽祭2026 HIBIYA DREAM SESSION 1」",
-            "url": "https://www.momoclo.net/archives/news/260530_01"
         }
     ]
 }
