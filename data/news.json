@@ -1,6 +1,11 @@
 {
-    "updated": "2026/06/10",
+    "updated": "2026/06/11",
     "news": [
+        {
+            "date": "2026/06/10",
+            "title": "＜特別番組配信決定！＞「JAPAN JAM 2026」",
+            "url": "https://www.momoclo.net/archives/news/260204_01"
+        },
         {
             "date": "2026/06/10",
             "title": "【6/10(水)情報更新！】＜スケジュール＞6/8(月)～6/14(日)",
@@ -45,11 +50,6 @@
             "date": "2026/06/01",
             "title": "【Movie】「ライブその後に」 2026.06.01 「『COSMIC CIRCUS vol.5』PRESENTED BY SPACE SHOWER ENTERTAINMENT PRODUCING」",
             "url": "https://www.momoclo.net/archives/news/260601_04"
-        },
-        {
-            "date": "2026/06/01",
-            "title": "新曲「会心の一劇」TVアニメ『炎の闘球女 ドッジ弾子』オープニング主題歌に決定！ 一部視聴できるPV公開！",
-            "url": "https://www.momoclo.net/archives/news/260601_03"
         }
     ]
 }
