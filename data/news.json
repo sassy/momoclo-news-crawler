@@ -1,6 +1,11 @@
 {
-    "updated": "2026/08/14",
+    "updated": "2026/08/15",
     "news": [
+        {
+            "date": "2026/08/14",
+            "title": "【Movie】「ライブその後に」 2026.08.14 『高城れに「33 SAMBA to ボンボンDANCE ～まるごとれにちゃん祭り 2026～」』",
+            "url": "https://www.momoclo.net/archives/news/260814_01"
+        },
         {
             "date": "2026/08/12",
             "title": "＜両部とも当日券販売決定！＞高城れに「33 SAMBA to ボンボンDANCE ～まるごとれにちゃん祭り 2026～」",
@@ -45,11 +50,6 @@
             "date": "2026/08/08",
             "title": "百田夏菜子「32! SUNNY PARTY〜!!」メモリアルオンラインくじ販売決定！",
             "url": "https://www.momoclo.net/archives/news/260808_01"
-        },
-        {
-            "date": "2026/08/07",
-            "title": "＜参加希望受付開始！＞「AYAKA VACATION」",
-            "url": "https://www.momoclo.net/archives/news/260807_01"
         }
     ]
 }
