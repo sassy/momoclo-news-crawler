@@ -1,6 +1,16 @@
 {
-    "updated": "2026/09/06",
+    "updated": "2026/09/07",
     "news": [
+        {
+            "date": "2026/09/07",
+            "title": "＜スケジュール＞9/7(月)～9/13(日)",
+            "url": "https://www.momoclo.net/archives/news/260907_01"
+        },
+        {
+            "date": "2026/09/06",
+            "title": "【Movie】「ライブその後に」 2026.09.06「黒フェス2026〜白黒歌合戦〜」",
+            "url": "https://www.momoclo.net/archives/news/260906_01"
+        },
         {
             "date": "2026/09/04",
             "title": "【Movie】「串カツ田中その後に」 2026.09.04「串カツ田中リブランディング 記者発表会」",
@@ -40,16 +50,6 @@
             "date": "2026/08/31",
             "title": "＜8/31(月)～9/23(水・祝)まで販売!!＞百田夏菜子「32! SUNNY PARTY〜!!」メモリアルオンラインくじ",
             "url": "https://www.momoclo.net/archives/news/260808_01"
-        },
-        {
-            "date": "2026/08/29",
-            "title": "【Movie】「ライブその後に」 2026.08.29「@JAM EXPO 2026 supported by UP-T」",
-            "url": "https://www.momoclo.net/archives/news/260829_01"
-        },
-        {
-            "date": "2026/08/27",
-            "title": "玉井詩織 2026年マンスリー企画『with SHIORI』第8弾公開!!",
-            "url": "https://www.momoclo.net/archives/news/260827_01"
         }
     ]
 }
