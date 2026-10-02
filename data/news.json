@@ -1,6 +1,16 @@
 {
-    "updated": "2026/10/01",
+    "updated": "2026/10/02",
     "news": [
+        {
+            "date": "2026/10/02",
+            "title": "【10/2(金)情報更新：村民立ち見エリア追記】＜お得な村民お試しチケット発売！＞「ももクロ秋の桃神祭2026」",
+            "url": "https://www.momoclo.net/archives/news/260930_01"
+        },
+        {
+            "date": "2026/10/02",
+            "title": "＜チケット情報公開！＞「ながいきフェスタ in 桃神祭」",
+            "url": "https://www.momoclo.net/archives/news/261002_01"
+        },
         {
             "date": "2026/10/01",
             "title": "【佐々木彩夏】＜10/8(木)発売！＞自身初写真集「ぺろり」PR映像・新カット公開！&全国書店でのキャンペーン実施決定！",
@@ -10,11 +20,6 @@
             "date": "2026/09/30",
             "title": "佐々木彩夏インタビュー掲載！「MONTHLY AE」9月号",
             "url": "https://www.momoclo.net/archives/news/260930_02"
-        },
-        {
-            "date": "2026/09/30",
-            "title": "＜お得な村民お試しチケット発売！＞「ももクロ秋の桃神祭2026」",
-            "url": "https://www.momoclo.net/archives/news/260930_01"
         },
         {
             "date": "2026/09/29",
@@ -45,11 +50,6 @@
             "date": "2026/09/27",
             "title": "＜AE先行受付中！～10/12(月・祝)23:59まで＞ニッポン放送 ももいろクローバーＺ ももクロくらぶxoxo ～バレンタイン DE NIGHT だぁ～Ｚ！2027「裏」「表」",
             "url": "https://www.momoclo.net/archives/news/260927_01"
-        },
-        {
-            "date": "2026/09/25",
-            "title": "【高城れに】横浜マラソン2026 応援ゲストに決定しました！",
-            "url": "https://www.momoclo.net/archives/news/260925_01"
         }
     ]
 }
