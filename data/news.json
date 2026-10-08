@@ -1,6 +1,11 @@
 {
-    "updated": "2026/10/07",
+    "updated": "2026/10/08",
     "news": [
+        {
+            "date": "2026/10/08",
+            "title": "＜マッチング受付のご案内＞クリスマスツアー「ももクリDelivery」",
+            "url": "https://www.momoclo.net/archives/news/261008_01"
+        },
         {
             "date": "2026/10/07",
             "title": "＜AE先行受付開始！～10/12(月・祝)23:59まで＞「AYAKA NATION 2026」",
@@ -45,11 +50,6 @@
             "date": "2026/10/03",
             "title": "＜12/14(月)開催！＞高城れに出演「毎日がクリスマス 2026」",
             "url": "https://www.momoclo.net/archives/news/261003_01"
-        },
-        {
-            "date": "2026/10/02",
-            "title": "【10/2(金)情報更新：村民立ち見エリア追記】＜お得な村民お試しチケット発売！＞「ももクロ秋の桃神祭2026」",
-            "url": "https://www.momoclo.net/archives/news/260930_01"
         }
     ]
 }
