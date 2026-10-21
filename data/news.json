@@ -1,6 +1,16 @@
 {
-    "updated": "2026/10/20",
+    "updated": "2026/10/21",
     "news": [
+        {
+            "date": "2026/10/21",
+            "title": "【IC会員証】を紛失された会員様へのご案内：「ももクリDelivery」＜11/22(日)＠新潟公演・11/23(月・祝)＠愛知公演・11/27(金)＠福岡公演・12/3(木)＠北海道公演＞",
+            "url": "https://www.momoclo.net/archives/news/261021_01"
+        },
+        {
+            "date": "2026/10/21",
+            "title": "【10/21(水)情報更新！】＜スケジュール＞10/19(月)～10/25(日)",
+            "url": "https://www.momoclo.net/archives/news/261019_01"
+        },
         {
             "date": "2026/10/20",
             "title": "【玉井詩織】Night TempoさんTUBEカバー企画第2弾「恋すれどGood-Byeはいつも背中合わせ feat. 玉井詩織」配信リリース決定！",
@@ -10,11 +20,6 @@
             "date": "2026/10/19",
             "title": "「HOTEI FES」 映像化決定！",
             "url": "https://www.momoclo.net/archives/news/261019_02"
-        },
-        {
-            "date": "2026/10/19",
-            "title": "＜スケジュール＞10/19(月)～10/25(日)",
-            "url": "https://www.momoclo.net/archives/news/261019_01"
         },
         {
             "date": "2026/10/18",
@@ -45,11 +50,6 @@
             "date": "2026/10/17",
             "title": "【10/17(土)17:30情報更新！】「ももクロ秋の桃神祭2026」開催記念抽選会開催のお知らせ",
             "url": "https://www.momoclo.net/archives/news/261015_04"
-        },
-        {
-            "date": "2026/10/17",
-            "title": "＜10/17(土) DAY1公演ニコ生にて生配信決定!!＞「ももクロ秋の桃神祭2026」",
-            "url": "https://www.momoclo.net/archives/news/261011_01"
         }
     ]
 }
