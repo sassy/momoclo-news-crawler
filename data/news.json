@@ -1,6 +1,16 @@
 {
-    "updated": "2026/11/08",
+    "updated": "2026/11/09",
     "news": [
+        {
+            "date": "2026/11/09",
+            "title": "＜スケジュール＞11/9(月)～11/15(日)",
+            "url": "https://www.momoclo.net/archives/news/261109_01"
+        },
+        {
+            "date": "2026/11/08",
+            "title": "【Movie】「ライブその後に」 2026.11.08「サントリー オールフリー presents 氣志團万博2026 〜房総爆音リゾート〜」",
+            "url": "https://www.momoclo.net/archives/news/261108_01"
+        },
         {
             "date": "2026/11/07",
             "title": "【Movie】「ライブその後に」 2026.11.07「ももクリDelivery 」京都公演",
@@ -40,16 +50,6 @@
             "date": "2026/11/05",
             "title": "ももいろクローバーZ クリスマスツアー2026『ももクリDelivery』オフィシャルグッズ11/6（金）神戸国際会館こくさいホール&11/7（土）ロームシアター京都物販情報のお知らせ",
             "url": "https://www.momoclo.net/archives/news/261105_01"
-        },
-        {
-            "date": "2026/11/05",
-            "title": "【11/5(木)情報更新！】＜スケジュール＞11/2(月)～11/8(日)",
-            "url": "https://www.momoclo.net/archives/news/261102_01"
-        },
-        {
-            "date": "2026/11/02",
-            "title": "【Movie】「ライブその後に」 2026.11.02「ももクリDelivery 」広島公演",
-            "url": "https://www.momoclo.net/archives/news/261102_04"
         }
     ]
 }
