@@ -1,6 +1,11 @@
 {
-    "updated": "2026/11/11",
+    "updated": "2026/11/12",
     "news": [
+        {
+            "date": "2026/11/12",
+            "title": "【Movie】「ライブその後に」 2026.11.12「ももいろインフラーZ 公開収録」",
+            "url": "https://www.momoclo.net/archives/news/261112_01"
+        },
         {
             "date": "2026/11/10",
             "title": "『ももクロ秋の桃神祭2026』 オフィシャルグッズ & コラボグッズ 【事後通販】開始決定！",
@@ -45,11 +50,6 @@
             "date": "2026/11/05",
             "title": "【11/5(木)情報更新！】【ファンクラブ】「ももクリDelivery」11/6(金)兵庫公演／11/7(土)京都公演 ファンクラブブース情報！",
             "url": "https://www.momoclo.net/archives/news/261024_01"
-        },
-        {
-            "date": "2026/11/05",
-            "title": "【Audio】『佐々木彩夏の０１００』AE出張版 #41",
-            "url": "https://www.momoclo.net/archives/news/261105_03"
         }
     ]
 }
