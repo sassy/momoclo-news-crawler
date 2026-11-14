@@ -1,6 +1,11 @@
 {
-    "updated": "2026/11/13",
+    "updated": "2026/11/14",
     "news": [
+        {
+            "date": "2026/11/14",
+            "title": "【Movie】「一日警察署長その後に」 2026.11.14「立川パートナーシップフェスタ2026」",
+            "url": "https://www.momoclo.net/archives/news/261114_01"
+        },
         {
             "date": "2026/11/13",
             "title": "「ももクロポシュレの玉手箱だZ　―ももクロ おせちプロジェクト2027―」放送決定！",
@@ -45,11 +50,6 @@
             "date": "2026/11/06",
             "title": "【Movie】「ライブその後に」 2026.11.06「ももクリDelivery 」兵庫公演",
             "url": "https://www.momoclo.net/archives/news/261106_02"
-        },
-        {
-            "date": "2026/11/06",
-            "title": "＜当日のしおり＞11/6(金)兵庫公演／11/7(土)京都公演「ももクリDelivery」",
-            "url": "https://www.momoclo.net/archives/news/261105_02"
         }
     ]
 }
