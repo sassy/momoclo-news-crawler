@@ -1,6 +1,11 @@
 {
-    "updated": "2026/11/21",
+    "updated": "2026/11/22",
     "news": [
+        {
+            "date": "2026/11/22",
+            "title": "【Movie】「ライブその後に」 2026.11.22「ももクリDelivery 」新潟公演",
+            "url": "https://www.momoclo.net/archives/news/261122_01"
+        },
         {
             "date": "2026/11/21",
             "title": "【Movie】「ライブその後に」 2026.11.21「15th Anniversary テレビ朝日ドリームフェスティバル2026」",
@@ -45,11 +50,6 @@
             "date": "2026/11/19",
             "title": "【11/19(木)情報更新！】【ファンクラブ】「ももクリDelivery」11/22(日)新潟公演／11/23(月・祝)愛知公演 ファンクラブブース情報！",
             "url": "https://www.momoclo.net/archives/news/261024_01"
-        },
-        {
-            "date": "2026/11/18",
-            "title": "ももいろクローバーZ × ナルミヤキャラクターズ コラボラッフルくじ ラインナップ＆販売スケジュール公開！",
-            "url": "https://www.momoclo.net/archives/news/261118_01"
         }
     ]
 }
