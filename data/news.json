@@ -1,15 +1,30 @@
 {
-    "updated": "2026/11/24",
+    "updated": "2026/11/25",
     "news": [
+        {
+            "date": "2026/11/25",
+            "title": "＜メインビジュアル公開！チケット一般発売は11/26(木)18:00開始！＞「AYAKA NATION 2026」",
+            "url": "https://www.momoclo.net/archives/news/261125_02"
+        },
+        {
+            "date": "2026/11/25",
+            "title": "＜FIRST / LAST TRAIN PASSの受付詳細決定！＞「AYAKA NATION 2026」",
+            "url": "https://www.momoclo.net/archives/news/261125_01"
+        },
+        {
+            "date": "2026/11/25",
+            "title": "【11/25(水)情報更新！】【ファンクラブ】「ももクリDelivery」11/27(金)福岡公演ファンクラブブース情報！",
+            "url": "https://www.momoclo.net/archives/news/261024_01"
+        },
+        {
+            "date": "2026/11/25",
+            "title": "【11/25(水)情報更新！】＜スケジュール＞11/23(月・祝)～11/29(日)",
+            "url": "https://www.momoclo.net/archives/news/261123_01"
+        },
         {
             "date": "2026/11/23",
             "title": "【Movie】「ライブその後に」 2026.11.23「ももクリDelivery 」愛知公演",
             "url": "https://www.momoclo.net/archives/news/261123_02"
-        },
-        {
-            "date": "2026/11/23",
-            "title": "＜スケジュール＞11/23(月・祝)～11/29(日)",
-            "url": "https://www.momoclo.net/archives/news/261123_01"
         },
         {
             "date": "2026/11/22",
@@ -35,21 +50,6 @@
             "date": "2026/11/20",
             "title": "日経エンタテインメント！刊行 『ももクロ18』（ももクロ・エイティーン）&日テレポシュレ『ももクロのきりもち！』ももクリツアー各会場にて販売決定！",
             "url": "https://www.momoclo.net/archives/news/261120_04"
-        },
-        {
-            "date": "2026/11/20",
-            "title": "＜アリーナツアー開催！プレオーダー受付は11/25(水)23:59まで！＞「MOMOIRO CLOVER Z ARENA TOUR 2027 “VOGUE AND ROMANCE”」",
-            "url": "https://www.momoclo.net/archives/news/261120_01"
-        },
-        {
-            "date": "2026/11/20",
-            "title": "＜AE会員先行受付は11/25(水)23:59まで！＞「第10回 ももいろ歌合戦」",
-            "url": "https://www.momoclo.net/archives/news/261120_03"
-        },
-        {
-            "date": "2026/11/19",
-            "title": "【11/19(木)情報更新！】＜スケジュール＞11/16(月)～11/22(日)",
-            "url": "https://www.momoclo.net/archives/news/261116_02"
         }
     ]
 }
