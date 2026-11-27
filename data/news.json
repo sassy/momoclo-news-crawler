@@ -1,6 +1,21 @@
 {
-    "updated": "2026/11/26",
+    "updated": "2026/11/27",
     "news": [
+        {
+            "date": "2026/11/27",
+            "title": "【Movie】「ライブその後に」 2026.11.27「ももクリDelivery 」福岡公演",
+            "url": "https://www.momoclo.net/archives/news/261127_03"
+        },
+        {
+            "date": "2026/11/27",
+            "title": "ももいろクローバーＺ 日めくりカレンダー2027 通販開始決定",
+            "url": "https://www.momoclo.net/archives/news/261127_02"
+        },
+        {
+            "date": "2026/11/27",
+            "title": "＜AEイベント開催決定！AE先行受付中～12/1(火)23:59まで＞「2026年度 ANGEL EYES総会」",
+            "url": "https://www.momoclo.net/archives/news/261127_01"
+        },
         {
             "date": "2026/11/26",
             "title": "【英語版をアップしました/English version is now available】玉井詩織インタビュー掲載！「MONTHLY AE」10月号",
@@ -35,21 +50,6 @@
             "date": "2026/11/25",
             "title": "【11/25(水)情報更新！】＜スケジュール＞11/23(月・祝)～11/29(日)",
             "url": "https://www.momoclo.net/archives/news/261123_01"
-        },
-        {
-            "date": "2026/11/23",
-            "title": "【Movie】「ライブその後に」 2026.11.23「ももクリDelivery 」愛知公演",
-            "url": "https://www.momoclo.net/archives/news/261123_02"
-        },
-        {
-            "date": "2026/11/22",
-            "title": "【Movie】「ライブその後に」 2026.11.22「ももクリDelivery 」新潟公演",
-            "url": "https://www.momoclo.net/archives/news/261122_01"
-        },
-        {
-            "date": "2026/11/21",
-            "title": "【Movie】「ライブその後に」 2026.11.21「15th Anniversary テレビ朝日ドリームフェスティバル2026」",
-            "url": "https://www.momoclo.net/archives/news/261121_01"
         }
     ]
 }
